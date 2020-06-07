@@ -43,7 +43,42 @@
   </b-navbar>
 </template>
   <b-container>
-  Lista de muchos articulos!
+
+    	<div>
+	<h2>Catalogo</h2>
+  <ul>
+    <li
+      v-for="producto in catalogo"
+      :key="producto.id">
+      {{ producto.dsc }} - {{ producto.precio }}
+
+      <button
+        @click="agregarAlCarrito(producto)">
+        Agregar al carrito
+      </button>
+
+     </li>
+  </ul>
+
+	<!-- XXX: lo que ya tiene el carrito deberia ir en otro componente -->
+	<h2>Carrito</h2>
+  <ul>
+    <li
+      v-for="(producto, posicion) in carrito"
+      >
+      {{ producto.dsc }}
+
+      <button
+        @click="quitarDelCarrito(posicion)">
+        Quitar
+      </button>
+    </li>
+  </ul>
+	</div>
+    
+    
+    
+    
    </b-container>
  <div>
   <b-navbar type="light" variant="light" fixed="bottom">
@@ -59,9 +94,20 @@
     
 <!-- Start running your app -->
     <script>
+      var ProductosDePrueba= [
+  {id: 1, dsc: "hojas A4", precio: 101.00},
+  {id: 21, dsc: "marcadores", precio: 21.05},
+]; //XXX: mover a store y api
+      
+      
+      
       window.onload = () => {
         new Vue({
-          el: '#app'
+          el: '#app',
+          data () {return{ //U: funcion, devuelve clave-valor con datos que uso
+            catalogo: ProductosDePrueba,
+		        carrito: [],	
+          } }
         })
       }
     </script>
