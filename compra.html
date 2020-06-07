@@ -69,7 +69,7 @@
 	<h2>Articulos agregados</h2>
   <ul>
     <li
-      v-for="(producto, posicion) in carrito"
+      v-for="(producto, posicion) in cartLS"
       >
       {{ producto.name }}
 
@@ -113,7 +113,6 @@
 		agregarAlCarrito: function (que) {
 			console.log("carrito, agregar",  JSON.stringify(que));
 			cartLS.add(que);
-			this.$forceUpdate();
 		},
 		quitarDelCarrito: function (posicion) {
 			console.log("carrito, quitar",posicion);
