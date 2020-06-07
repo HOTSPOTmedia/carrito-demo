@@ -113,7 +113,7 @@
 		agregarAlCarrito: function (que) {
 			console.log("carrito, agregar",  JSON.stringify(que));
 			cartLS.add(que);
-			carrito: cartLS.list();
+			this.$forceUpdate();
 		},
 		quitarDelCarrito: function (posicion) {
 			console.log("carrito, quitar",posicion);
