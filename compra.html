@@ -69,9 +69,9 @@
 	<h2>Articulos agregados</h2>
   <ul>
     <li
-      v-for="(producto, posicion) in cartLS.list()"
+      v-for="(producto, posicion) in carrito"
       >
-      {{ producto.name }}
+      {{ producto.name }} - Cantidad: {{ producto.quantity }}
 
     </li>
   </ul>
@@ -112,6 +112,7 @@
 	methods: { //U: acciones de botones, etc.
 		agregarAlCarrito: function (que) {
 			console.log("carrito, agregar",  JSON.stringify(que));
+			this.carrito.push(que);
 			cartLS.add(que);
 		},
 		quitarDelCarrito: function (posicion) {
