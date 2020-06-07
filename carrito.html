@@ -57,7 +57,7 @@
       {{ producto.name }} - {{ producto.quantity }}
 
       <button
-        @click="quitarDelCarrito(posicion)">
+        @click="quitarDelCarrito(posicion,producto.id)">
         Quitar
       </button>
     </li>
@@ -102,11 +102,12 @@
 			this.carrito.push(que);
 			console.log("carrito agregado",que.dsc, JSON.stringify(this.carrito,1) );
 		},
-		quitarDelCarrito: function (posicion) {
+		quitarDelCarrito: function (posicion, id) {
 			console.log("carrito, quitar",posicion);
 			var que= this.carrito[posicion];
 			this.carrito.splice(posicion,1); //A: eliminar el item en esa posicion
 			console.log("carrito, quitado",posicion, que, JSON.stringify(this.carrito,1) );
+			cartLS.remove(id);
 		}
 	}
   	})
