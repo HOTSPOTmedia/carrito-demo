@@ -101,16 +101,31 @@
       
       
       
-      window.onload = () => {
+  window.onload = () => {
         new Vue({
-          el: '#app',
-          data () {return{ //U: funcion, devuelve clave-valor con datos que uso
+        el: '#app',
+        data () {return{ //U: funcion, devuelve clave-valor con datos que uso
             catalogo: ProductosDePrueba,
 		        carrito: [],	
-          } }
-        })
-      }
-    </script>
+          } },
+	methods: { //U: acciones de botones, etc.
+		agregarAlCarrito: function (que) {
+			console.log("carrito, agregar",que.dsc);
+			this.carrito.push(que);
+			console.log("carrito agregado",que.dsc, JSON.stringify(this.carrito,1) );
+		},
+		quitarDelCarrito: function (posicion) {
+			console.log("carrito, quitar",posicion);
+			var que= this.carrito[posicion];
+			this.carrito.splice(posicion,1); //A: eliminar el item en esa posicion
+			console.log("carrito, quitado",posicion, que, JSON.stringify(this.carrito,1) );
+		}
+	}
+  	})
+  }
+	 
+	  
+</script>
     
 </body>
 </html>
