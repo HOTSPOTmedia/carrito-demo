@@ -57,10 +57,8 @@
       :key="producto.id">
       Producto: {{ producto.name }} - Precio: ${{ producto.price }}
 
-      <button
-        @click="agregarAlCarrito(producto)">
-        Agregar al carrito
-      </button>
+	<button @click="agregarAlCarrito(producto)">+</button>
+	<button @click="restarAlCarrito(producto)">-</button>
 
      </li>
   </ul>
@@ -113,6 +111,11 @@
 		agregarAlCarrito: function (que) {
 			console.log("carrito, agregar",  JSON.stringify(que));
 			cartLS.add(que);
+			this.carrito = cartLS.list();
+		},
+		restarAlCarrito: function (que) {
+			console.log("carrito, restar",  JSON.stringify(que));
+			cartLS.quantity(que.id,-1);
 			this.carrito = cartLS.list();
 		},
 		quitarDelCarrito: function (posicion) {
