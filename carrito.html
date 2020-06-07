@@ -45,22 +45,7 @@
   <b-container>
 
     	<div>
-	<h2>Articulos</h2>
-  <ul>
-    <li
-      v-for="producto in catalogo"
-      :key="producto.id">
-      {{ producto.dsc }} - {{ producto.precio }}
 
-      <button
-        @click="agregarAlCarrito(producto)">
-        Agregar al carrito
-      </button>
-
-     </li>
-  </ul>
-
-	<!-- XXX: lo que ya tiene el carrito deberia ir en otro componente -->
 	<h2>Carrito</h2>
   <ul>
     <li
