@@ -55,7 +55,7 @@
     <li
       v-for="producto in catalogo"
       :key="producto.id">
-      {{ producto.name }} - {{ producto.price }}
+      Producto: {{ producto.name }} - Precio: ${{ producto.price }}
 
       <button
         @click="agregarAlCarrito(producto)">
@@ -73,10 +73,6 @@
       >
       {{ producto.name }}
 
-      <button
-        @click="quitarDelCarrito(posicion)">
-        Quitar
-      </button>
     </li>
   </ul>
 	</div>
@@ -101,7 +97,7 @@
     <script>
       var ProductosDePrueba= [
   {id: 1, name: "P1", price: 1},
-  {id: 2, dsc: "Producto 2", name: "P2", price: 2, precio: 21.05},
+  {id: 2, name: "P2", price: 2},
 ]; //XXX: mover a store y api
       
       
@@ -109,15 +105,13 @@
   window.onload = () => {
         new Vue({
         el: '#app',
-        data () {return{ //U: funcion, devuelve clave-valor con datos que uso
-            catalogo: ProductosDePrueba,
-		        carrito: [],	
+	data () {return{ //U: funcion, devuelve clave-valor con datos que uso
+		catalogo: ProductosDePrueba,
+		carrito: cartLS.list(),	
           } },
 	methods: { //U: acciones de botones, etc.
 		agregarAlCarrito: function (que) {
 			console.log("carrito, agregar",  JSON.stringify(que));
-			this.carrito.push(que);
-			console.log("carrito agregado",que.name, JSON.stringify(this.carrito,1) );
 			cartLS.add(que);
 		},
 		quitarDelCarrito: function (posicion) {
