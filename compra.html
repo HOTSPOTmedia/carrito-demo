@@ -55,7 +55,7 @@
     <li
       v-for="producto in catalogo"
       :key="producto.id">
-      {{ producto.dsc }} - {{ producto.precio }}
+      {{ producto.name }} - {{ producto.price }}
 
       <button
         @click="agregarAlCarrito(producto)">
@@ -71,7 +71,7 @@
     <li
       v-for="(producto, posicion) in carrito"
       >
-      {{ producto.dsc }}
+      {{ producto.name }}
 
       <button
         @click="quitarDelCarrito(posicion)">
@@ -100,7 +100,7 @@
 <!-- Start running your app -->
     <script>
       var ProductosDePrueba= [
-  {id: 1, dsc: "Producto 1", name: "P1", price: 1, precio: 101.00},
+  {id: 1, name: "P1", price: 1},
   {id: 2, dsc: "Producto 2", name: "P2", price: 2, precio: 21.05},
 ]; //XXX: mover a store y api
       
@@ -115,9 +115,9 @@
           } },
 	methods: { //U: acciones de botones, etc.
 		agregarAlCarrito: function (que) {
-			console.log("carrito, agregar", que.dsc);
+			console.log("carrito, agregar", que.name);
 			this.carrito.push(que);
-			console.log("carrito agregado",que.dsc, JSON.stringify(this.carrito,1) );
+			console.log("carrito agregado",que.name, JSON.stringify(this.carrito,1) );
 			cartLS.add(JSON.stringify(que));
 		},
 		quitarDelCarrito: function (posicion) {
