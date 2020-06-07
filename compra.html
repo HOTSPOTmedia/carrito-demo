@@ -118,7 +118,7 @@
 			console.log("carrito, agregar",  JSON.stringify(que));
 			this.carrito.push(que);
 			console.log("carrito agregado",que.name, JSON.stringify(this.carrito,1) );
-			cartLS.add({id: 1, name: "P1", price: 1});
+			cartLS.add({"id": 1, "name": "P1", "price": 1});
 		},
 		quitarDelCarrito: function (posicion) {
 			console.log("carrito, quitar",posicion);
