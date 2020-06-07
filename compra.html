@@ -112,8 +112,8 @@
 	methods: { //U: acciones de botones, etc.
 		agregarAlCarrito: function (que) {
 			console.log("carrito, agregar",  JSON.stringify(que));
-			this.carrito.push(que);
 			cartLS.add(que);
+			this.carrito = cartLS.list();
 		},
 		quitarDelCarrito: function (posicion) {
 			console.log("carrito, quitar",posicion);
