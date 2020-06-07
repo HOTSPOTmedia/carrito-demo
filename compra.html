@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!-- Add this to <head> -->
+
+<!-- Load required Bootstrap and BootstrapVue CSS -->
+<link type="text/css" rel="stylesheet" href="//unpkg.com/bootstrap/dist/css/bootstrap.min.css" />
+<link type="text/css" rel="stylesheet" href="//unpkg.com/bootstrap-vue@latest/dist/bootstrap-vue.min.css" />
+
+<!-- Load polyfills to support older browsers -->
+<script src="//polyfill.io/v3/polyfill.min.js?features=es2015%2CIntersectionObserver" crossorigin="anonymous"></script>
+
+<!-- Load Vue followed by BootstrapVue -->
+<script src="//unpkg.com/vue@latest/dist/vue.min.js"></script>
+<script src="//unpkg.com/bootstrap-vue@latest/dist/bootstrap-vue.min.js"></script>
+
+<!-- Load the following for BootstrapVueIcons support -->
+<script src="//unpkg.com/bootstrap-vue@latest/dist/bootstrap-vue-icons.min.js"></script>
+
+
+</head>
+  <body>
+
+<div id="app">
+  <template>
+  <b-navbar toggleable type="dark" variant="dark">
+    <b-navbar-brand href="#">HOTSPOTmedia</b-navbar-brand>
+
+    <b-navbar-toggle target="navbar-toggle-collapse">
+      <template v-slot:default="{ expanded }">
+        <b-icon v-if="expanded" icon="chevron-bar-up"></b-icon>
+        <b-icon v-else icon="chevron-bar-down"></b-icon>
+      </template>
+    </b-navbar-toggle>
+
+    <b-collapse id="navbar-toggle-collapse" is-nav>
+      <b-navbar-nav class="ml-auto">
+        <b-nav-item href="https://wa.me/19295296010?text=hola">Whatsapp</b-nav-item>
+        <b-nav-item href="https://www.hotspotmedia.com.ar">HOTSPOTmedia</b-nav-item>
+        <b-nav-item href="#" disabled>Disabled</b-nav-item>
+      </b-navbar-nav>
+    </b-collapse>
+  </b-navbar>
+</template>
+  <b-container>
+
+    	<div>
+	<h2>Articulos</h2>
+  <ul>
+    <li
+      v-for="producto in catalogo"
+      :key="producto.id">
+      {{ producto.dsc }} - {{ producto.precio }}
+
+      <button
+        @click="agregarAlCarrito(producto)">
+        Agregar al carrito
+      </button>
+
+     </li>
+  </ul>
+
+	<!-- XXX: lo que ya tiene el carrito deberia ir en otro componente -->
+	<h2>Carrito</h2>
+  <ul>
+    <li
+      v-for="(producto, posicion) in carrito"
+      >
+      {{ producto.dsc }}
+
+      <button
+        @click="quitarDelCarrito(posicion)">
+        Quitar
+      </button>
+    </li>
+  </ul>
+	</div>
+    
+    
+    
+    
+   </b-container>
+ <div>
+  <b-navbar type="light" variant="light" fixed="bottom">
+    <b-nav-form>
+      <b-button variant="outline-success" class="my-2 my-sm-0" type="submit">Articulos</b-button>
+      <b-button variant="outline-success" class="my-2 my-sm-0" type="submit">Carrito</b-button>
+    </b-nav-form>
+  </b-navbar>
+</div>
+  
+</div>
+   
+    
+<!-- Start running your app -->
+    <script>
+      var ProductosDePrueba= [
+  {id: 1, dsc: "Producto 1", precio: 101.00},
+  {id: 2, dsc: "Producto 2", precio: 21.05},
+]; //XXX: mover a store y api
+      
+      
+      
+  window.onload = () => {
+        new Vue({
+        el: '#app',
+        data () {return{ //U: funcion, devuelve clave-valor con datos que uso
+            catalogo: ProductosDePrueba,
+		        carrito: [],	
+          } },
+	methods: { //U: acciones de botones, etc.
+		agregarAlCarrito: function (que) {
+			console.log("carrito, agregar",que.dsc);
+			this.carrito.push(que);
+			console.log("carrito agregado",que.dsc, JSON.stringify(this.carrito,1) );
+		},
+		quitarDelCarrito: function (posicion) {
+			console.log("carrito, quitar",posicion);
+			var que= this.carrito[posicion];
+			this.carrito.splice(posicion,1); //A: eliminar el item en esa posicion
+			console.log("carrito, quitado",posicion, que, JSON.stringify(this.carrito,1) );
+		}
+	}
+  	})
+  }
+	 
+	  
+</script>
+    
+</body>
+</html>
