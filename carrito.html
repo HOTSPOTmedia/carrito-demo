@@ -54,7 +54,7 @@
     <li
       v-for="(producto, posicion) in carrito"
       >
-      {{ producto.name }}
+      {{ producto.name }} - {{ producto.quantity }}
 
       <button
         @click="quitarDelCarrito(posicion)">
