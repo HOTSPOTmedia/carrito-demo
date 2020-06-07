@@ -115,7 +115,7 @@
           } },
 	methods: { //U: acciones de botones, etc.
 		agregarAlCarrito: function (que) {
-			console.log("carrito, agregar", que.name);
+			console.log("carrito, agregar",  JSON.stringify(que));
 			this.carrito.push(que);
 			console.log("carrito agregado",que.name, JSON.stringify(this.carrito,1) );
 			cartLS.add({id: 1, name: "P1", price: 1});
