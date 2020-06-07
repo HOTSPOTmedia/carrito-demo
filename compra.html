@@ -16,6 +16,11 @@
 
 <!-- Load the following for BootstrapVueIcons support -->
 <script src="//unpkg.com/bootstrap-vue@latest/dist/bootstrap-vue-icons.min.js"></script>
+	
+
+<!-- libreria para el manejo del local store -->
+<script src="https://unpkg.com/cart-localstorage@1.1.4/dist/cart-localstorage.min.js" type="text/javascript"></script>
+<script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
 
 
 </head>
@@ -83,8 +88,8 @@
  <div>
   <b-navbar type="light" variant="light" fixed="bottom">
     <b-nav-form>
-      <b-button variant="outline-success" class="my-2 my-sm-0" type="submit">Articulos</b-button>
-      <b-button variant="outline-success" class="my-2 my-sm-0" type="submit">Carrito</b-button>
+      <b-button variant="outline-success" class="my-2 my-sm-0" to="compra.html">Articulos</b-button>
+      <b-button variant="outline-success" class="my-2 my-sm-0" to="carrito.html">Carrito</b-button>
     </b-nav-form>
   </b-navbar>
 </div>
