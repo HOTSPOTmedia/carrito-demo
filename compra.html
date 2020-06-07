@@ -115,10 +115,10 @@
           } },
 	methods: { //U: acciones de botones, etc.
 		agregarAlCarrito: function (que) {
-			console.log("carrito, agregar",que.dsc);
+			console.log("carrito, agregar",JSON.stringify(que));
 			this.carrito.push(que);
 			console.log("carrito agregado",que.dsc, JSON.stringify(this.carrito,1) );
-			cartLS.add(JSON.stringify(que));
+			cartLS.add(que.dsc);
 		},
 		quitarDelCarrito: function (posicion) {
 			console.log("carrito, quitar",posicion);
