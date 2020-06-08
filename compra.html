@@ -51,8 +51,6 @@
   </b-navbar>
 
   
-	
-	 <div>
     		<b-table striped hover :items="catalogo" :fields="campos">
 		      <template v-slot:cell(Agregar)="row">
 			<b-button size="sm" @click="agregarAlCarrito(row.item)" class="mr-2">
@@ -60,7 +58,7 @@
         		</b-button>
 			</template>
 		 </b-table>
-  	</div>
+
     
 <b-alert
       :show="dismissCountDown"
