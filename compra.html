@@ -51,19 +51,7 @@
     </b-collapse>
   </b-navbar>
 </div>
-
 	
-<div>  
-    		<b-table striped hover :items="catalogo" :fields="campos">
-		      <template v-slot:cell(Agregar)="row">
-			<b-button size="sm" @click="agregarAlCarrito(row.item)" class="mr-2">
-          		Agregar a mi carrito.
-        		</b-button>
-			</template>
-		 </b-table>
-</div>
-
-
 <div>
 <b-navbar type="light" variant="light" fixed="bottom">
     <b-nav-form>
@@ -83,8 +71,18 @@
     </b-nav-form>
   </b-navbar>
 </div>
+
+	
+<div>  
+    		<b-table striped hover :items="catalogo" :fields="campos">
+		      <template v-slot:cell(Agregar)="row">
+			<b-button size="sm" @click="agregarAlCarrito(row.item)" class="mr-2">
+          		Agregar a mi carrito.
+        		</b-button>
+			</template>
+		 </b-table>
+</div>
   
-	  
 </template>
 </b-container>
 </div>
