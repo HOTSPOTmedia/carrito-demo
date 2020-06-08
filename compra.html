@@ -51,15 +51,6 @@
     </b-collapse>
   </b-navbar>
 </div>
-<div>  
-    		<b-table striped hover :items="catalogo" :fields="campos">
-		      <template v-slot:cell(Agregar)="row">
-			<b-button size="sm" @click="agregarAlCarrito(row.item)" class="mr-2">
-          		Agregar a mi carrito.
-        		</b-button>
-			</template>
-		 </b-table>
-</div>
 <div>    
 <b-alert
       :show="dismissCountDown"
@@ -71,6 +62,17 @@
       Articulo agregado.
     </b-alert>
 </div>
+	
+<div>  
+    		<b-table striped hover :items="catalogo" :fields="campos">
+		      <template v-slot:cell(Agregar)="row">
+			<b-button size="sm" @click="agregarAlCarrito(row.item)" class="mr-2">
+          		Agregar a mi carrito.
+        		</b-button>
+			</template>
+		 </b-table>
+</div>
+
 
 <div>
 <b-navbar type="light" variant="light" fixed="bottom">
