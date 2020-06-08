@@ -158,7 +158,7 @@
 			console.log("carrito, agregar",  JSON.stringify(que));
 			cartLS.add(que);
 			this.carrito = cartLS.list();
-			this.dismissCountDown = dismissSecs;
+			this.dismissCountDown = this.dismissSecs;
 		},
 		restarAlCarrito: function (que) {
 			console.log("carrito, restar",  JSON.stringify(que));
