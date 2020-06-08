@@ -51,17 +51,7 @@
     </b-collapse>
   </b-navbar>
 </div>
-<div>    
-<b-alert
-      :show="dismissCountDown"
-      dismissible
-      fade
-      variant="warning"
-      @dismiss-count-down="countDownChanged"	
-    >
-      Articulo agregado.
-    </b-alert>
-</div>
+
 	
 <div>  
     		<b-table striped hover :items="catalogo" :fields="campos">
@@ -79,6 +69,17 @@
     <b-nav-form>
       <b-button variant="success" class="my-2 my-sm-0" to="compra.html">Articulos</b-button>
       <b-button variant="outline-success" class="my-2 my-sm-0" to="carrito.html">Carrito</b-button>
+<div>    
+<b-alert
+      :show="dismissCountDown"
+      dismissible
+      fade
+      variant="warning"
+      @dismiss-count-down="countDownChanged"	
+    >
+      Articulo agregado.
+    </b-alert>
+</div>
     </b-nav-form>
   </b-navbar>
 </div>
