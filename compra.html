@@ -49,7 +49,7 @@
       </b-navbar-nav>
     </b-collapse>
   </b-navbar>
-</template>
+
   
 	
 	 <div>
@@ -61,7 +61,8 @@
 			</template>
 		 </b-table>
   	</div>
-    <b-alert
+    
+<b-alert
       :show="dismissCountDown"
       dismissible
       fade
@@ -70,18 +71,19 @@
     >
       Articulo agregado.
     </b-alert>
- <div>
-  <b-navbar type="light" variant="light" fixed="bottom">
+
+<b-navbar type="light" variant="light" fixed="bottom">
     <b-nav-form>
       <b-button variant="success" class="my-2 my-sm-0" to="compra.html">Articulos</b-button>
       <b-button variant="outline-success" class="my-2 my-sm-0" to="carrito.html">Carrito</b-button>
     </b-nav-form>
   </b-navbar>
-</div>
-  
-</div>	  
-</b-container>
 
+  
+	  
+</template>
+</b-container>
+</div>
    
     
 <!-- Start running your app -->
