@@ -52,6 +52,19 @@
     	<div>
 
 	<h2>Carrito</h2>
+
+    		<b-table striped hover :items="carrito" :fields="campos">
+		      <template v-slot:cell(cantidad)="row">
+			<b-button size="sm" @click="agregarAlCarrito(row.item)" class="mr-2">
+          		+
+        		</b-button>
+			 Cant
+			<b-button size="sm" @click="restarAlCarrito(row.item)" class="mr-2">
+          		-
+        		</b-button>
+			</template>
+		 </b-table>		
+		
   <ul>
     <li
       v-for="(producto, posicion) in carrito"
@@ -97,7 +110,8 @@
         el: '#app',
         data () {return{ //U: funcion, devuelve clave-valor con datos que uso
 		catalogo: ProductosDePrueba,
-		carrito: cartLS.list(),	
+		carrito: cartLS.list(),
+		campos: ['name', 'quantity', 'cantidad'],
           } },
 	methods: { //U: acciones de botones, etc.
 		agregarAlCarrito: function (que) {
