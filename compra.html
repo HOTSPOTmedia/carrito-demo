@@ -64,20 +64,7 @@
   	</div>
 
     	<div>
-	<h2>Articulos</h2>
-  <ul>
-    <li
-      v-for="producto in catalogo"
-      :key="producto.id">
-      Producto: {{ producto.name }} - Precio: ${{ producto.price }}
 
-	<button @click="agregarAlCarrito(producto)">+</button>
-	<button @click="restarAlCarrito(producto)">-</button>
-
-     </li>
-  </ul>
-
-	<!-- XXX: lo que ya tiene el carrito deberia ir en otro componente -->
 	<h2>Articulos en el carrito</h2>
   <ul>
     <li
