@@ -167,7 +167,7 @@
 		agregarAlCarrito: function (que) {
 			console.log("carrito, agregar",  JSON.stringify(que));
 			cartLS.add(que);
-			item = JSON.stringify(que.name);
+			item = que.name;
 			this.carrito = cartLS.list();
 			this.dismissCountDown = this.dismissSecs;
 		},
