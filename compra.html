@@ -31,6 +31,7 @@
 <div id="app">
 <b-container>
 <template>
+<div>
   <b-navbar toggleable type="dark" variant="dark">
     <b-navbar-brand href="#">HOTSPOTmedia</b-navbar-brand>
 
@@ -49,8 +50,8 @@
       </b-navbar-nav>
     </b-collapse>
   </b-navbar>
-
-  
+</div>
+<div>  
     		<b-table striped hover :items="catalogo" :fields="campos">
 		      <template v-slot:cell(Agregar)="row">
 			<b-button size="sm" @click="agregarAlCarrito(row.item)" class="mr-2">
@@ -58,8 +59,8 @@
         		</b-button>
 			</template>
 		 </b-table>
-
-    
+</div>
+<div>    
 <b-alert
       :show="dismissCountDown"
       dismissible
@@ -69,14 +70,16 @@
     >
       Articulo agregado.
     </b-alert>
+</div>
 
+<div>
 <b-navbar type="light" variant="light" fixed="bottom">
     <b-nav-form>
       <b-button variant="success" class="my-2 my-sm-0" to="compra.html">Articulos</b-button>
       <b-button variant="outline-success" class="my-2 my-sm-0" to="carrito.html">Carrito</b-button>
     </b-nav-form>
   </b-navbar>
-
+</div>
   
 	  
 </template>
