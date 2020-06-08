@@ -161,13 +161,13 @@
 		campos: ['name', 'price', 'Agregar'],
 		dismissSecs: 5,
         	dismissCountDown: 0,
-		item: '111',
+		item: '',
           } },
 	methods: { //U: acciones de botones, etc.
 		agregarAlCarrito: function (que) {
 			console.log("carrito, agregar",  JSON.stringify(que));
 			cartLS.add(que);
-			item = que.name;
+			this.item = que.name;
 			this.carrito = cartLS.list();
 			this.dismissCountDown = this.dismissSecs;
 		},
