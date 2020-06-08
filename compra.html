@@ -150,13 +150,15 @@
 		catalogo: ProductosDePrueba,
 		carrito: cartLS.list(),
 		campos: ['name', 'price', 'Agregar'],
+		dismissSecs: 5,
+        	dismissCountDown: 0,
           } },
 	methods: { //U: acciones de botones, etc.
 		agregarAlCarrito: function (que) {
 			console.log("carrito, agregar",  JSON.stringify(que));
 			cartLS.add(que);
 			this.carrito = cartLS.list();
-			this.dismissCountDown = 5;
+			this.dismissCountDown = dismissSecs;
 		},
 		restarAlCarrito: function (que) {
 			console.log("carrito, restar",  JSON.stringify(que));
@@ -170,7 +172,7 @@
 			console.log("carrito, quitado",posicion, que, JSON.stringify(this.carrito,1) );
 		},
 		countDownChanged(dismissCountDown) {
-        		this.dismissCountDown = 0;
+        		this.dismissCountDown = dismissCountDown;
  	     	}
 
 	}
