@@ -52,9 +52,11 @@
 	
 	 <div>
     		<b-table striped hover :items="catalogo" :fields="campos">
-		       <b-button size="sm" @click="agregarAlCarrito(producto)" class="mr-2">
+		      <template v-slot:cell(show_details)="row">
+			<b-button size="sm" @click="agregarAlCarrito(producto)" class="mr-2">
           		+
         		</b-button>
+			</template>
 		 </b-table>
   	</div>
 
