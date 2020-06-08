@@ -55,7 +55,7 @@
 
     		<b-table striped hover :items="carrito" :fields="campos">
 		      <template v-slot:cell(cantidad)="row">
-			<b-button size="sm" @click="agregarAlCarrito(row.item)" class="mr-2">
+			<b-button size="sm" @click="sumarAlCarrito(row.item)" class="mr-2">
           		+
         		</b-button>
 			 Cant
@@ -98,10 +98,6 @@
     
 <!-- Start running your app -->
     <script>
-      var ProductosDePrueba= [
-  {id: 1, dsc: "Producto 1", precio: 101.00},
-  {id: 2, dsc: "Producto 2", precio: 21.05},
-]; //XXX: mover a store y api
       
       
       
@@ -109,15 +105,19 @@
         new Vue({
         el: '#app',
         data () {return{ //U: funcion, devuelve clave-valor con datos que uso
-		catalogo: ProductosDePrueba,
 		carrito: cartLS.list(),
 		campos: ['name', 'quantity', 'cantidad'],
           } },
 	methods: { //U: acciones de botones, etc.
-		agregarAlCarrito: function (que) {
-			console.log("carrito, agregar",que.dsc);
-			this.carrito.push(que);
-			console.log("carrito agregado",que.dsc, JSON.stringify(this.carrito,1) );
+		sumarAlCarrito: function (que) {
+			console.log("carrito, agregar",  JSON.stringify(que));
+			cartLS.add(que);
+			this.carrito = cartLS.list();
+		},
+		restarAlCarrito: function (que) {
+			console.log("carrito, restar",  JSON.stringify(que));
+			cartLS.quantity(que.id,-1);
+			this.carrito = cartLS.list();
 		},
 		quitarDelCarrito: function (posicion, id) {
 			console.log("carrito, quitar",posicion);
