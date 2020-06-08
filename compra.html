@@ -59,7 +59,15 @@
 			</template>
 		 </b-table>
   	</div>
-
+    <b-alert
+      :show="dismissCountDown"
+      dismissible
+      fade
+      variant="warning"
+      @dismiss-count-down="countDownChanged"	
+    >
+      Articulo agregado.
+    </b-alert>
    </b-container>
  <div>
   <b-navbar type="light" variant="light" fixed="bottom">
@@ -148,6 +156,7 @@
 			console.log("carrito, agregar",  JSON.stringify(que));
 			cartLS.add(que);
 			this.carrito = cartLS.list();
+			this.dismissCountDown = 5;
 		},
 		restarAlCarrito: function (que) {
 			console.log("carrito, restar",  JSON.stringify(que));
@@ -159,7 +168,11 @@
 			var que= this.carrito[posicion];
 			this.carrito.splice(posicion,1); //A: eliminar el item en esa posicion
 			console.log("carrito, quitado",posicion, que, JSON.stringify(this.carrito,1) );
-		}
+		},
+		countDownChanged(dismissCountDown) {
+        		this.dismissCountDown = 0;
+ 	     	},
+
 	}
   	})
   }
