@@ -27,8 +27,10 @@
 </head>
   <body>
 
+
 <div id="app">
-  <template>
+<b-container>
+<template>
   <b-navbar toggleable type="dark" variant="dark">
     <b-navbar-brand href="#">HOTSPOTmedia</b-navbar-brand>
 
@@ -48,7 +50,7 @@
     </b-collapse>
   </b-navbar>
 </template>
-  <b-container>
+  
 	
 	 <div>
     		<b-table striped hover :items="catalogo" :fields="campos">
@@ -68,7 +70,6 @@
     >
       Articulo agregado.
     </b-alert>
-   </b-container>
  <div>
   <b-navbar type="light" variant="light" fixed="bottom">
     <b-nav-form>
@@ -78,7 +79,9 @@
   </b-navbar>
 </div>
   
-</div>
+</div>	  
+</b-container>
+
    
     
 <!-- Start running your app -->
