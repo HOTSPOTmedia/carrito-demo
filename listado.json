@@ -1,0 +1,7514 @@
+[
+  {
+    "codigo": 7593,
+    "nombre": "EQUIPOS DIGITALES"
+  },
+  {
+    "codigo": 9554,
+    "nombre": "REPUESTO AROMATIZADOR AMBAR"
+  },
+  {
+    "codigo": 9342,
+    "nombre": "REPUESTO AROMATIZADOR ODORITE"
+  },
+  {
+    "codigo": 9283,
+    "nombre": "REPUESTO AROMATIZADOR SHAPIRUS"
+  },
+  {
+    "codigo": 7590,
+    "nombre": "REPUESTO AROMATIZADOR SWEET SENSATION"
+  },
+  {
+    "codigo": 7586,
+    "nombre": "BANDEJAS DE CARTÓN SATINADAS x 600 Unid. N° 5"
+  },
+  {
+    "codigo": 7575,
+    "nombre": "BANDEJAS DE CARTÓN SATINADAS x100 Unid. N° 1"
+  },
+  {
+    "codigo": 7576,
+    "nombre": "BANDEJAS DE CARTÓN SATINADAS x100 Unid. N° 2"
+  },
+  {
+    "codigo": 7577,
+    "nombre": "BANDEJAS DE CARTÓN SATINADAS x100 Unid. N° 3"
+  },
+  {
+    "codigo": 7578,
+    "nombre": "BANDEJAS DE CARTÓN SATINADAS x100 Unid. N° 4"
+  },
+  {
+    "codigo": 7579,
+    "nombre": "BANDEJAS DE CARTÓN SATINADAS x100 Unid. N° 5"
+  },
+  {
+    "codigo": 7580,
+    "nombre": "BANDEJAS DE CARTÓN SATINADAS x100 Unid. N° 6"
+  },
+  {
+    "codigo": 7581,
+    "nombre": "BANDEJAS DE CARTÓN SATINADAS x100 Unid. N° 7"
+  },
+  {
+    "codigo": 7584,
+    "nombre": "BANDEJAS DE CARTÓN SATINADAS x1200 Unid.  N° 3"
+  },
+  {
+    "codigo": 7582,
+    "nombre": "BANDEJAS DE CARTÓN SATINADAS x1500 Unid.  N° 1"
+  },
+  {
+    "codigo": 7583,
+    "nombre": "BANDEJAS DE CARTÓN SATINADAS x1500 Unid.  N° 2"
+  },
+  {
+    "codigo": 7588,
+    "nombre": "BANDEJAS DE CARTÓN SATINADAS x400 Unid.  N° 7"
+  },
+  {
+    "codigo": 7585,
+    "nombre": "BANDEJAS DE CARTÓN SATINADAS x600 Unid.  N° 4"
+  },
+  {
+    "codigo": 7587,
+    "nombre": "BANDEJAS DE CARTÓN SATINADAS x600 Unid.  N° 6"
+  },
+  {
+    "codigo": 9559,
+    "nombre": "BANDEJA 101 MICRO COTNYL * 100 UNI"
+  },
+  {
+    "codigo": 9560,
+    "nombre": "BANDEJA 101 MICRO COTNYL * 1500 UNI"
+  },
+  {
+    "codigo": 9561,
+    "nombre": "BANDEJA MICRO COTNYL 102 X 100 UNI"
+  },
+  {
+    "codigo": 9562,
+    "nombre": "BANDEJA MICRO COTNYL 102 X 1200 UNI"
+  },
+  {
+    "codigo": 9618,
+    "nombre": "BANDEJA MICRO COTNYL 102*100"
+  },
+  {
+    "codigo": 9563,
+    "nombre": "BANDEJA MICRO COTNYL 103 X 100 UNI"
+  },
+  {
+    "codigo": 9564,
+    "nombre": "BANDEJA MICRO COTNYL 103 X 1000 UNI"
+  },
+  {
+    "codigo": 9565,
+    "nombre": "BANDEJA MICRO COTNYL 105 RECT * 100 UNI"
+  },
+  {
+    "codigo": 9566,
+    "nombre": "BANDEJA MICRO COTNYL 105 RECT * 600 UNI"
+  },
+  {
+    "codigo": 9570,
+    "nombre": "TAPA BANDEJA COTNYL 103 * 100 UNIDADES"
+  },
+  {
+    "codigo": 9571,
+    "nombre": "TAPA BANDEJA COTNYL 103 * 500 UNIDADES"
+  },
+  {
+    "codigo": 9572,
+    "nombre": "TAPA BANDEJA COTNYL 105 * 100  UNIDADES"
+  },
+  {
+    "codigo": 9573,
+    "nombre": "TAPA BANDEJA COTNYL 105 * 300  UNIDADES"
+  },
+  {
+    "codigo": 9617,
+    "nombre": "TAPA BANDEJA MICRO 102 COTNYL *100"
+  },
+  {
+    "codigo": 9568,
+    "nombre": "TAPA MICRO COTNYL 101 * 100 UNI"
+  },
+  {
+    "codigo": 9567,
+    "nombre": "TAPA MICRO COTNYL 101 * 1500 UNI"
+  },
+  {
+    "codigo": 9569,
+    "nombre": "TAPA MICRO COTNYL 102 * 600 UNI"
+  },
+  {
+    "codigo": 7472,
+    "nombre": "BANDEJAS DE ALUMINIO C - 200 X 10 UNID"
+  },
+  {
+    "codigo": 7501,
+    "nombre": "BANDEJAS DE ALUMINIO C - 200 X 100 U"
+  },
+  {
+    "codigo": 7530,
+    "nombre": "BANDEJAS DE ALUMINIO C - 200 X 200 U"
+  },
+  {
+    "codigo": 7443,
+    "nombre": "BANDEJAS DE ALUMINIO C - 200 X UNID"
+  },
+  {
+    "codigo": 7467,
+    "nombre": "BANDEJAS DE ALUMINIO E X 10 UNID"
+  },
+  {
+    "codigo": 7496,
+    "nombre": "BANDEJAS DE ALUMINIO E X 100 U"
+  },
+  {
+    "codigo": 7525,
+    "nombre": "BANDEJAS DE ALUMINIO E X 300 U"
+  },
+  {
+    "codigo": 7438,
+    "nombre": "BANDEJAS DE ALUMINIO E X UNID"
+  },
+  {
+    "codigo": 7470,
+    "nombre": "BANDEJAS DE ALUMINIO F - 100 X 10 UNID"
+  },
+  {
+    "codigo": 7499,
+    "nombre": "BANDEJAS DE ALUMINIO F - 100 X 100 U"
+  },
+  {
+    "codigo": 7528,
+    "nombre": "BANDEJAS DE ALUMINIO F - 100 X 400 U"
+  },
+  {
+    "codigo": 7441,
+    "nombre": "BANDEJAS DE ALUMINIO F - 100 X UNID"
+  },
+  {
+    "codigo": 7471,
+    "nombre": "BANDEJAS DE ALUMINIO F - 200 X 10 UNID"
+  },
+  {
+    "codigo": 7500,
+    "nombre": "BANDEJAS DE ALUMINIO F - 200 X 100 U"
+  },
+  {
+    "codigo": 7529,
+    "nombre": "BANDEJAS DE ALUMINIO F - 200 X 300 U"
+  },
+  {
+    "codigo": 7442,
+    "nombre": "BANDEJAS DE ALUMINIO F - 200 X UNID"
+  },
+  {
+    "codigo": 7468,
+    "nombre": "BANDEJAS DE ALUMINIO F - 50 X 10 UNID"
+  },
+  {
+    "codigo": 7497,
+    "nombre": "BANDEJAS DE ALUMINIO F - 50 X 100 U"
+  },
+  {
+    "codigo": 7526,
+    "nombre": "BANDEJAS DE ALUMINIO F - 50 X 900  U"
+  },
+  {
+    "codigo": 7439,
+    "nombre": "BANDEJAS DE ALUMINIO F - 50 X UNID"
+  },
+  {
+    "codigo": 7469,
+    "nombre": "BANDEJAS DE ALUMINIO F - 75 X 10 UNID"
+  },
+  {
+    "codigo": 7498,
+    "nombre": "BANDEJAS DE ALUMINIO F - 75 X 100 U"
+  },
+  {
+    "codigo": 7527,
+    "nombre": "BANDEJAS DE ALUMINIO F - 75 X 1000 U"
+  },
+  {
+    "codigo": 7440,
+    "nombre": "BANDEJAS DE ALUMINIO F - 75 X UNID"
+  },
+  {
+    "codigo": 7466,
+    "nombre": "BANDEJAS DE ALUMINIO P - 0 X 10 UNID"
+  },
+  {
+    "codigo": 7495,
+    "nombre": "BANDEJAS DE ALUMINIO P - 0 X 100 U"
+  },
+  {
+    "codigo": 7524,
+    "nombre": "BANDEJAS DE ALUMINIO P - 0 X 300 U"
+  },
+  {
+    "codigo": 7437,
+    "nombre": "BANDEJAS DE ALUMINIO P - 0 X UNID"
+  },
+  {
+    "codigo": 7459,
+    "nombre": "BANDEJAS DE ALUMINIO P - 14 ALTA X 10 UNID"
+  },
+  {
+    "codigo": 7488,
+    "nombre": "BANDEJAS DE ALUMINIO P - 14 ALTA X 100 U"
+  },
+  {
+    "codigo": 7517,
+    "nombre": "BANDEJAS DE ALUMINIO P - 14 ALTA X 1000U"
+  },
+  {
+    "codigo": 7430,
+    "nombre": "BANDEJAS DE ALUMINIO P - 14 ALTA X UNID"
+  },
+  {
+    "codigo": 7458,
+    "nombre": "BANDEJAS DE ALUMINIO P - 15 BAJA X 10 UNID"
+  },
+  {
+    "codigo": 7487,
+    "nombre": "BANDEJAS DE ALUMINIO P - 15 BAJA X 100 U"
+  },
+  {
+    "codigo": 7516,
+    "nombre": "BANDEJAS DE ALUMINIO P - 15 BAJA X 500 U"
+  },
+  {
+    "codigo": 7429,
+    "nombre": "BANDEJAS DE ALUMINIO P - 15 BAJA X UNID"
+  },
+  {
+    "codigo": 7460,
+    "nombre": "BANDEJAS DE ALUMINIO P - 17 X 10 UNID"
+  },
+  {
+    "codigo": 7489,
+    "nombre": "BANDEJAS DE ALUMINIO P - 17 X 100 U"
+  },
+  {
+    "codigo": 7518,
+    "nombre": "BANDEJAS DE ALUMINIO P - 17 X 900 U"
+  },
+  {
+    "codigo": 7431,
+    "nombre": "BANDEJAS DE ALUMINIO P - 17 X UNID"
+  },
+  {
+    "codigo": 7461,
+    "nombre": "BANDEJAS DE ALUMINIO P - 20 X 10 UNID"
+  },
+  {
+    "codigo": 7490,
+    "nombre": "BANDEJAS DE ALUMINIO P - 20 X 100 U"
+  },
+  {
+    "codigo": 7519,
+    "nombre": "BANDEJAS DE ALUMINIO P - 20 X 600 U"
+  },
+  {
+    "codigo": 7432,
+    "nombre": "BANDEJAS DE ALUMINIO P - 20 X UNID"
+  },
+  {
+    "codigo": 7462,
+    "nombre": "BANDEJAS DE ALUMINIO P - 23 X 10 UNID"
+  },
+  {
+    "codigo": 7491,
+    "nombre": "BANDEJAS DE ALUMINIO P - 23 X 100 U"
+  },
+  {
+    "codigo": 7520,
+    "nombre": "BANDEJAS DE ALUMINIO P - 23 X 300U"
+  },
+  {
+    "codigo": 7433,
+    "nombre": "BANDEJAS DE ALUMINIO P - 23 X UNID"
+  },
+  {
+    "codigo": 7463,
+    "nombre": "BANDEJAS DE ALUMINIO P - 26 X 10 UNID"
+  },
+  {
+    "codigo": 7492,
+    "nombre": "BANDEJAS DE ALUMINIO P - 26 X 100 U"
+  },
+  {
+    "codigo": 7521,
+    "nombre": "BANDEJAS DE ALUMINIO P - 26 X 300 U"
+  },
+  {
+    "codigo": 7434,
+    "nombre": "BANDEJAS DE ALUMINIO P - 26 X UNID"
+  },
+  {
+    "codigo": 7464,
+    "nombre": "BANDEJAS DE ALUMINIO P - 30 X 10 UNID"
+  },
+  {
+    "codigo": 7493,
+    "nombre": "BANDEJAS DE ALUMINIO P - 30 X 100 U"
+  },
+  {
+    "codigo": 7522,
+    "nombre": "BANDEJAS DE ALUMINIO P - 30 X 300 U"
+  },
+  {
+    "codigo": 7435,
+    "nombre": "BANDEJAS DE ALUMINIO P - 30 X UNID"
+  },
+  {
+    "codigo": 7465,
+    "nombre": "BANDEJAS DE ALUMINIO P - 33 X 10 UNID"
+  },
+  {
+    "codigo": 7523,
+    "nombre": "BANDEJAS DE ALUMINIO P - 33 X 100 U"
+  },
+  {
+    "codigo": 7494,
+    "nombre": "BANDEJAS DE ALUMINIO P - 33 X 100 U"
+  },
+  {
+    "codigo": 7436,
+    "nombre": "BANDEJAS DE ALUMINIO P - 33 X UNID"
+  },
+  {
+    "codigo": 7455,
+    "nombre": "CENICEROS DE ALUMINIO X  UNID."
+  },
+  {
+    "codigo": 7484,
+    "nombre": "CENICEROS DE ALUMINIO X 10 UNID."
+  },
+  {
+    "codigo": 7513,
+    "nombre": "CENICEROS DE ALUMINIO X 100 UNID."
+  },
+  {
+    "codigo": 7542,
+    "nombre": "CENICEROS DE ALUMINIO X 500 UNID."
+  },
+  {
+    "codigo": 7476,
+    "nombre": "MOLDE DE ALUMINIO BUDIN INDIVIDUAL X 10 UNID"
+  },
+  {
+    "codigo": 7505,
+    "nombre": "MOLDE DE ALUMINIO BUDIN INDIVIDUAL X 100 U"
+  },
+  {
+    "codigo": 7534,
+    "nombre": "MOLDE DE ALUMINIO BUDIN INDIVIDUAL X 1000 U"
+  },
+  {
+    "codigo": 7447,
+    "nombre": "MOLDE DE ALUMINIO BUDIN INDIVIDUAL X UNID"
+  },
+  {
+    "codigo": 7478,
+    "nombre": "MOLDE DE ALUMINIO BUDIN PARA 1 Kg. X 10 UNID"
+  },
+  {
+    "codigo": 7507,
+    "nombre": "MOLDE DE ALUMINIO BUDIN PARA 1 Kg. X 100 U"
+  },
+  {
+    "codigo": 7536,
+    "nombre": "MOLDE DE ALUMINIO BUDIN PARA 1 Kg. X 200 U"
+  },
+  {
+    "codigo": 7449,
+    "nombre": "MOLDE DE ALUMINIO BUDIN PARA 1 Kg. X UNID"
+  },
+  {
+    "codigo": 7477,
+    "nombre": "MOLDE DE ALUMINIO BUDIN PARA ½ Kg. X 10 UNID"
+  },
+  {
+    "codigo": 7506,
+    "nombre": "MOLDE DE ALUMINIO BUDIN PARA ½ Kg. X 100 U"
+  },
+  {
+    "codigo": 7535,
+    "nombre": "MOLDE DE ALUMINIO BUDIN PARA ½ Kg. X 800 U"
+  },
+  {
+    "codigo": 7448,
+    "nombre": "MOLDE DE ALUMINIO BUDIN PARA ½ Kg. X UNID"
+  },
+  {
+    "codigo": 7486,
+    "nombre": "MOLDE PAN DULCE ALUMINIO 1 KG. X 10 UNID"
+  },
+  {
+    "codigo": 7515,
+    "nombre": "MOLDE PAN DULCE ALUMINIO 1 KG. X 100 U"
+  },
+  {
+    "codigo": 7544,
+    "nombre": "MOLDE PAN DULCE ALUMINIO 1 KG. X 600 U"
+  },
+  {
+    "codigo": 7457,
+    "nombre": "MOLDE PAN DULCE ALUMINIO 1 KG. X UNID"
+  },
+  {
+    "codigo": 7485,
+    "nombre": "MOLDE PAN DULCE ALUMINIO 1/2 KG. X 10 UNID"
+  },
+  {
+    "codigo": 7514,
+    "nombre": "MOLDE PAN DULCE ALUMINIO 1/2 KG. X 100 U"
+  },
+  {
+    "codigo": 7543,
+    "nombre": "MOLDE PAN DULCE ALUMINIO 1/2 KG. X 600 U"
+  },
+  {
+    "codigo": 7456,
+    "nombre": "MOLDE PAN DULCE ALUMINIO 1/2 KG. X UNID"
+  },
+  {
+    "codigo": 7483,
+    "nombre": "TAPAS DE ALUMINIO  C - 200 X 10 UNID"
+  },
+  {
+    "codigo": 7512,
+    "nombre": "TAPAS DE ALUMINIO  C - 200 X 100 U"
+  },
+  {
+    "codigo": 7541,
+    "nombre": "TAPAS DE ALUMINIO  C - 200 X 600 U"
+  },
+  {
+    "codigo": 7454,
+    "nombre": "TAPAS DE ALUMINIO  C - 200 X UNID"
+  },
+  {
+    "codigo": 7481,
+    "nombre": "TAPAS DE ALUMINIO  F - 100 X 10 UNID"
+  },
+  {
+    "codigo": 7510,
+    "nombre": "TAPAS DE ALUMINIO  F - 100 X 100 U"
+  },
+  {
+    "codigo": 7539,
+    "nombre": "TAPAS DE ALUMINIO  F - 100 X 1000 U"
+  },
+  {
+    "codigo": 7452,
+    "nombre": "TAPAS DE ALUMINIO  F - 100 X UNID"
+  },
+  {
+    "codigo": 7482,
+    "nombre": "TAPAS DE ALUMINIO  F - 200 X 10 UNID"
+  },
+  {
+    "codigo": 7511,
+    "nombre": "TAPAS DE ALUMINIO  F - 200 X 100 U"
+  },
+  {
+    "codigo": 7540,
+    "nombre": "TAPAS DE ALUMINIO  F - 200 X 600 U"
+  },
+  {
+    "codigo": 7453,
+    "nombre": "TAPAS DE ALUMINIO  F - 200 X UNID"
+  },
+  {
+    "codigo": 7479,
+    "nombre": "TAPAS DE ALUMINIO  F - 50 X 10 UNID"
+  },
+  {
+    "codigo": 7508,
+    "nombre": "TAPAS DE ALUMINIO  F - 50 X 100 U"
+  },
+  {
+    "codigo": 7537,
+    "nombre": "TAPAS DE ALUMINIO  F - 50 X 1000 U"
+  },
+  {
+    "codigo": 7450,
+    "nombre": "TAPAS DE ALUMINIO  F - 50 X UNID"
+  },
+  {
+    "codigo": 7480,
+    "nombre": "TAPAS DE ALUMINIO  F - 75 X 10 UNID"
+  },
+  {
+    "codigo": 7509,
+    "nombre": "TAPAS DE ALUMINIO  F - 75 X 100 U"
+  },
+  {
+    "codigo": 7538,
+    "nombre": "TAPAS DE ALUMINIO  F - 75 X 1000 U"
+  },
+  {
+    "codigo": 7451,
+    "nombre": "TAPAS DE ALUMINIO  F - 75 X UNID"
+  },
+  {
+    "codigo": 7473,
+    "nombre": "VASO DE ALUMINIO PARA FLAN - 120 X 10 UNID"
+  },
+  {
+    "codigo": 7502,
+    "nombre": "VASO DE ALUMINIO PARA FLAN - 120 X 100 U"
+  },
+  {
+    "codigo": 7531,
+    "nombre": "VASO DE ALUMINIO PARA FLAN - 120 X 1000 U"
+  },
+  {
+    "codigo": 7444,
+    "nombre": "VASO DE ALUMINIO PARA FLAN - 120 X UNID"
+  },
+  {
+    "codigo": 7474,
+    "nombre": "VASO DE ALUMINIO PARA FLAN - 130 X 10 UNID"
+  },
+  {
+    "codigo": 7503,
+    "nombre": "VASO DE ALUMINIO PARA FLAN - 130 X 100 U"
+  },
+  {
+    "codigo": 7532,
+    "nombre": "VASO DE ALUMINIO PARA FLAN - 130 X 1000 U"
+  },
+  {
+    "codigo": 7445,
+    "nombre": "VASO DE ALUMINIO PARA FLAN - 130 X UNID"
+  },
+  {
+    "codigo": 7475,
+    "nombre": "VASO DE ALUMINIO PARA FLAN - 230 X 10 UNID"
+  },
+  {
+    "codigo": 7504,
+    "nombre": "VASO DE ALUMINIO PARA FLAN - 230 X 100 U"
+  },
+  {
+    "codigo": 7533,
+    "nombre": "VASO DE ALUMINIO PARA FLAN - 230 X 1000 U"
+  },
+  {
+    "codigo": 7446,
+    "nombre": "VASO DE ALUMINIO PARA FLAN - 230 X UNID"
+  },
+  {
+    "codigo": 7566,
+    "nombre": "BANDEJAS DE CARTON x100 Unid."
+  },
+  {
+    "codigo": 7551,
+    "nombre": "BANDEJAS DE CARTON x100 Unid."
+  },
+  {
+    "codigo": 7545,
+    "nombre": "BANDEJAS DE CARTON x100 Unid. N° 12"
+  },
+  {
+    "codigo": 7560,
+    "nombre": "BANDEJAS DE CARTON x100 Unid. N° 12 * 1200"
+  },
+  {
+    "codigo": 7546,
+    "nombre": "BANDEJAS DE CARTON x100 Unid. N° 12 ½"
+  },
+  {
+    "codigo": 7561,
+    "nombre": "BANDEJAS DE CARTON x100 Unid. N° 12 ½ * 1200"
+  },
+  {
+    "codigo": 7547,
+    "nombre": "BANDEJAS DE CARTON x100 Unid. N° 13"
+  },
+  {
+    "codigo": 7562,
+    "nombre": "BANDEJAS DE CARTON x100 Unid. N° 13 * 900"
+  },
+  {
+    "codigo": 7548,
+    "nombre": "BANDEJAS DE CARTON x100 Unid. N° 13 ½"
+  },
+  {
+    "codigo": 7563,
+    "nombre": "BANDEJAS DE CARTON x100 Unid. N° 13 ½ * 900"
+  },
+  {
+    "codigo": 7549,
+    "nombre": "BANDEJAS DE CARTON x100 Unid. N° 14"
+  },
+  {
+    "codigo": 7564,
+    "nombre": "BANDEJAS DE CARTON x100 Unid. N° 14 * 600"
+  },
+  {
+    "codigo": 7550,
+    "nombre": "BANDEJAS DE CARTON x100 Unid. N° 15"
+  },
+  {
+    "codigo": 7565,
+    "nombre": "BANDEJAS DE CARTON x100 Unid. N° 15 * 400"
+  },
+  {
+    "codigo": 7552,
+    "nombre": "Bandejas N1ª Gris"
+  },
+  {
+    "codigo": 7567,
+    "nombre": "Bandejas N1ª Gris * 2000"
+  },
+  {
+    "codigo": 7553,
+    "nombre": "Bandejas N2ª Gris"
+  },
+  {
+    "codigo": 7568,
+    "nombre": "Bandejas N2ª Gris * 1200"
+  },
+  {
+    "codigo": 7554,
+    "nombre": "Bandejas Nª3 Gris"
+  },
+  {
+    "codigo": 7569,
+    "nombre": "Bandejas Nª3 Gris * 1200"
+  },
+  {
+    "codigo": 7555,
+    "nombre": "Bandejas Nª4 Gris"
+  },
+  {
+    "codigo": 7570,
+    "nombre": "Bandejas Nª4 Gris * 900"
+  },
+  {
+    "codigo": 7556,
+    "nombre": "Bandejas Nª5  Gris"
+  },
+  {
+    "codigo": 7571,
+    "nombre": "Bandejas Nª5  Gris * 900"
+  },
+  {
+    "codigo": 7557,
+    "nombre": "Bandejas Nª6  Gris"
+  },
+  {
+    "codigo": 7572,
+    "nombre": "Bandejas Nª6  Gris * 600"
+  },
+  {
+    "codigo": 7558,
+    "nombre": "Bandejas Nª7  Gris"
+  },
+  {
+    "codigo": 7573,
+    "nombre": "Bandejas Nª7  Gris * 400"
+  },
+  {
+    "codigo": 7559,
+    "nombre": "Bandejas Nª8 Gris"
+  },
+  {
+    "codigo": 7574,
+    "nombre": "Bandejas Nª8 Gris  * 400"
+  },
+  {
+    "codigo": 7616,
+    "nombre": "BANDEJA EXPANDIDO 615  X 300 UNI ECO"
+  },
+  {
+    "codigo": 9596,
+    "nombre": "BANDEJA EXPANDIDO 615  X 400 UNI"
+  },
+  {
+    "codigo": 9555,
+    "nombre": "BANDEJA EXPANDIDO 615  X 400 UNI"
+  },
+  {
+    "codigo": 7596,
+    "nombre": "BANDEJA EXPANDIDO 615 X 10 UNI"
+  },
+  {
+    "codigo": 7605,
+    "nombre": "BANDEJA EXPANDIDO 615 X 100 UNI"
+  },
+  {
+    "codigo": 7617,
+    "nombre": "BANDEJA EXPANDIDO 617  X 400 UNI"
+  },
+  {
+    "codigo": 7597,
+    "nombre": "BANDEJA EXPANDIDO 617 X 10 UNI"
+  },
+  {
+    "codigo": 7606,
+    "nombre": "BANDEJA EXPANDIDO 617 X 100 UNI"
+  },
+  {
+    "codigo": 9474,
+    "nombre": "BANDEJA EXPANDIDO 618  X 400"
+  },
+  {
+    "codigo": 9589,
+    "nombre": "BANDEJA EXPANDIDO 618  X 400 BT"
+  },
+  {
+    "codigo": 7618,
+    "nombre": "BANDEJA EXPANDIDO 618  X 400 ECO"
+  },
+  {
+    "codigo": 9298,
+    "nombre": "BANDEJA EXPANDIDO 618  X 400 UNI verde"
+  },
+  {
+    "codigo": 7612,
+    "nombre": "BANDEJA EXPANDIDO 618 OBLEA  X 100 UNI"
+  },
+  {
+    "codigo": 9595,
+    "nombre": "BANDEJA EXPANDIDO 618 OBLEA  X 600 UNI"
+  },
+  {
+    "codigo": 7615,
+    "nombre": "BANDEJA EXPANDIDO 618 OBLEA  X 600 UNI"
+  },
+  {
+    "codigo": 7603,
+    "nombre": "BANDEJA EXPANDIDO 618 OBLEA * 10 UNI"
+  },
+  {
+    "codigo": 9591,
+    "nombre": "BANDEJA EXPANDIDO 618 X 10 UNI"
+  },
+  {
+    "codigo": 7598,
+    "nombre": "BANDEJA EXPANDIDO 618 X 10 UNI"
+  },
+  {
+    "codigo": 9590,
+    "nombre": "BANDEJA EXPANDIDO 618 X 100 UNI"
+  },
+  {
+    "codigo": 7607,
+    "nombre": "BANDEJA EXPANDIDO 618 X 100 UNI"
+  },
+  {
+    "codigo": 7619,
+    "nombre": "BANDEJA EXPANDIDO 619  X 400 UNI"
+  },
+  {
+    "codigo": 7599,
+    "nombre": "BANDEJA EXPANDIDO 619 * 10 UNI"
+  },
+  {
+    "codigo": 7613,
+    "nombre": "BANDEJA EXPANDIDO 619 OBLEA  X 100 UNI"
+  },
+  {
+    "codigo": 7614,
+    "nombre": "BANDEJA EXPANDIDO 619 OBLEA  X 600 UNI"
+  },
+  {
+    "codigo": 7604,
+    "nombre": "BANDEJA EXPANDIDO 619 OBLEA * 10 UNI"
+  },
+  {
+    "codigo": 7608,
+    "nombre": "BANDEJA EXPANDIDO 619 X 100 UNI"
+  },
+  {
+    "codigo": 7611,
+    "nombre": "BANDEJA EXPANDIDO 621 X 100 UNI"
+  },
+  {
+    "codigo": 9397,
+    "nombre": "BANDEJA EXPANDIDO 621 X 400 UNI"
+  },
+  {
+    "codigo": 7602,
+    "nombre": "BANDEJA EXPANDIDO 621* 10 UNI"
+  },
+  {
+    "codigo": 7620,
+    "nombre": "BANDEJA EXPANDIDO 625  X 200 UNI"
+  },
+  {
+    "codigo": 7600,
+    "nombre": "BANDEJA EXPANDIDO 625 * 10 UNI"
+  },
+  {
+    "codigo": 7609,
+    "nombre": "BANDEJA EXPANDIDO 625 X 100 UNI"
+  },
+  {
+    "codigo": 7621,
+    "nombre": "BANDEJA EXPANDIDO 628  X 200 UNI"
+  },
+  {
+    "codigo": 7610,
+    "nombre": "BANDEJA EXPANDIDO 628 X 100 UNI"
+  },
+  {
+    "codigo": 7601,
+    "nombre": "BANDEJA EXPANDIDO 628* 10 UNI"
+  },
+  {
+    "codigo": 9193,
+    "nombre": "CAZUELAS TELGOPOR K 63"
+  },
+  {
+    "codigo": 9556,
+    "nombre": "CAZUELAS TELGOPOR K 63 * 10 UNIDADES"
+  },
+  {
+    "codigo": 9557,
+    "nombre": "CAZUELAS TELGOPOR K 63 * 100 UNIDADES"
+  },
+  {
+    "codigo": 9558,
+    "nombre": "CAZUELAS TELGOPOR K 63 * 400 UNIDADES"
+  },
+  {
+    "codigo": 9415,
+    "nombre": "PLATO DE P. EXPANDIDO CON TAPA ( 34 P ) * 1 UNI"
+  },
+  {
+    "codigo": 88,
+    "nombre": "PLATO DE P. EXPANDIDO CON TAPA ( 34 P ) * 147UNI"
+  },
+  {
+    "codigo": 7643,
+    "nombre": "BAND.MICROONDA  N°102 EXTERSA x 100 Unid."
+  },
+  {
+    "codigo": 7648,
+    "nombre": "BAND.MICROONDA  N°102 EXTERSA x 1200 U"
+  },
+  {
+    "codigo": 7644,
+    "nombre": "BAND.MICROONDA  N°103 EXTERSA x 100 Unid."
+  },
+  {
+    "codigo": 7649,
+    "nombre": "BAND.MICROONDA  N°103 EXTERSA x 1000"
+  },
+  {
+    "codigo": 7647,
+    "nombre": "BAND.MICROONDA  N°107 EXTERSA x 100 Unid."
+  },
+  {
+    "codigo": 7652,
+    "nombre": "BAND.MICROONDA  N°107 EXTERSA x 600"
+  },
+  {
+    "codigo": 7650,
+    "nombre": "BAND.MICROONDA N°105 OVAL. EXTERSA x 800"
+  },
+  {
+    "codigo": 7646,
+    "nombre": "BAND.MICROONDA N°105 OVALADA EXTERSA x 100"
+  },
+  {
+    "codigo": 7645,
+    "nombre": "BAND.MICROONDA N°105 RECT. EXTERSA x 100 Unid"
+  },
+  {
+    "codigo": 7651,
+    "nombre": "BAND.MICROONDA N°105 RECTANGULAR EXTERSA"
+  },
+  {
+    "codigo": 7622,
+    "nombre": "BANDEJA MICRO LIVIANA 102 * 10 UNI"
+  },
+  {
+    "codigo": 7628,
+    "nombre": "BANDEJA MICRO LIVIANA 102 * 100 UNI"
+  },
+  {
+    "codigo": 7633,
+    "nombre": "BANDEJA MICRO LIVIANA 102 * 1000 UNI"
+  },
+  {
+    "codigo": 7623,
+    "nombre": "BANDEJA MICRO LIVIANA 103 * 10 UNI"
+  },
+  {
+    "codigo": 7629,
+    "nombre": "BANDEJA MICRO LIVIANA 103 * 100 UNI"
+  },
+  {
+    "codigo": 7634,
+    "nombre": "BANDEJA MICRO LIVIANA 103 * 600 UNI"
+  },
+  {
+    "codigo": 7626,
+    "nombre": "BANDEJA MICRO LIVIANA 105 OVALADA * 10 UNI"
+  },
+  {
+    "codigo": 7630,
+    "nombre": "BANDEJA MICRO LIVIANA 105 OVALADA * 100 UNI"
+  },
+  {
+    "codigo": 7635,
+    "nombre": "BANDEJA MICRO LIVIANA 105 OVALADA * 600 UNI"
+  },
+  {
+    "codigo": 7627,
+    "nombre": "BANDEJA MICRO LIVIANA 105 RECTANGULAR * 10 U"
+  },
+  {
+    "codigo": 7631,
+    "nombre": "BANDEJA MICRO LIVIANA 105 RECTANGULAR * 100 U"
+  },
+  {
+    "codigo": 7636,
+    "nombre": "BANDEJA MICRO LIVIANA 105 RECTANGULAR X 600"
+  },
+  {
+    "codigo": 7637,
+    "nombre": "BANDEJA MICRO LIVIANA 107  X 600"
+  },
+  {
+    "codigo": 7624,
+    "nombre": "BANDEJA MICRO LIVIANA 107 * 10 UNI"
+  },
+  {
+    "codigo": 9253,
+    "nombre": "BANDEJA MICRO LIVIANA 107 * 100 UNI"
+  },
+  {
+    "codigo": 7632,
+    "nombre": "BANDEJA MICRO LIVIANA 107 * 600 UNI"
+  },
+  {
+    "codigo": 9151,
+    "nombre": "BANDEJAS 101 COTNYL X 100"
+  },
+  {
+    "codigo": 9400,
+    "nombre": "TAPA 101 COTNYL X 100"
+  },
+  {
+    "codigo": 7653,
+    "nombre": "TAPA 122 MICRO EXTERSA x 50Unid."
+  },
+  {
+    "codigo": 7657,
+    "nombre": "TAPA 122 MICRO EXTERSA x 600"
+  },
+  {
+    "codigo": 7654,
+    "nombre": "TAPA 123 MICRO EXTERSA x 100Unid."
+  },
+  {
+    "codigo": 7658,
+    "nombre": "TAPA 123 MICRO EXTERSA x 500"
+  },
+  {
+    "codigo": 7659,
+    "nombre": "TAPA 125 RECT.  MICRO EXTERSA x 400 uni"
+  },
+  {
+    "codigo": 7656,
+    "nombre": "TAPA 125MICRO EXTERSA x 100 Unid."
+  },
+  {
+    "codigo": 9524,
+    "nombre": "TAPA 125MICRO EXTERSA x 400 Unid."
+  },
+  {
+    "codigo": 9399,
+    "nombre": "TAPA 127 MICRO EXTERSA x 100"
+  },
+  {
+    "codigo": 7660,
+    "nombre": "TAPA 127 MICRO EXTERSA x 300"
+  },
+  {
+    "codigo": 9331,
+    "nombre": "TAPA BANDEJA 101"
+  },
+  {
+    "codigo": 9113,
+    "nombre": "BANDAS ELASTICAS POR 1000g."
+  },
+  {
+    "codigo": 9112,
+    "nombre": "BANDAS ELASTICAS POR 1000g. * 10 UNI"
+  },
+  {
+    "codigo": 9108,
+    "nombre": "BANDAS ELASTICAS POR 100g."
+  },
+  {
+    "codigo": 9109,
+    "nombre": "BANDAS ELASTICAS POR 100g. * 75 UNI"
+  },
+  {
+    "codigo": 9110,
+    "nombre": "BANDAS ELASTICAS POR 500g."
+  },
+  {
+    "codigo": 9111,
+    "nombre": "BANDAS ELASTICAS POR 500g. * 20 UNI"
+  },
+  {
+    "codigo": 7709,
+    "nombre": "BLONDAS CALADAS 12 CM. x 100 u."
+  },
+  {
+    "codigo": 7740,
+    "nombre": "BLONDAS CALADAS 12 CM. x 1000 U."
+  },
+  {
+    "codigo": 7710,
+    "nombre": "BLONDAS CALADAS 15 CM. x 100 u."
+  },
+  {
+    "codigo": 7741,
+    "nombre": "BLONDAS CALADAS 15 CM. x 1000 U."
+  },
+  {
+    "codigo": 7692,
+    "nombre": "BLONDAS CALADAS 15 X 21 CM. x 100 u."
+  },
+  {
+    "codigo": 7693,
+    "nombre": "BLONDAS CALADAS 16 X 42 CM. x 100 u."
+  },
+  {
+    "codigo": 7724,
+    "nombre": "BLONDAS CALADAS 16 X 42 CM. x 1000 U."
+  },
+  {
+    "codigo": 7711,
+    "nombre": "BLONDAS CALADAS 18 CM.  x 100 u."
+  },
+  {
+    "codigo": 7742,
+    "nombre": "BLONDAS CALADAS 18 CM.  x 1000 U."
+  },
+  {
+    "codigo": 7694,
+    "nombre": "BLONDAS CALADAS 18 X 25 CM. x 100 u."
+  },
+  {
+    "codigo": 7725,
+    "nombre": "BLONDAS CALADAS 18 X 25 CM. x 1000 U."
+  },
+  {
+    "codigo": 7695,
+    "nombre": "BLONDAS CALADAS 18 X 50 CM. x 100 u."
+  },
+  {
+    "codigo": 7726,
+    "nombre": "BLONDAS CALADAS 18 X 50 CM. x 1000 U."
+  },
+  {
+    "codigo": 7712,
+    "nombre": "BLONDAS CALADAS 21 CM. x 100 u."
+  },
+  {
+    "codigo": 7743,
+    "nombre": "BLONDAS CALADAS 21 CM. x 1000 U."
+  },
+  {
+    "codigo": 7696,
+    "nombre": "BLONDAS CALADAS 21 X 27 CM. x 100 u."
+  },
+  {
+    "codigo": 7727,
+    "nombre": "BLONDAS CALADAS 21 X 27 CM. x 1000 U."
+  },
+  {
+    "codigo": 7697,
+    "nombre": "BLONDAS CALADAS 21 X 58 CM. x 100 u."
+  },
+  {
+    "codigo": 7728,
+    "nombre": "BLONDAS CALADAS 21 X 58 CM. x 1000 U."
+  },
+  {
+    "codigo": 7713,
+    "nombre": "BLONDAS CALADAS 25 CM. x 100 u."
+  },
+  {
+    "codigo": 7744,
+    "nombre": "BLONDAS CALADAS 25 CM. x 1000 U."
+  },
+  {
+    "codigo": 7698,
+    "nombre": "BLONDAS CALADAS 26 X 32 CM. x 100 u."
+  },
+  {
+    "codigo": 7729,
+    "nombre": "BLONDAS CALADAS 26 X 32 CM. x 1000 U."
+  },
+  {
+    "codigo": 7699,
+    "nombre": "BLONDAS CALADAS 26 X 37 CM. x 100 u."
+  },
+  {
+    "codigo": 7730,
+    "nombre": "BLONDAS CALADAS 26 X 37 CM. x 1000 U."
+  },
+  {
+    "codigo": 7714,
+    "nombre": "BLONDAS CALADAS 28 CM. x 100 u."
+  },
+  {
+    "codigo": 7745,
+    "nombre": "BLONDAS CALADAS 28 CM. x 1000 U."
+  },
+  {
+    "codigo": 7700,
+    "nombre": "BLONDAS CALADAS 29 X 41 CM. x 100 u."
+  },
+  {
+    "codigo": 7731,
+    "nombre": "BLONDAS CALADAS 29 X 41 CM. x 1000 U."
+  },
+  {
+    "codigo": 7715,
+    "nombre": "BLONDAS CALADAS 30 CM. x 100 u."
+  },
+  {
+    "codigo": 7746,
+    "nombre": "BLONDAS CALADAS 30 CM. x 1000 U."
+  },
+  {
+    "codigo": 7701,
+    "nombre": "BLONDAS CALADAS 31 X 38 CM. x 100 u."
+  },
+  {
+    "codigo": 7732,
+    "nombre": "BLONDAS CALADAS 31 X 38 CM. x 1000 U."
+  },
+  {
+    "codigo": 7702,
+    "nombre": "BLONDAS CALADAS 31 X 47 CM. x 100 u."
+  },
+  {
+    "codigo": 7733,
+    "nombre": "BLONDAS CALADAS 31 X 47 CM. x 1000 U."
+  },
+  {
+    "codigo": 7716,
+    "nombre": "BLONDAS CALADAS 32 CM. x 100 u."
+  },
+  {
+    "codigo": 7747,
+    "nombre": "BLONDAS CALADAS 32 CM. x 1000 U."
+  },
+  {
+    "codigo": 7703,
+    "nombre": "BLONDAS CALADAS 34 X 41 CM. x 100 u."
+  },
+  {
+    "codigo": 7734,
+    "nombre": "BLONDAS CALADAS 34 X 41 CM. x 1000 U."
+  },
+  {
+    "codigo": 7717,
+    "nombre": "BLONDAS CALADAS 35 CM. x 100 u."
+  },
+  {
+    "codigo": 7748,
+    "nombre": "BLONDAS CALADAS 35 CM. x 1000 U."
+  },
+  {
+    "codigo": 7704,
+    "nombre": "BLONDAS CALADAS 35 X 45 CM. x 100 u."
+  },
+  {
+    "codigo": 7735,
+    "nombre": "BLONDAS CALADAS 35 X 45 CM. x 1000 U."
+  },
+  {
+    "codigo": 7705,
+    "nombre": "BLONDAS CALADAS 37 X 44 CM. x 100 u."
+  },
+  {
+    "codigo": 7736,
+    "nombre": "BLONDAS CALADAS 37 X 44 CM. x 1000 U."
+  },
+  {
+    "codigo": 7718,
+    "nombre": "BLONDAS CALADAS 38 CM. x 100 u."
+  },
+  {
+    "codigo": 7749,
+    "nombre": "BLONDAS CALADAS 38 CM. x 1000 U."
+  },
+  {
+    "codigo": 7719,
+    "nombre": "BLONDAS CALADAS 40 CM. x 100 u."
+  },
+  {
+    "codigo": 7750,
+    "nombre": "BLONDAS CALADAS 40 CM. x 1000 U."
+  },
+  {
+    "codigo": 7706,
+    "nombre": "BLONDAS CALADAS 40 X 50 CM. x 100 u."
+  },
+  {
+    "codigo": 7737,
+    "nombre": "BLONDAS CALADAS 40 X 50 CM. x 1000 U."
+  },
+  {
+    "codigo": 7720,
+    "nombre": "BLONDAS CALADAS 42 CM. x 100 u."
+  },
+  {
+    "codigo": 7751,
+    "nombre": "BLONDAS CALADAS 42 CM. x 1000 U."
+  },
+  {
+    "codigo": 7721,
+    "nombre": "BLONDAS CALADAS 45 CM. x 100 u."
+  },
+  {
+    "codigo": 7752,
+    "nombre": "BLONDAS CALADAS 45 CM. x 1000 U."
+  },
+  {
+    "codigo": 7707,
+    "nombre": "BLONDAS CALADAS 45 X 55 CM. x 100 u."
+  },
+  {
+    "codigo": 7738,
+    "nombre": "BLONDAS CALADAS 45 X 55 CM. x 1000 U."
+  },
+  {
+    "codigo": 7722,
+    "nombre": "BLONDAS CALADAS 48 CM. x 100 u."
+  },
+  {
+    "codigo": 7753,
+    "nombre": "BLONDAS CALADAS 48 CM. x 1000 U."
+  },
+  {
+    "codigo": 7708,
+    "nombre": "BLONDAS CALADAS 9 CM.  x 100 u."
+  },
+  {
+    "codigo": 7739,
+    "nombre": "BLONDAS CALADAS 9 CM.  x 1000 U."
+  },
+  {
+    "codigo": 7763,
+    "nombre": "BLONDAS PARAFINADAS 19x25 CM. x 100 u."
+  },
+  {
+    "codigo": 7779,
+    "nombre": "BLONDAS PARAFINADAS 19x25 CM. x 1000 U"
+  },
+  {
+    "codigo": 7754,
+    "nombre": "BLONDAS PARAFINADAS 21 CM. x 100 u."
+  },
+  {
+    "codigo": 7770,
+    "nombre": "BLONDAS PARAFINADAS 21 CM. x 1000 U"
+  },
+  {
+    "codigo": 7764,
+    "nombre": "BLONDAS PARAFINADAS 21x27 CM.  x 100 u."
+  },
+  {
+    "codigo": 7780,
+    "nombre": "BLONDAS PARAFINADAS 21x27 CM.  x 1000 U"
+  },
+  {
+    "codigo": 7755,
+    "nombre": "BLONDAS PARAFINADAS 25 CM. x 100 u."
+  },
+  {
+    "codigo": 7771,
+    "nombre": "BLONDAS PARAFINADAS 25 CM. x 1000 U"
+  },
+  {
+    "codigo": 7765,
+    "nombre": "BLONDAS PARAFINADAS 26x32 CM. x 100 u."
+  },
+  {
+    "codigo": 7781,
+    "nombre": "BLONDAS PARAFINADAS 26x32 CM. x 1000 U"
+  },
+  {
+    "codigo": 7756,
+    "nombre": "BLONDAS PARAFINADAS 28 CM. x 100 u."
+  },
+  {
+    "codigo": 7772,
+    "nombre": "BLONDAS PARAFINADAS 28 CM. x 1000 U"
+  },
+  {
+    "codigo": 7766,
+    "nombre": "BLONDAS PARAFINADAS 28x34 CM. x 100 u."
+  },
+  {
+    "codigo": 7782,
+    "nombre": "BLONDAS PARAFINADAS 28x34 CM. x 1000 U"
+  },
+  {
+    "codigo": 7757,
+    "nombre": "BLONDAS PARAFINADAS 30 CM. x 100 u."
+  },
+  {
+    "codigo": 7773,
+    "nombre": "BLONDAS PARAFINADAS 30 CM. x 1000 U"
+  },
+  {
+    "codigo": 7767,
+    "nombre": "BLONDAS PARAFINADAS 31x38 CM. x 100 u."
+  },
+  {
+    "codigo": 7783,
+    "nombre": "BLONDAS PARAFINADAS 31x38 CM. x 1000 U"
+  },
+  {
+    "codigo": 7758,
+    "nombre": "BLONDAS PARAFINADAS 32 CM. x 100 u."
+  },
+  {
+    "codigo": 7774,
+    "nombre": "BLONDAS PARAFINADAS 32 CM. x 1000 U"
+  },
+  {
+    "codigo": 7768,
+    "nombre": "BLONDAS PARAFINADAS 34x43 CM. x 100 u."
+  },
+  {
+    "codigo": 7784,
+    "nombre": "BLONDAS PARAFINADAS 34x43 CM. x 1000 U"
+  },
+  {
+    "codigo": 7759,
+    "nombre": "BLONDAS PARAFINADAS 35 CM. x 100 u."
+  },
+  {
+    "codigo": 7775,
+    "nombre": "BLONDAS PARAFINADAS 35 CM. x 1000 U"
+  },
+  {
+    "codigo": 7760,
+    "nombre": "BLONDAS PARAFINADAS 38 CM. x 100 u."
+  },
+  {
+    "codigo": 7776,
+    "nombre": "BLONDAS PARAFINADAS 38 CM. x 1000 U"
+  },
+  {
+    "codigo": 7769,
+    "nombre": "BLONDAS PARAFINADAS 40x50 CM. x 100 u."
+  },
+  {
+    "codigo": 7785,
+    "nombre": "BLONDAS PARAFINADAS 40x50 CM. x 1000 U"
+  },
+  {
+    "codigo": 7761,
+    "nombre": "BLONDAS PARAFINADAS 42 CM. x 100 u."
+  },
+  {
+    "codigo": 7777,
+    "nombre": "BLONDAS PARAFINADAS 42 CM. x 1000 U"
+  },
+  {
+    "codigo": 7762,
+    "nombre": "BLONDAS PARAFINADAS 45 CM. x 100 u."
+  },
+  {
+    "codigo": 7778,
+    "nombre": "BLONDAS PARAFINADAS 45 CM. x 1000 U"
+  },
+  {
+    "codigo": 9578,
+    "nombre": "BOLSA DELIVERY FM 5 20*30*11 * 100 UNI"
+  },
+  {
+    "codigo": 9579,
+    "nombre": "BOLSA DELIVERY FM 5 20*30*11 * 500 UNI"
+  },
+  {
+    "codigo": 9581,
+    "nombre": "BOLSA DELIVERY FM 7 26*38*12.5 * 100 UNI"
+  },
+  {
+    "codigo": 9580,
+    "nombre": "BOLSA DELIVERY FM 7 26*38*12.5 * 500 UNI"
+  },
+  {
+    "codigo": 9582,
+    "nombre": "BOLSA DELIVERY FM 8 26*38*18 * 100 UNI"
+  },
+  {
+    "codigo": 9583,
+    "nombre": "BOLSA DELIVERY FM 8 26*38*18 * 500 UNI"
+  },
+  {
+    "codigo": 9574,
+    "nombre": "BOLSA DELIVERY FM3 12*25*7.5 * 100 UNI"
+  },
+  {
+    "codigo": 9575,
+    "nombre": "BOLSA DELIVERY FM3 12*25*7.5 * 1000 UNI"
+  },
+  {
+    "codigo": 9576,
+    "nombre": "BOLSA DELIVERY FM4 16*25*8 * 100 UNI"
+  },
+  {
+    "codigo": 9577,
+    "nombre": "BOLSA DELIVERY FM4 16*25*8 * 500 UNI"
+  },
+  {
+    "codigo": 7786,
+    "nombre": "BOLSA CAMISETA 20X30 X 100 UNI"
+  },
+  {
+    "codigo": 7814,
+    "nombre": "BOLSA CAMISETA 20X30 X 5000 UI"
+  },
+  {
+    "codigo": 7788,
+    "nombre": "BOLSA CAMISETA 30X40 X 100 UNI"
+  },
+  {
+    "codigo": 9535,
+    "nombre": "BOLSA CAMISETA 30X40 X 100 UNI INPLA"
+  },
+  {
+    "codigo": 7816,
+    "nombre": "BOLSA CAMISETA 30X40 X 1700 APROX"
+  },
+  {
+    "codigo": 9514,
+    "nombre": "BOLSA CAMISETA 40*50 BIO"
+  },
+  {
+    "codigo": 9432,
+    "nombre": "BOLSA CAMISETA 40X50 FLEX X 100 UNI FLEX"
+  },
+  {
+    "codigo": 7790,
+    "nombre": "BOLSA CAMISETA 40X50 FLEX X 2000UNI ¨ESTEBAN¨"
+  },
+  {
+    "codigo": 7818,
+    "nombre": "BOLSA CAMISETA 40X50 MAMUT X 2000 AZUL"
+  },
+  {
+    "codigo": 9431,
+    "nombre": "BOLSA CAMISETA 40X50 REF X 100 UNI MAMUT"
+  },
+  {
+    "codigo": 8558,
+    "nombre": "BOLSA CAMISETA 40X50 REF X 1000 UI"
+  },
+  {
+    "codigo": 8559,
+    "nombre": "BOLSA CAMISETA 40X50 REF X 2000 UI RAYADA"
+  },
+  {
+    "codigo": 9538,
+    "nombre": "BOLSA CAMISETA 40X50 REF X 80 UNI MAMUT"
+  },
+  {
+    "codigo": 8557,
+    "nombre": "BOLSA CAMISETA 40X50 REFORZADA ¨INPLA X 3000"
+  },
+  {
+    "codigo": 7808,
+    "nombre": "BOLSA CAMISETA 45X60 INPLA"
+  },
+  {
+    "codigo": 7794,
+    "nombre": "BOLSA CAMISETA 45X60 INPLA"
+  },
+  {
+    "codigo": 7793,
+    "nombre": "BOLSA CAMISETA 45X60 X 100 UNI REF MAMUT"
+  },
+  {
+    "codigo": 7821,
+    "nombre": "BOLSA CAMISETA 45X60 X 2000 UI REF MAMUT"
+  },
+  {
+    "codigo": 7822,
+    "nombre": "BOLSA CAMISETA 45X60 X 2500 INPLA"
+  },
+  {
+    "codigo": 9465,
+    "nombre": "BOLSA CAMISETA 50X60 X 100 UI REF MAMUT"
+  },
+  {
+    "codigo": 7796,
+    "nombre": "BOLSA CAMISETA 50X60 X 100 UNI"
+  },
+  {
+    "codigo": 9464,
+    "nombre": "BOLSA CAMISETA 50X60 X 2000 UI REF MAMUT"
+  },
+  {
+    "codigo": 7824,
+    "nombre": "BOLSA CAMISETA 50X60 X 2000 UNI INPLA"
+  },
+  {
+    "codigo": 7797,
+    "nombre": "BOLSA CAMISETA 50X70 X 100 UNI INPLA"
+  },
+  {
+    "codigo": 9484,
+    "nombre": "BOLSA CAMISETA 50X70 X 100 UNI MAMUT"
+  },
+  {
+    "codigo": 9485,
+    "nombre": "BOLSA CAMISETA 50X70 X 1000 UNI MAMUT"
+  },
+  {
+    "codigo": 7825,
+    "nombre": "BOLSA CAMISETA 50X70 X 2000 UNI INPLA"
+  },
+  {
+    "codigo": 9482,
+    "nombre": "BOLSA CAMISETA 60X80 X 100 MAMUT"
+  },
+  {
+    "codigo": 7799,
+    "nombre": "BOLSA CAMISETA 60X80 X 100 UNI INPLA"
+  },
+  {
+    "codigo": 7813,
+    "nombre": "BOLSA CAMISETA 60X80 X 500 UI INPLA"
+  },
+  {
+    "codigo": 9132,
+    "nombre": "BOLSA CAMISETA DORADA 40X50 * 100 UNI"
+  },
+  {
+    "codigo": 9504,
+    "nombre": "CAMISETA 60*80 MAMUT X 1000 UNI"
+  },
+  {
+    "codigo": 9252,
+    "nombre": "CAMISETA CIUDAD VERDE/NEGRA 17 MICRONES"
+  },
+  {
+    "codigo": 9328,
+    "nombre": "CAMISETA CIUDAD VERDE/NEGRA 17 MICRONES * 1"
+  },
+  {
+    "codigo": 7828,
+    "nombre": "BOLSAS CAMISETAS B./D. 30x40 x 100 u."
+  },
+  {
+    "codigo": 7829,
+    "nombre": "BOLSAS CAMISETAS B./D. 40x50 x 100 u."
+  },
+  {
+    "codigo": 7830,
+    "nombre": "BOLSAS CAMISETAS B./D. 45x60 x 100 u."
+  },
+  {
+    "codigo": 7837,
+    "nombre": "BOLSAS CAMISETAS B./D. 45x60 x 1000"
+  },
+  {
+    "codigo": 7831,
+    "nombre": "BOLSAS CAMISETAS B./D. 50x60 x 100 u."
+  },
+  {
+    "codigo": 7838,
+    "nombre": "BOLSAS CAMISETAS B./D. 50x60 x 1000"
+  },
+  {
+    "codigo": 7832,
+    "nombre": "BOLSAS CAMISETAS B./D. 50x70 x 100 u."
+  },
+  {
+    "codigo": 7839,
+    "nombre": "BOLSAS CAMISETAS B./D. 50x70 x 1000"
+  },
+  {
+    "codigo": 7840,
+    "nombre": "BOLSAS CAMISETAS B./D. 60x80 x  500"
+  },
+  {
+    "codigo": 7833,
+    "nombre": "BOLSAS CAMISETAS B./D. 60x80 x 50 u."
+  },
+  {
+    "codigo": 7841,
+    "nombre": "BOLSAS CAMISETAS B./D. 80x100 x 250"
+  },
+  {
+    "codigo": 7834,
+    "nombre": "BOLSAS CAMISETAS B./D. 80x100 x 50 u."
+  },
+  {
+    "codigo": 7842,
+    "nombre": "BOLSAS 10x15 CRISTAL FUELLEX100"
+  },
+  {
+    "codigo": 7885,
+    "nombre": "BOLSAS 10x15 CRISTAL FUELLEX1000 uni"
+  },
+  {
+    "codigo": 7843,
+    "nombre": "BOLSAS 10x20 CRISTAL FUELLEx100"
+  },
+  {
+    "codigo": 7886,
+    "nombre": "BOLSAS 10x20 CRISTAL FUELLEx1000"
+  },
+  {
+    "codigo": 7844,
+    "nombre": "BOLSAS 10x25 CRISTAL FUELLEx100"
+  },
+  {
+    "codigo": 7887,
+    "nombre": "BOLSAS 10x25 CRISTAL FUELLEx1000"
+  },
+  {
+    "codigo": 7845,
+    "nombre": "BOLSAS 15x20 CRISTAL FUELLEx100"
+  },
+  {
+    "codigo": 7888,
+    "nombre": "BOLSAS 15x20 CRISTAL FUELLEx1000"
+  },
+  {
+    "codigo": 7889,
+    "nombre": "BOLSAS 15x25 CRISTAL FUELLEx100"
+  },
+  {
+    "codigo": 7846,
+    "nombre": "BOLSAS 15x25 CRISTAL FUELLEx100"
+  },
+  {
+    "codigo": 7890,
+    "nombre": "BOLSAS 15x30 CRISTAL FUELLEx100"
+  },
+  {
+    "codigo": 7847,
+    "nombre": "BOLSAS 15x30 CRISTAL FUELLEx100"
+  },
+  {
+    "codigo": 7891,
+    "nombre": "BOLSAS 15x35 CRISTAL FUELLEx100"
+  },
+  {
+    "codigo": 7848,
+    "nombre": "BOLSAS 15x35 CRISTAL FUELLEx100"
+  },
+  {
+    "codigo": 7892,
+    "nombre": "BOLSAS 15x55 CRISTAL FUELLEx100"
+  },
+  {
+    "codigo": 7849,
+    "nombre": "BOLSAS 15x55 CRISTAL FUELLEx100"
+  },
+  {
+    "codigo": 7850,
+    "nombre": "BOLSAS 15x70 CRISTAL FUELLEx100"
+  },
+  {
+    "codigo": 7893,
+    "nombre": "BOLSAS 15x70 CRISTAL FUELLEx1000"
+  },
+  {
+    "codigo": 7894,
+    "nombre": "BOLSAS 20x25 CRISTAL FUELLEx100"
+  },
+  {
+    "codigo": 7851,
+    "nombre": "BOLSAS 20x25 CRISTAL FUELLEx100"
+  },
+  {
+    "codigo": 7895,
+    "nombre": "BOLSAS 20x30 CRISTAL FUELLEx100"
+  },
+  {
+    "codigo": 7852,
+    "nombre": "BOLSAS 20x30 CRISTAL FUELLEx100"
+  },
+  {
+    "codigo": 7896,
+    "nombre": "BOLSAS 20x40 CRISTAL FUELLEx100"
+  },
+  {
+    "codigo": 7853,
+    "nombre": "BOLSAS 20x40 CRISTAL FUELLEx100"
+  },
+  {
+    "codigo": 7897,
+    "nombre": "BOLSAS 20x60 CRISTAL FUELLEx100"
+  },
+  {
+    "codigo": 7898,
+    "nombre": "BOLSAS 25x35 CRISTAL FUELLEx100"
+  },
+  {
+    "codigo": 7855,
+    "nombre": "BOLSAS 25x35 CRISTAL FUELLEx100"
+  },
+  {
+    "codigo": 7899,
+    "nombre": "BOLSAS 25x40 CRISTAL FUELLEx100"
+  },
+  {
+    "codigo": 7856,
+    "nombre": "BOLSAS 25x40 CRISTAL FUELLEx100"
+  },
+  {
+    "codigo": 7900,
+    "nombre": "BOLSAS 30x40 CRISTAL FUELLEx100"
+  },
+  {
+    "codigo": 7857,
+    "nombre": "BOLSAS 30x40 CRISTAL FUELLEx100"
+  },
+  {
+    "codigo": 7901,
+    "nombre": "BOLSAS 35x45 CRISTAL FUELLEx100"
+  },
+  {
+    "codigo": 7858,
+    "nombre": "BOLSAS 35x45 CRISTAL FUELLEx100"
+  },
+  {
+    "codigo": 7902,
+    "nombre": "BOLSAS 40x50 CRISTAL FUELLEx100"
+  },
+  {
+    "codigo": 7859,
+    "nombre": "BOLSAS 40x50 CRISTAL FUELLEx100"
+  },
+  {
+    "codigo": 7904,
+    "nombre": "BOLSAS 60 x 70 x 100  A / D FUELLE ( LAVADERO )"
+  },
+  {
+    "codigo": 7861,
+    "nombre": "BOLSAS 60 x 70 x 100  A / D FUELLE ( LAVADERO )"
+  },
+  {
+    "codigo": 7917,
+    "nombre": "BOLSAS TUBO 10 x 15 EN 50''' x 100"
+  },
+  {
+    "codigo": 7874,
+    "nombre": "BOLSAS TUBO 10 x 15 EN 50''' x 100"
+  },
+  {
+    "codigo": 7918,
+    "nombre": "BOLSAS TUBO 10 x 20 EN 50''' x 100"
+  },
+  {
+    "codigo": 7875,
+    "nombre": "BOLSAS TUBO 10 x 20 EN 50''' x 100"
+  },
+  {
+    "codigo": 7919,
+    "nombre": "BOLSAS TUBO 10 x 25 EN 50''' x 100"
+  },
+  {
+    "codigo": 7876,
+    "nombre": "BOLSAS TUBO 10 x 25 EN 50''' x 100"
+  },
+  {
+    "codigo": 7920,
+    "nombre": "BOLSAS TUBO 15 x 20 EN 50''' x 100"
+  },
+  {
+    "codigo": 7877,
+    "nombre": "BOLSAS TUBO 15 x 20 EN 50''' x 100"
+  },
+  {
+    "codigo": 7921,
+    "nombre": "BOLSAS TUBO 15 x 25 EN 50''' x 100"
+  },
+  {
+    "codigo": 7878,
+    "nombre": "BOLSAS TUBO 15 x 25 EN 50''' x 100"
+  },
+  {
+    "codigo": 7922,
+    "nombre": "BOLSAS TUBO 15 x 30 EN 50''' x 100"
+  },
+  {
+    "codigo": 7879,
+    "nombre": "BOLSAS TUBO 15 x 30 EN 50''' x 100"
+  },
+  {
+    "codigo": 7923,
+    "nombre": "BOLSAS TUBO 20 x 30 EN 50''' x 100"
+  },
+  {
+    "codigo": 7880,
+    "nombre": "BOLSAS TUBO 20 x 30 EN 50''' x 100"
+  },
+  {
+    "codigo": 7862,
+    "nombre": "BOLSAS TUBO 20x30 EN 20'''  x 100"
+  },
+  {
+    "codigo": 7905,
+    "nombre": "BOLSAS TUBO 20x30 EN 20'''  x 1000UNI"
+  },
+  {
+    "codigo": 7924,
+    "nombre": "BOLSAS TUBO 25 x 35 EN 50''' x 100"
+  },
+  {
+    "codigo": 7881,
+    "nombre": "BOLSAS TUBO 25 x 35 EN 50''' x 100"
+  },
+  {
+    "codigo": 7863,
+    "nombre": "BOLSAS TUBO 25x35 EN 20'''  x 100"
+  },
+  {
+    "codigo": 7906,
+    "nombre": "BOLSAS TUBO 25x35 EN 20'''  x 1000 UNI"
+  },
+  {
+    "codigo": 7925,
+    "nombre": "BOLSAS TUBO 30 x 40 EN 50''' x 100"
+  },
+  {
+    "codigo": 7882,
+    "nombre": "BOLSAS TUBO 30 x 40 EN 50''' x 100"
+  },
+  {
+    "codigo": 7907,
+    "nombre": "BOLSAS TUBO 30x40 EN 20'''  x 100"
+  },
+  {
+    "codigo": 7864,
+    "nombre": "BOLSAS TUBO 30x40 EN 20'''  x 100"
+  },
+  {
+    "codigo": 7926,
+    "nombre": "BOLSAS TUBO 35 x 45 EN 50''' x 100"
+  },
+  {
+    "codigo": 7883,
+    "nombre": "BOLSAS TUBO 35 x 45 EN 50''' x 100"
+  },
+  {
+    "codigo": 7908,
+    "nombre": "BOLSAS TUBO 35x45 EN 20'''  x 100"
+  },
+  {
+    "codigo": 7865,
+    "nombre": "BOLSAS TUBO 35x45 EN 20'''  x 100"
+  },
+  {
+    "codigo": 7916,
+    "nombre": "BOLSAS TUBO 4 x 30 A/D ( PARA JUGUITO ) x 100"
+  },
+  {
+    "codigo": 7927,
+    "nombre": "BOLSAS TUBO 40 x 50 EN 50''' x 100"
+  },
+  {
+    "codigo": 7884,
+    "nombre": "BOLSAS TUBO 40 x 50 EN 50''' x 100"
+  },
+  {
+    "codigo": 7903,
+    "nombre": "BOLSAS TUBO 40 x 70 EN 60 x 100 ( PARA LEÑA )"
+  },
+  {
+    "codigo": 7860,
+    "nombre": "BOLSAS TUBO 40 x 70 EN 60 x 100 ( PARA LEÑA )"
+  },
+  {
+    "codigo": 7909,
+    "nombre": "BOLSAS TUBO 40x50 EN 20'''  X 100"
+  },
+  {
+    "codigo": 7866,
+    "nombre": "BOLSAS TUBO 40x50 EN 20'''  X 100"
+  },
+  {
+    "codigo": 7910,
+    "nombre": "BOLSAS TUBO 45x60 EN 20'''  x 100"
+  },
+  {
+    "codigo": 7867,
+    "nombre": "BOLSAS TUBO 45x60 EN 20'''  x 100"
+  },
+  {
+    "codigo": 7915,
+    "nombre": "BOLSAS TUBO 5 x 8 EN 30''' x 100"
+  },
+  {
+    "codigo": 7911,
+    "nombre": "BOLSAS TUBO 50x60 EN 20'''  x 100"
+  },
+  {
+    "codigo": 7868,
+    "nombre": "BOLSAS TUBO 50x60 EN 20'''  x 100"
+  },
+  {
+    "codigo": 7912,
+    "nombre": "BOLSAS TUBO 50x80 EN 20'''  x 100"
+  },
+  {
+    "codigo": 7869,
+    "nombre": "BOLSAS TUBO 50x80 EN 20'''  x 100"
+  },
+  {
+    "codigo": 7913,
+    "nombre": "BOLSAS TUBO 60x60 EN 20'''  x 100"
+  },
+  {
+    "codigo": 7870,
+    "nombre": "BOLSAS TUBO 60x60 EN 20'''  x 100"
+  },
+  {
+    "codigo": 7914,
+    "nombre": "BOLSAS TUBO 60x80 EN 20'''  x 100"
+  },
+  {
+    "codigo": 7871,
+    "nombre": "BOLSAS TUBO 60x80 EN 20'''  x 100"
+  },
+  {
+    "codigo": 9329,
+    "nombre": "BOSITA PARA JUGUITO X5000 UNIDADES"
+  },
+  {
+    "codigo": 9153,
+    "nombre": "BOLSA PARA PAPA FRITAS"
+  },
+  {
+    "codigo": 7928,
+    "nombre": "BOLSAS KRAFT Nro. 0"
+  },
+  {
+    "codigo": 8005,
+    "nombre": "BOLSAS KRAFT Nro. 0 1000"
+  },
+  {
+    "codigo": 7929,
+    "nombre": "BOLSAS KRAFT Nro. 1"
+  },
+  {
+    "codigo": 8006,
+    "nombre": "BOLSAS KRAFT Nro. 1 1000"
+  },
+  {
+    "codigo": 7931,
+    "nombre": "BOLSAS KRAFT Nro. 2"
+  },
+  {
+    "codigo": 8008,
+    "nombre": "BOLSAS KRAFT Nro. 2 1000"
+  },
+  {
+    "codigo": 7933,
+    "nombre": "BOLSAS KRAFT Nro. 3"
+  },
+  {
+    "codigo": 8010,
+    "nombre": "BOLSAS KRAFT Nro. 3 1000"
+  },
+  {
+    "codigo": 7934,
+    "nombre": "BOLSAS KRAFT Nro. 3L *100"
+  },
+  {
+    "codigo": 8011,
+    "nombre": "BOLSAS KRAFT Nro. 3L 1000"
+  },
+  {
+    "codigo": 7936,
+    "nombre": "BOLSAS KRAFT Nro. 4A * 100 UNI"
+  },
+  {
+    "codigo": 8013,
+    "nombre": "BOLSAS KRAFT Nro. 4A 1000"
+  },
+  {
+    "codigo": 7937,
+    "nombre": "BOLSAS KRAFT Nro. 5 * 100 UNI"
+  },
+  {
+    "codigo": 8014,
+    "nombre": "BOLSAS KRAFT Nro. 5 1000"
+  },
+  {
+    "codigo": 7938,
+    "nombre": "BOLSAS KRAFT Nro. 6 * 100 UNI"
+  },
+  {
+    "codigo": 8015,
+    "nombre": "BOLSAS KRAFT Nro. 6 1000"
+  },
+  {
+    "codigo": 7939,
+    "nombre": "BOLSAS KRAFT Nro. 6L * 100 UNI"
+  },
+  {
+    "codigo": 8016,
+    "nombre": "BOLSAS KRAFT Nro. 6L 1000"
+  },
+  {
+    "codigo": 7940,
+    "nombre": "BOLSAS KRAFT Nro. 7 * 100 UNI"
+  },
+  {
+    "codigo": 8017,
+    "nombre": "BOLSAS KRAFT Nro. 7 1000"
+  },
+  {
+    "codigo": 7941,
+    "nombre": "BOLSAS KRAFT Nro. 8 * 100 UNI"
+  },
+  {
+    "codigo": 8018,
+    "nombre": "BOLSAS KRAFT Nro. 8 1000"
+  },
+  {
+    "codigo": 7942,
+    "nombre": "BOLSAS KRAFT Nro. 9 * 100 UNI"
+  },
+  {
+    "codigo": 8019,
+    "nombre": "BOLSAS KRAFT Nro. 9 1000"
+  },
+  {
+    "codigo": 7958,
+    "nombre": "BOLSAS BAGUETTE II 2X48"
+  },
+  {
+    "codigo": 8003,
+    "nombre": "BOLSAS BAGUETTE II 2X48 1000"
+  },
+  {
+    "codigo": 7959,
+    "nombre": "BOLSAS BAGUETTE II 2X65"
+  },
+  {
+    "codigo": 8004,
+    "nombre": "BOLSAS BAGUETTE II 2X65 1000"
+  },
+  {
+    "codigo": 7943,
+    "nombre": "BOLSAS BLANCAS II Nro. 0"
+  },
+  {
+    "codigo": 7988,
+    "nombre": "BOLSAS BLANCAS II Nro. 0 1000"
+  },
+  {
+    "codigo": 7944,
+    "nombre": "BOLSAS BLANCAS II Nro. 1"
+  },
+  {
+    "codigo": 7989,
+    "nombre": "BOLSAS BLANCAS II Nro. 1 1000"
+  },
+  {
+    "codigo": 7946,
+    "nombre": "BOLSAS BLANCAS II Nro. 2"
+  },
+  {
+    "codigo": 7991,
+    "nombre": "BOLSAS BLANCAS II Nro. 2 1000"
+  },
+  {
+    "codigo": 7948,
+    "nombre": "BOLSAS BLANCAS II Nro. 3"
+  },
+  {
+    "codigo": 7993,
+    "nombre": "BOLSAS BLANCAS II Nro. 3 1000"
+  },
+  {
+    "codigo": 7949,
+    "nombre": "BOLSAS BLANCAS II Nro. 3L"
+  },
+  {
+    "codigo": 7994,
+    "nombre": "BOLSAS BLANCAS II Nro. 3L 1000"
+  },
+  {
+    "codigo": 7951,
+    "nombre": "BOLSAS BLANCAS II Nro. 4A"
+  },
+  {
+    "codigo": 7996,
+    "nombre": "BOLSAS BLANCAS II Nro. 4A 1000"
+  },
+  {
+    "codigo": 7953,
+    "nombre": "BOLSAS BLANCAS II Nro. 6"
+  },
+  {
+    "codigo": 7998,
+    "nombre": "BOLSAS BLANCAS II Nro. 6 1000"
+  },
+  {
+    "codigo": 7954,
+    "nombre": "BOLSAS BLANCAS II Nro. 6L"
+  },
+  {
+    "codigo": 7999,
+    "nombre": "BOLSAS BLANCAS II Nro. 6L 1000"
+  },
+  {
+    "codigo": 7955,
+    "nombre": "BOLSAS BLANCAS II Nro. 7"
+  },
+  {
+    "codigo": 8000,
+    "nombre": "BOLSAS BLANCAS II Nro. 7 1000"
+  },
+  {
+    "codigo": 7956,
+    "nombre": "BOLSAS BLANCAS II Nro. 8"
+  },
+  {
+    "codigo": 8001,
+    "nombre": "BOLSAS BLANCAS II Nro. 8 500"
+  },
+  {
+    "codigo": 7957,
+    "nombre": "BOLSAS BLANCAS II Nro. 9"
+  },
+  {
+    "codigo": 8002,
+    "nombre": "BOLSAS BLANCAS II Nro. 9 1000"
+  },
+  {
+    "codigo": 7960,
+    "nombre": "BOLSAS Extra Blanco Nro. 1"
+  },
+  {
+    "codigo": 7974,
+    "nombre": "BOLSAS Extra Blanco Nro. 1 X 1000"
+  },
+  {
+    "codigo": 7961,
+    "nombre": "BOLSAS Extra Blanco Nro. 1L"
+  },
+  {
+    "codigo": 7975,
+    "nombre": "BOLSAS Extra Blanco Nro. 1L X 1000"
+  },
+  {
+    "codigo": 7962,
+    "nombre": "BOLSAS Extra Blanco Nro. 2"
+  },
+  {
+    "codigo": 7976,
+    "nombre": "BOLSAS Extra Blanco Nro. 2 X 1000"
+  },
+  {
+    "codigo": 7963,
+    "nombre": "BOLSAS Extra Blanco Nro. 2L"
+  },
+  {
+    "codigo": 7977,
+    "nombre": "BOLSAS Extra Blanco Nro. 2L X 1000"
+  },
+  {
+    "codigo": 7964,
+    "nombre": "BOLSAS Extra Blanco Nro. 3"
+  },
+  {
+    "codigo": 7978,
+    "nombre": "BOLSAS Extra Blanco Nro. 3 X 1000"
+  },
+  {
+    "codigo": 7965,
+    "nombre": "BOLSAS Extra Blanco Nro. 3L"
+  },
+  {
+    "codigo": 7979,
+    "nombre": "BOLSAS Extra Blanco Nro. 3L X 1000"
+  },
+  {
+    "codigo": 7966,
+    "nombre": "BOLSAS Extra Blanco Nro. 4"
+  },
+  {
+    "codigo": 7980,
+    "nombre": "BOLSAS Extra Blanco Nro. 4 X 1000"
+  },
+  {
+    "codigo": 7967,
+    "nombre": "BOLSAS Extra Blanco Nro. 4A"
+  },
+  {
+    "codigo": 7981,
+    "nombre": "BOLSAS Extra Blanco Nro. 4A X 1000"
+  },
+  {
+    "codigo": 7969,
+    "nombre": "BOLSAS Extra Blanco Nro. 5"
+  },
+  {
+    "codigo": 7983,
+    "nombre": "BOLSAS Extra Blanco Nro. 5 X 1000"
+  },
+  {
+    "codigo": 7970,
+    "nombre": "BOLSAS Extra Blanco Nro. 6"
+  },
+  {
+    "codigo": 7971,
+    "nombre": "BOLSAS Extra Blanco Nro. 6L"
+  },
+  {
+    "codigo": 7985,
+    "nombre": "BOLSAS Extra Blanco Nro. 6L X 1000"
+  },
+  {
+    "codigo": 7972,
+    "nombre": "BOLSAS Extra Blanco Nro. 7"
+  },
+  {
+    "codigo": 7986,
+    "nombre": "BOLSAS Extra Blanco Nro. 7 X 1000"
+  },
+  {
+    "codigo": 7973,
+    "nombre": "BOLSAS Extra Blanco Nro. 8"
+  },
+  {
+    "codigo": 7987,
+    "nombre": "BOLSAS Extra Blanco Nro. 8 X 1000"
+  },
+  {
+    "codigo": 8131,
+    "nombre": "BOLSA DE P.P. CON SOLAPA Y ADHESIVO 10 x 15 x 1"
+  },
+  {
+    "codigo": 8120,
+    "nombre": "BOLSA DE P.P. CON SOLAPA Y ADHESIVO 10 x 15 x 1"
+  },
+  {
+    "codigo": 8132,
+    "nombre": "BOLSA DE P.P. CON SOLAPA Y ADHESIVO 10 x 20 x 1"
+  },
+  {
+    "codigo": 8121,
+    "nombre": "BOLSA DE P.P. CON SOLAPA Y ADHESIVO 10 x 20 x 2"
+  },
+  {
+    "codigo": 8133,
+    "nombre": "BOLSA DE P.P. CON SOLAPA Y ADHESIVO 12,5 x 13 ("
+  },
+  {
+    "codigo": 8134,
+    "nombre": "BOLSA DE P.P. CON SOLAPA Y ADHESIVO 15 x 20 x 1"
+  },
+  {
+    "codigo": 8123,
+    "nombre": "BOLSA DE P.P. CON SOLAPA Y ADHESIVO 15 x 20 x 2"
+  },
+  {
+    "codigo": 8135,
+    "nombre": "BOLSA DE P.P. CON SOLAPA Y ADHESIVO 15 x 25 x 1"
+  },
+  {
+    "codigo": 8124,
+    "nombre": "BOLSA DE P.P. CON SOLAPA Y ADHESIVO 15 x 25 x 2"
+  },
+  {
+    "codigo": 8136,
+    "nombre": "BOLSA DE P.P. CON SOLAPA Y ADHESIVO 20 x 30 x 1"
+  },
+  {
+    "codigo": 8125,
+    "nombre": "BOLSA DE P.P. CON SOLAPA Y ADHESIVO 20 x 30 x 1"
+  },
+  {
+    "codigo": 8137,
+    "nombre": "BOLSA DE P.P. CON SOLAPA Y ADHESIVO 25 x 35 x 1"
+  },
+  {
+    "codigo": 8126,
+    "nombre": "BOLSA DE P.P. CON SOLAPA Y ADHESIVO 25 x 35 x 1"
+  },
+  {
+    "codigo": 8138,
+    "nombre": "BOLSA DE P.P. CON SOLAPA Y ADHESIVO 30 x 40 x 1"
+  },
+  {
+    "codigo": 8127,
+    "nombre": "BOLSA DE P.P. CON SOLAPA Y ADHESIVO 30 x 40 x 1"
+  },
+  {
+    "codigo": 8139,
+    "nombre": "BOLSA DE P.P. CON SOLAPA Y ADHESIVO 35 x 45 x 1"
+  },
+  {
+    "codigo": 8128,
+    "nombre": "BOLSA DE P.P. CON SOLAPA Y ADHESIVO 35 x 45 x 1"
+  },
+  {
+    "codigo": 8129,
+    "nombre": "BOLSA DE P.P. CON SOLAPA Y ADHESIVO 6 x 15 x 10"
+  },
+  {
+    "codigo": 8118,
+    "nombre": "BOLSA DE P.P. CON SOLAPA Y ADHESIVO 6 x 15 x 20"
+  },
+  {
+    "codigo": 8130,
+    "nombre": "BOLSA DE P.P. CON SOLAPA Y ADHESIVO 8 x 15 x 10"
+  },
+  {
+    "codigo": 8119,
+    "nombre": "BOLSA DE P.P. CON SOLAPA Y ADHESIVO 8 x 15 x 20"
+  },
+  {
+    "codigo": 8122,
+    "nombre": "BOLSA DE P.P. CON SOLAPA Y ADHESIVO CD 200"
+  },
+  {
+    "codigo": 9189,
+    "nombre": "BOLSA DE POLIPROPILENO 17*35 X 200 UNI"
+  },
+  {
+    "codigo": 9584,
+    "nombre": "BOLSA DE POLIPROPILENO 17*35 X 5000 UNI"
+  },
+  {
+    "codigo": 9188,
+    "nombre": "BOLSA POLIPROPILENO 17*25 * 5000"
+  },
+  {
+    "codigo": 8069,
+    "nombre": "BOLSAS POLIPROPILENO   4 X 15 x 10000 UNI"
+  },
+  {
+    "codigo": 8020,
+    "nombre": "BOLSAS POLIPROPILENO   4 X 15 x 200 UNID."
+  },
+  {
+    "codigo": 8021,
+    "nombre": "BOLSAS POLIPROPILENO   4 X 20 x 100 UNID."
+  },
+  {
+    "codigo": 8070,
+    "nombre": "BOLSAS POLIPROPILENO   4 X 20 x 10000 UNI"
+  },
+  {
+    "codigo": 8071,
+    "nombre": "BOLSAS POLIPROPILENO   4 X 25 x 10000 UNI"
+  },
+  {
+    "codigo": 8022,
+    "nombre": "BOLSAS POLIPROPILENO   4 X 25 x 200 UNID."
+  },
+  {
+    "codigo": 8072,
+    "nombre": "BOLSAS POLIPROPILENO   4 X 30 x 10000 UNI"
+  },
+  {
+    "codigo": 8023,
+    "nombre": "BOLSAS POLIPROPILENO   4 X 30 x 200 UNID."
+  },
+  {
+    "codigo": 8073,
+    "nombre": "BOLSAS POLIPROPILENO   5 X 10 x 10000 UNI"
+  },
+  {
+    "codigo": 8024,
+    "nombre": "BOLSAS POLIPROPILENO   5 X 10 x 200 UNID."
+  },
+  {
+    "codigo": 9293,
+    "nombre": "BOLSAS POLIPROPILENO   5 X 15 x 200 UNID."
+  },
+  {
+    "codigo": 9292,
+    "nombre": "BOLSAS POLIPROPILENO   5 X 15 x 200 UNID."
+  },
+  {
+    "codigo": 8074,
+    "nombre": "BOLSAS POLIPROPILENO   5 X 20 x 10000 UNI"
+  },
+  {
+    "codigo": 8025,
+    "nombre": "BOLSAS POLIPROPILENO   5 X 20 x 200 UNID."
+  },
+  {
+    "codigo": 8075,
+    "nombre": "BOLSAS POLIPROPILENO   5 X 25 x 10000 UNI"
+  },
+  {
+    "codigo": 8026,
+    "nombre": "BOLSAS POLIPROPILENO   5 X 25 x 200 UNID."
+  },
+  {
+    "codigo": 8067,
+    "nombre": "BOLSAS POLIPROPILENO  40 x 50 x 100 UNID."
+  },
+  {
+    "codigo": 8116,
+    "nombre": "BOLSAS POLIPROPILENO  40 x 50 x 2500 UNID."
+  },
+  {
+    "codigo": 8068,
+    "nombre": "BOLSAS POLIPROPILENO  50 x 70 x 100 UNID."
+  },
+  {
+    "codigo": 8117,
+    "nombre": "BOLSAS POLIPROPILENO  50 x 70 x 1500 UNID."
+  },
+  {
+    "codigo": 8038,
+    "nombre": "BOLSAS POLIPROPILENO 10 x 15 x 200 UNID."
+  },
+  {
+    "codigo": 8087,
+    "nombre": "BOLSAS POLIPROPILENO 10 x 15 x 5000 UNI"
+  },
+  {
+    "codigo": 8039,
+    "nombre": "BOLSAS POLIPROPILENO 10 x 20 x 200 UNID."
+  },
+  {
+    "codigo": 8088,
+    "nombre": "BOLSAS POLIPROPILENO 10 x 20 x 5000 UNI"
+  },
+  {
+    "codigo": 8040,
+    "nombre": "BOLSAS POLIPROPILENO 10 x 25 x 200 UNID."
+  },
+  {
+    "codigo": 8089,
+    "nombre": "BOLSAS POLIPROPILENO 10 x 25 x 5000 UNI"
+  },
+  {
+    "codigo": 8041,
+    "nombre": "BOLSAS POLIPROPILENO 10 x 30 x 200 UNID."
+  },
+  {
+    "codigo": 8090,
+    "nombre": "BOLSAS POLIPROPILENO 10 x 30 x 5000 UNI"
+  },
+  {
+    "codigo": 8043,
+    "nombre": "BOLSAS POLIPROPILENO 12 x 20 x 200 UNID."
+  },
+  {
+    "codigo": 8092,
+    "nombre": "BOLSAS POLIPROPILENO 12 x 20 x 5000 UNI"
+  },
+  {
+    "codigo": 8045,
+    "nombre": "BOLSAS POLIPROPILENO 12 x 30 x 200 UNID."
+  },
+  {
+    "codigo": 8094,
+    "nombre": "BOLSAS POLIPROPILENO 12 x 30 x 5000 UNI"
+  },
+  {
+    "codigo": 8048,
+    "nombre": "BOLSAS POLIPROPILENO 13 x 20 x 200 UNID."
+  },
+  {
+    "codigo": 8097,
+    "nombre": "BOLSAS POLIPROPILENO 13 x 20 x 5000 UNI"
+  },
+  {
+    "codigo": 8049,
+    "nombre": "BOLSAS POLIPROPILENO 15 x 20 x 200 UNID."
+  },
+  {
+    "codigo": 8098,
+    "nombre": "BOLSAS POLIPROPILENO 15 x 20 x 5000 UNI"
+  },
+  {
+    "codigo": 8050,
+    "nombre": "BOLSAS POLIPROPILENO 15 x 25 x 200 UNID."
+  },
+  {
+    "codigo": 8099,
+    "nombre": "BOLSAS POLIPROPILENO 15 x 25 x 5000 UNI"
+  },
+  {
+    "codigo": 8051,
+    "nombre": "BOLSAS POLIPROPILENO 15 x 30 x 200 UNID."
+  },
+  {
+    "codigo": 8100,
+    "nombre": "BOLSAS POLIPROPILENO 15 x 30 x 5000 UNI"
+  },
+  {
+    "codigo": 8052,
+    "nombre": "BOLSAS POLIPROPILENO 15 x 35 x 200 UNID."
+  },
+  {
+    "codigo": 8101,
+    "nombre": "BOLSAS POLIPROPILENO 15 x 35 x 5000 UNI"
+  },
+  {
+    "codigo": 8057,
+    "nombre": "BOLSAS POLIPROPILENO 20 x 25 x 100 UNID."
+  },
+  {
+    "codigo": 8106,
+    "nombre": "BOLSAS POLIPROPILENO 20 x 25 x 5000 UNI"
+  },
+  {
+    "codigo": 8058,
+    "nombre": "BOLSAS POLIPROPILENO 20 x 30 x 100 UNID."
+  },
+  {
+    "codigo": 8107,
+    "nombre": "BOLSAS POLIPROPILENO 20 x 30 x 5000 UNI"
+  },
+  {
+    "codigo": 8059,
+    "nombre": "BOLSAS POLIPROPILENO 20 x 40 x 100 UNID."
+  },
+  {
+    "codigo": 8108,
+    "nombre": "BOLSAS POLIPROPILENO 20 x 40 x 5000 UNI"
+  },
+  {
+    "codigo": 8062,
+    "nombre": "BOLSAS POLIPROPILENO 25 x 35 x 100 UNID."
+  },
+  {
+    "codigo": 8111,
+    "nombre": "BOLSAS POLIPROPILENO 25 x 35 x 5000 UNI"
+  },
+  {
+    "codigo": 8063,
+    "nombre": "BOLSAS POLIPROPILENO 25 x 40 x 100 UNID."
+  },
+  {
+    "codigo": 8112,
+    "nombre": "BOLSAS POLIPROPILENO 25 x 40 x 5000 UNI"
+  },
+  {
+    "codigo": 8064,
+    "nombre": "BOLSAS POLIPROPILENO 30 x 40 x 100 UNID."
+  },
+  {
+    "codigo": 8113,
+    "nombre": "BOLSAS POLIPROPILENO 30 x 40 x 3000 UNID."
+  },
+  {
+    "codigo": 8066,
+    "nombre": "BOLSAS POLIPROPILENO 35 x 45 x 100 UNID."
+  },
+  {
+    "codigo": 8115,
+    "nombre": "BOLSAS POLIPROPILENO 35 x 45 x 3000 UNID."
+  },
+  {
+    "codigo": 8076,
+    "nombre": "BOLSAS POLIPROPILENO 5 X 30 x 10000 UNI"
+  },
+  {
+    "codigo": 8027,
+    "nombre": "BOLSAS POLIPROPILENO 5 X 30 x 200 UNID."
+  },
+  {
+    "codigo": 8077,
+    "nombre": "BOLSAS POLIPROPILENO 6 X 10 x 10000 UNI"
+  },
+  {
+    "codigo": 8028,
+    "nombre": "BOLSAS POLIPROPILENO 6 X 10 x 200 UNID."
+  },
+  {
+    "codigo": 8078,
+    "nombre": "BOLSAS POLIPROPILENO 6 X 15 x 10000 UNI"
+  },
+  {
+    "codigo": 8029,
+    "nombre": "BOLSAS POLIPROPILENO 6 X 15 x 200 UNID."
+  },
+  {
+    "codigo": 8079,
+    "nombre": "BOLSAS POLIPROPILENO 6 X 20 x 10000 UNI"
+  },
+  {
+    "codigo": 8030,
+    "nombre": "BOLSAS POLIPROPILENO 6 X 20 x 200 UNID."
+  },
+  {
+    "codigo": 8080,
+    "nombre": "BOLSAS POLIPROPILENO 6 X 25 x 10000 UNI"
+  },
+  {
+    "codigo": 8031,
+    "nombre": "BOLSAS POLIPROPILENO 6 X 25 x 200 UNID."
+  },
+  {
+    "codigo": 8081,
+    "nombre": "BOLSAS POLIPROPILENO 6 X 30 x 10000 UNI"
+  },
+  {
+    "codigo": 8032,
+    "nombre": "BOLSAS POLIPROPILENO 6 X 30 x 200 UNID."
+  },
+  {
+    "codigo": 8082,
+    "nombre": "BOLSAS POLIPROPILENO 8 x 10  x 10000 UNI"
+  },
+  {
+    "codigo": 8033,
+    "nombre": "BOLSAS POLIPROPILENO 8 x 10  x 200 UNID."
+  },
+  {
+    "codigo": 8034,
+    "nombre": "BOLSAS POLIPROPILENO 8 x 15  x 100 UNID."
+  },
+  {
+    "codigo": 8083,
+    "nombre": "BOLSAS POLIPROPILENO 8 x 15  x 10000 UNI"
+  },
+  {
+    "codigo": 8084,
+    "nombre": "BOLSAS POLIPROPILENO 8 X 20 x 10000 UNI"
+  },
+  {
+    "codigo": 8035,
+    "nombre": "BOLSAS POLIPROPILENO 8 X 20 x 200 UNID."
+  },
+  {
+    "codigo": 8085,
+    "nombre": "BOLSAS POLIPROPILENO 8 X 25 x 10000 UNI"
+  },
+  {
+    "codigo": 8036,
+    "nombre": "BOLSAS POLIPROPILENO 8 X 25 x 200 UNID."
+  },
+  {
+    "codigo": 8086,
+    "nombre": "BOLSAS POLIPROPILENO 8 X 30 x 10000 UNI"
+  },
+  {
+    "codigo": 8037,
+    "nombre": "BOLSAS POLIPROPILENO 8 X 30 x 200 UNID."
+  },
+  {
+    "codigo": 9367,
+    "nombre": "POLIPROPILENO 20*35*100"
+  },
+  {
+    "codigo": 9376,
+    "nombre": "POLIPROPILENO 5*15*200 UNIDADES"
+  },
+  {
+    "codigo": 9234,
+    "nombre": "BOLSA DE FRISELINA  40*45"
+  },
+  {
+    "codigo": 9261,
+    "nombre": "BOLSA DE FRISELINA LISA  40*45 * 100"
+  },
+  {
+    "codigo": 8147,
+    "nombre": "BOLSAS DE PAPEL CON MANIJA   KP 5 KRAFT 30 x 4"
+  },
+  {
+    "codigo": 8175,
+    "nombre": "BOLSAS DE PAPEL CON MANIJA   KP0 KRAFT 9.5 x 1"
+  },
+  {
+    "codigo": 8142,
+    "nombre": "BOLSAS DE PAPEL CON MANIJA   KP0 KRAFT 9.5 x 1"
+  },
+  {
+    "codigo": 8176,
+    "nombre": "BOLSAS DE PAPEL CON MANIJA   KP1 KRAFT 12 x 20"
+  },
+  {
+    "codigo": 8143,
+    "nombre": "BOLSAS DE PAPEL CON MANIJA   KP1 KRAFT 12 x 20"
+  },
+  {
+    "codigo": 8177,
+    "nombre": "BOLSAS DE PAPEL CON MANIJA   KP2 KRAFT 16 x 24"
+  },
+  {
+    "codigo": 8144,
+    "nombre": "BOLSAS DE PAPEL CON MANIJA   KP2 KRAFT 16 x 24"
+  },
+  {
+    "codigo": 8178,
+    "nombre": "BOLSAS DE PAPEL CON MANIJA   KP3 KRAFT 20 x 32"
+  },
+  {
+    "codigo": 8145,
+    "nombre": "BOLSAS DE PAPEL CON MANIJA   KP3 KRAFT 20 x 32"
+  },
+  {
+    "codigo": 8179,
+    "nombre": "BOLSAS DE PAPEL CON MANIJA   KP4 KRAFT 26 x 36"
+  },
+  {
+    "codigo": 8146,
+    "nombre": "BOLSAS DE PAPEL CON MANIJA   KP4 KRAFT 26 x 36"
+  },
+  {
+    "codigo": 8180,
+    "nombre": "BOLSAS DE PAPEL CON MANIJA   KP5 KRAFT 30 x 41"
+  },
+  {
+    "codigo": 8181,
+    "nombre": "BOLSAS DE PAPEL CON MANIJA   KP7 KRAFT 35 x 47"
+  },
+  {
+    "codigo": 8148,
+    "nombre": "BOLSAS DE PAPEL CON MANIJA   KP7 KRAFT 35 x 47"
+  },
+  {
+    "codigo": 8173,
+    "nombre": "BOLSAS DE PAPEL CON MANIJA   P/ 1 BOTELLA KRA"
+  },
+  {
+    "codigo": 8140,
+    "nombre": "BOLSAS DE PAPEL CON MANIJA   P/ 1 BOTELLA KRA"
+  },
+  {
+    "codigo": 8174,
+    "nombre": "BOLSAS DE PAPEL CON MANIJA   P/ 2 BOTELLAS KR"
+  },
+  {
+    "codigo": 8141,
+    "nombre": "BOLSAS DE PAPEL CON MANIJA   P/ 2 BOTELLAS KR"
+  },
+  {
+    "codigo": 9373,
+    "nombre": "BOLSA KP MARIPOSA / LUNAR"
+  },
+  {
+    "codigo": 8150,
+    "nombre": "BOLSAS DE PAPEL CON MANIJA   KP2 BLANCO 16 x"
+  },
+  {
+    "codigo": 8156,
+    "nombre": "BOLSAS DE PAPEL CON MANIJA   KP2 COLOR 16 x 2"
+  },
+  {
+    "codigo": 8151,
+    "nombre": "BOLSAS DE PAPEL CON MANIJA   KP3 BLANCO 20 x"
+  },
+  {
+    "codigo": 8157,
+    "nombre": "BOLSAS DE PAPEL CON MANIJA   KP3 COLOR 20 x 3"
+  },
+  {
+    "codigo": 8152,
+    "nombre": "BOLSAS DE PAPEL CON MANIJA   KP4 BLANCO 26 x"
+  },
+  {
+    "codigo": 8158,
+    "nombre": "BOLSAS DE PAPEL CON MANIJA   KP4 COLOR 26 x 3"
+  },
+  {
+    "codigo": 8153,
+    "nombre": "BOLSAS DE PAPEL CON MANIJA   KP5 BLANCO 30 x"
+  },
+  {
+    "codigo": 8159,
+    "nombre": "BOLSAS DE PAPEL CON MANIJA   KP5 COLOR 30 x 4"
+  },
+  {
+    "codigo": 8154,
+    "nombre": "BOLSAS DE PAPEL CON MANIJA   KP7 BLANCO 35 x"
+  },
+  {
+    "codigo": 8160,
+    "nombre": "BOLSAS DE PAPEL CON MANIJA   KP7 COLOR 35 x 4"
+  },
+  {
+    "codigo": 8149,
+    "nombre": "BOLSAS DE PAPEL CON MANIJA KP1 BLANCO 12 x"
+  },
+  {
+    "codigo": 8566,
+    "nombre": "BOLSAS DE PAPEL CON MANIJA KP1 BLANCO 12 x 2"
+  },
+  {
+    "codigo": 8155,
+    "nombre": "BOLSAS DE PAPEL CON MANIJA KP1 COLOR 12 x 2"
+  },
+  {
+    "codigo": 8574,
+    "nombre": "BOLSAS DE PAPEL CON MANIJA KP1 COLOR 12 x 20"
+  },
+  {
+    "codigo": 8568,
+    "nombre": "BOLSAS DE PAPEL CON MANIJA KP2 BLANCO 18 x 2"
+  },
+  {
+    "codigo": 8575,
+    "nombre": "BOLSAS DE PAPEL CON MANIJA KP2 COLOR 16 x 24"
+  },
+  {
+    "codigo": 8569,
+    "nombre": "BOLSAS DE PAPEL CON MANIJA KP3 BLANCO 20 x 3"
+  },
+  {
+    "codigo": 8576,
+    "nombre": "BOLSAS DE PAPEL CON MANIJA KP3 COLOR 20 x 32"
+  },
+  {
+    "codigo": 8570,
+    "nombre": "BOLSAS DE PAPEL CON MANIJA KP4 BLANCO 26 x 3"
+  },
+  {
+    "codigo": 8577,
+    "nombre": "BOLSAS DE PAPEL CON MANIJA KP4 COLOR 26 x 36"
+  },
+  {
+    "codigo": 8571,
+    "nombre": "BOLSAS DE PAPEL CON MANIJA KP5 BLANCO 30 x 4"
+  },
+  {
+    "codigo": 8578,
+    "nombre": "BOLSAS DE PAPEL CON MANIJA KP5 COLOR 30 x 41"
+  },
+  {
+    "codigo": 8573,
+    "nombre": "BOLSAS DE PAPEL CON MANIJA KP7 BLANCO 35 x 4"
+  },
+  {
+    "codigo": 8579,
+    "nombre": "BOLSAS DE PAPEL CON MANIJA KP7 COLOR 35 x 47"
+  },
+  {
+    "codigo": 8580,
+    "nombre": "BOLSA LUNARES CHICA 12x23 x 500"
+  },
+  {
+    "codigo": 8182,
+    "nombre": "BOLSA LUNARES/LISAS CHICA 12x23 x"
+  },
+  {
+    "codigo": 8183,
+    "nombre": "BOLSA PLENO LARGA 12x23 x 500"
+  },
+  {
+    "codigo": 9192,
+    "nombre": "BOLSA PARA ESCOMBRO 50*70 *10 UNIDADES"
+  },
+  {
+    "codigo": 8184,
+    "nombre": "BOLSA RESIDUO 45*60 X 10 UNI"
+  },
+  {
+    "codigo": 8189,
+    "nombre": "BOLSA RESIDUO 45*60 X 100 UNI"
+  },
+  {
+    "codigo": 8194,
+    "nombre": "BOLSA RESIDUO 45*60 X 1000 UNI"
+  },
+  {
+    "codigo": 8185,
+    "nombre": "BOLSA RESIDUO 50*70 X 10 UNI"
+  },
+  {
+    "codigo": 8190,
+    "nombre": "BOLSA RESIDUO 50*70 X 100 UNI"
+  },
+  {
+    "codigo": 8195,
+    "nombre": "BOLSA RESIDUO 50*70 X 1000 UNI"
+  },
+  {
+    "codigo": 8186,
+    "nombre": "BOLSA RESIDUO 60*90 X 10 UNI"
+  },
+  {
+    "codigo": 8191,
+    "nombre": "BOLSA RESIDUO 60*90 X 100 UNI"
+  },
+  {
+    "codigo": 8196,
+    "nombre": "BOLSA RESIDUO 60*90 X 500 UNI"
+  },
+  {
+    "codigo": 8187,
+    "nombre": "BOLSA RESIDUO 80*110 X 10 UNI"
+  },
+  {
+    "codigo": 8192,
+    "nombre": "BOLSA RESIDUO 80*110 X 100 UNI"
+  },
+  {
+    "codigo": 8197,
+    "nombre": "BOLSA RESIDUO 80*110 X 250 UNI"
+  },
+  {
+    "codigo": 8188,
+    "nombre": "BOLSA RESIDUO 90*120 X 10 UNI"
+  },
+  {
+    "codigo": 8193,
+    "nombre": "BOLSA RESIDUO 90*120 X 100 UNI"
+  },
+  {
+    "codigo": 8198,
+    "nombre": "BOLSA RESIDUO 90*120 X 250 UNI"
+  },
+  {
+    "codigo": 9509,
+    "nombre": "CONBSORCIO 60*90 VERDE 10 UNIDADES"
+  },
+  {
+    "codigo": 9512,
+    "nombre": "CONBSORCIO 60*90 VERDE 400 UNIDADES"
+  },
+  {
+    "codigo": 9361,
+    "nombre": "CONSOCIO 50*70 * 10 UNIDADES ROJO"
+  },
+  {
+    "codigo": 9513,
+    "nombre": "CONSOCIO 50*70 * 1000 UNIDADES ROJO"
+  },
+  {
+    "codigo": 9362,
+    "nombre": "CONSORCIO 60*90 * 10 ROJO"
+  },
+  {
+    "codigo": 9614,
+    "nombre": "CONSORCIO 60*90 * 500 ROJO"
+  },
+  {
+    "codigo": 9297,
+    "nombre": "CONSORCIO 80*110 TRANSPARENTE X 250 UNI"
+  },
+  {
+    "codigo": 9165,
+    "nombre": "CONSORCIO 80*110 VERDE * 250"
+  },
+  {
+    "codigo": 9511,
+    "nombre": "RESIDUO 50*70 * 1500 UNIDADES VERDE"
+  },
+  {
+    "codigo": 9510,
+    "nombre": "RESIDUO 50*70 * 30 UNIDADES VERDE"
+  },
+  {
+    "codigo": 8199,
+    "nombre": "BOLSA RIÑON 15X20 X 50 UNIDADES"
+  },
+  {
+    "codigo": 8206,
+    "nombre": "BOLSA RIÑON 15X20 X 500 UNIDADES"
+  },
+  {
+    "codigo": 8200,
+    "nombre": "BOLSA RIÑON 20X30 X 50 UNIDADES"
+  },
+  {
+    "codigo": 8207,
+    "nombre": "BOLSA RIÑON 20X30 X 500 UNIDADES"
+  },
+  {
+    "codigo": 8201,
+    "nombre": "BOLSA RIÑON 25X35 X 50 UNIDADES"
+  },
+  {
+    "codigo": 8208,
+    "nombre": "BOLSA RIÑON 25X35 X 500 UNIDADES"
+  },
+  {
+    "codigo": 8202,
+    "nombre": "BOLSA RIÑON 30X40 X 50 UNIDADES"
+  },
+  {
+    "codigo": 8209,
+    "nombre": "BOLSA RIÑON 30X40 X 500 UNIDADES"
+  },
+  {
+    "codigo": 8203,
+    "nombre": "BOLSA RIÑON 35X45 X 50 UNIDADES"
+  },
+  {
+    "codigo": 8210,
+    "nombre": "BOLSA RIÑON 35X45 X 500 UNIDADES"
+  },
+  {
+    "codigo": 8204,
+    "nombre": "BOLSA RIÑON 40X50 X 50 UNIDADES"
+  },
+  {
+    "codigo": 8211,
+    "nombre": "BOLSA RIÑON 40X500 X 500 UNIDADES"
+  },
+  {
+    "codigo": 8212,
+    "nombre": "BOLSA RIÑON 500X60 X 500 UNIDADES"
+  },
+  {
+    "codigo": 8205,
+    "nombre": "BOLSA RIÑON 50X60 X 50 UNIDADES"
+  },
+  {
+    "codigo": 9241,
+    "nombre": "BOLSA RIÑON VINO"
+  },
+  {
+    "codigo": 8233,
+    "nombre": "BOLSAS CON RIÑON A/D IMPRESAS 15 X 20 x 1000 U"
+  },
+  {
+    "codigo": 8225,
+    "nombre": "BOLSAS CON RIÑON A/D IMPRESAS 15 X 20 x 50 UNI"
+  },
+  {
+    "codigo": 8234,
+    "nombre": "BOLSAS CON RIÑON A/D IMPRESAS 20 X 30 x 1000 U"
+  },
+  {
+    "codigo": 8226,
+    "nombre": "BOLSAS CON RIÑON A/D IMPRESAS 20 X 30 x 50"
+  },
+  {
+    "codigo": 8235,
+    "nombre": "BOLSAS CON RIÑON A/D IMPRESAS 25 X 35 x 1000 U"
+  },
+  {
+    "codigo": 8227,
+    "nombre": "BOLSAS CON RIÑON A/D IMPRESAS 25 X 35 x 50"
+  },
+  {
+    "codigo": 8236,
+    "nombre": "BOLSAS CON RIÑON A/D IMPRESAS 30 X 40 x 1000 U"
+  },
+  {
+    "codigo": 8228,
+    "nombre": "BOLSAS CON RIÑON A/D IMPRESAS 30 X 40 x 50"
+  },
+  {
+    "codigo": 8237,
+    "nombre": "BOLSAS CON RIÑON A/D IMPRESAS 35 X 45 x 1000 U"
+  },
+  {
+    "codigo": 8229,
+    "nombre": "BOLSAS CON RIÑON A/D IMPRESAS 35 X 45 x 50"
+  },
+  {
+    "codigo": 8238,
+    "nombre": "BOLSAS CON RIÑON A/D IMPRESAS 40 X 50 x 1000 U"
+  },
+  {
+    "codigo": 8230,
+    "nombre": "BOLSAS CON RIÑON A/D IMPRESAS 40 X 50 x 50"
+  },
+  {
+    "codigo": 8231,
+    "nombre": "BOLSAS CON RIÑON A/D IMPRESAS 50 X 60 x 100"
+  },
+  {
+    "codigo": 8239,
+    "nombre": "BOLSAS CON RIÑON A/D IMPRESAS 50 X 60 x 1000 U"
+  },
+  {
+    "codigo": 8232,
+    "nombre": "BOLSAS CON RIÑON A/D IMPRESAS 60 X 60 x 100"
+  },
+  {
+    "codigo": 8213,
+    "nombre": "BOLSAS CON RIÑON A/D LISAS 15 X 20 x 50 UNI"
+  },
+  {
+    "codigo": 8214,
+    "nombre": "BOLSAS CON RIÑON A/D LISAS 20 X 30 x 50 UNI"
+  },
+  {
+    "codigo": 8220,
+    "nombre": "BOLSAS CON RIÑON A/D LISAS 20 X 30 x 500 UNI"
+  },
+  {
+    "codigo": 8215,
+    "nombre": "BOLSAS CON RIÑON A/D LISAS 25 X 35 x 50 UNI"
+  },
+  {
+    "codigo": 8221,
+    "nombre": "BOLSAS CON RIÑON A/D LISAS 25 X 35 x 500 UNI"
+  },
+  {
+    "codigo": 8216,
+    "nombre": "BOLSAS CON RIÑON A/D LISAS 30 X 40 x 50 UNI"
+  },
+  {
+    "codigo": 8222,
+    "nombre": "BOLSAS CON RIÑON A/D LISAS 30 X 40 x 500 UNI"
+  },
+  {
+    "codigo": 8247,
+    "nombre": "BOLSAS ZIPPER 10 x 15  x 100 u."
+  },
+  {
+    "codigo": 8257,
+    "nombre": "BOLSAS ZIPPER 10 x 15  x 1000 u."
+  },
+  {
+    "codigo": 8248,
+    "nombre": "BOLSAS ZIPPER 12 x 17  x 100 u."
+  },
+  {
+    "codigo": 8258,
+    "nombre": "BOLSAS ZIPPER 12 x 17  x 1000 u."
+  },
+  {
+    "codigo": 8249,
+    "nombre": "BOLSAS ZIPPER 15 x 20  x 100 u."
+  },
+  {
+    "codigo": 8259,
+    "nombre": "BOLSAS ZIPPER 15 x 20  x 1000 u."
+  },
+  {
+    "codigo": 9552,
+    "nombre": "BOLSAS ZIPPER 15*20*10 u."
+  },
+  {
+    "codigo": 8250,
+    "nombre": "BOLSAS ZIPPER 17 x 25  x 100 u."
+  },
+  {
+    "codigo": 8260,
+    "nombre": "BOLSAS ZIPPER 17 x 25  x 1000 u."
+  },
+  {
+    "codigo": 8251,
+    "nombre": "BOLSAS ZIPPER 20 x 30  x 100 u."
+  },
+  {
+    "codigo": 8261,
+    "nombre": "BOLSAS ZIPPER 20 x 30  x 1000 u."
+  },
+  {
+    "codigo": 9543,
+    "nombre": "BOLSAS ZIPPER 20*30 x 10 u."
+  },
+  {
+    "codigo": 8252,
+    "nombre": "BOLSAS ZIPPER 25 x 35  x 100 u."
+  },
+  {
+    "codigo": 8262,
+    "nombre": "BOLSAS ZIPPER 25 x 35  x 1000 u."
+  },
+  {
+    "codigo": 8253,
+    "nombre": "BOLSAS ZIPPER 30 x 40  x 100 u."
+  },
+  {
+    "codigo": 8263,
+    "nombre": "BOLSAS ZIPPER 30 x 40  x 1000 u."
+  },
+  {
+    "codigo": 8254,
+    "nombre": "BOLSAS ZIPPER 35 x 45  x 100 u."
+  },
+  {
+    "codigo": 8264,
+    "nombre": "BOLSAS ZIPPER 35 x 45  x 1000 u."
+  },
+  {
+    "codigo": 9542,
+    "nombre": "BOLSAS ZIPPER 7 *10  x 10 UNIDADES"
+  },
+  {
+    "codigo": 8245,
+    "nombre": "BOLSAS ZIPPER 7 x 10  x 100 u."
+  },
+  {
+    "codigo": 8255,
+    "nombre": "BOLSAS ZIPPER 7 x 10  x 1000 u."
+  },
+  {
+    "codigo": 8246,
+    "nombre": "BOLSAS ZIPPER 9 x 12  x 100 u."
+  },
+  {
+    "codigo": 8256,
+    "nombre": "BOLSAS ZIPPER 9 x 12  x 1000 u."
+  },
+  {
+    "codigo": 8266,
+    "nombre": "CAJAS PARA BOMBONES FINO 1/2kg."
+  },
+  {
+    "codigo": 8269,
+    "nombre": "CAJAS PARA BOMBONES FINO 1/2kg. X 40 UNI"
+  },
+  {
+    "codigo": 9533,
+    "nombre": "CAJAS PARA BOMBONES FINO 1/4 KG"
+  },
+  {
+    "codigo": 8268,
+    "nombre": "CAJAS PARA BOMBONES FINO 1/4kg. X 50 UNI"
+  },
+  {
+    "codigo": 8267,
+    "nombre": "CAJAS PARA BOMBONES FINO 1kg."
+  },
+  {
+    "codigo": 8270,
+    "nombre": "CAJAS PARA BOMBONES FINO 1kg. X 20 UNI"
+  },
+  {
+    "codigo": 8265,
+    "nombre": "CAJAS PARA BOMBONES FINO ESTAMPADA 1/4 KG"
+  },
+  {
+    "codigo": 9157,
+    "nombre": "CAJA PARA CUP CAKE PARA  6 UNI"
+  },
+  {
+    "codigo": 9156,
+    "nombre": "CAJA PARA TORTA 27*27"
+  },
+  {
+    "codigo": 9136,
+    "nombre": "CAJA PARA TORTA 30*30"
+  },
+  {
+    "codigo": 9155,
+    "nombre": "CAJA PARA TORTA 33*33"
+  },
+  {
+    "codigo": 9345,
+    "nombre": "CAJA PARA TORTAS 20*15"
+  },
+  {
+    "codigo": 9190,
+    "nombre": "PORTA CUP CAKE 12 UNIDADES"
+  },
+  {
+    "codigo": 9279,
+    "nombre": "CAJA FANTASIA BAJO CAMA"
+  },
+  {
+    "codigo": 9276,
+    "nombre": "CAJA FANTASIA CHICA"
+  },
+  {
+    "codigo": 9159,
+    "nombre": "CAJA FANTASIA CHICA"
+  },
+  {
+    "codigo": 9278,
+    "nombre": "CAJA FANTASIA GRANDE"
+  },
+  {
+    "codigo": 9277,
+    "nombre": "CAJA FANTASIA MEDIANA"
+  },
+  {
+    "codigo": 9243,
+    "nombre": "CAJA FELICIES FIESTAS"
+  },
+  {
+    "codigo": 8280,
+    "nombre": "CAJAS DE CARTON 30x20x20"
+  },
+  {
+    "codigo": 8286,
+    "nombre": "CAJAS DE CARTON 30x20x20 * 100 UNI"
+  },
+  {
+    "codigo": 8287,
+    "nombre": "CAJAS DE CARTON 40x30x30"
+  },
+  {
+    "codigo": 8281,
+    "nombre": "CAJAS DE CARTON 40x30x30"
+  },
+  {
+    "codigo": 8282,
+    "nombre": "CAJAS DE CARTON 50x40x30"
+  },
+  {
+    "codigo": 8288,
+    "nombre": "CAJAS DE CARTON 50x40x30 * 100"
+  },
+  {
+    "codigo": 8283,
+    "nombre": "CAJAS DE CARTON 60x40x40"
+  },
+  {
+    "codigo": 8289,
+    "nombre": "CAJAS DE CARTON 60x40x40 * 100 UNI"
+  },
+  {
+    "codigo": 8290,
+    "nombre": "CAJAS DE CARTON 70x50x50 REFORZ. EN 120 * 100"
+  },
+  {
+    "codigo": 8284,
+    "nombre": "CAJAS DE CARTON 70x50x50 REFORZ. EN 120 Lbs."
+  },
+  {
+    "codigo": 8291,
+    "nombre": "CAJAS P/ RAVIOLES x 500"
+  },
+  {
+    "codigo": 8285,
+    "nombre": "CAJAS P/ RAVIOLES x100"
+  },
+  {
+    "codigo": 9280,
+    "nombre": "SET DE 3 CAJAS"
+  },
+  {
+    "codigo": 9370,
+    "nombre": "CAJA PARA EMPANADA 6"
+  },
+  {
+    "codigo": 9123,
+    "nombre": "CAJA PARA EMPANADA PARA DOCENA"
+  },
+  {
+    "codigo": 8293,
+    "nombre": "CAJA PARA PIZZA GRIS CHICA X 100 UNIDADES"
+  },
+  {
+    "codigo": 8292,
+    "nombre": "CAJA PARA PIZZA GRIS X 100 UNIDADES"
+  },
+  {
+    "codigo": 8294,
+    "nombre": "CAJA PARA PIZZA MARRON MARRON CHICA X 50 UN"
+  },
+  {
+    "codigo": 8295,
+    "nombre": "CAJA PARA PIZZA MARRON MARRON GRANDE X 50"
+  },
+  {
+    "codigo": 9306,
+    "nombre": "CAPA PARA EMPANADA 18 (DOCENA Y MEDIA)"
+  },
+  {
+    "codigo": 8311,
+    "nombre": "CARTEL DIGITAL N 1 x 50 u. (   2.00 x 3.00 cm. )"
+  },
+  {
+    "codigo": 8316,
+    "nombre": "CARTEL DIGITAL N 1 x 50 u. (   2.00 x 3.00 cm. ) *"
+  },
+  {
+    "codigo": 8312,
+    "nombre": "CARTEL DIGITAL N 2 x 50 u. (   4.50 x 2.50 cm. )"
+  },
+  {
+    "codigo": 8317,
+    "nombre": "CARTEL DIGITAL N 2 x 50 u. (   4.50 x 2.50 cm. ) *"
+  },
+  {
+    "codigo": 8313,
+    "nombre": "CARTEL DIGITAL N 3 x 50 u. (   7.50 x 4.20 cm. )"
+  },
+  {
+    "codigo": 8318,
+    "nombre": "CARTEL DIGITAL N 3 x 50 u. (   7.50 x 4.20 cm. ) *"
+  },
+  {
+    "codigo": 8314,
+    "nombre": "CARTEL DIGITAL N 4 x 50 u. ( 11.00 x 6.40 cm. )"
+  },
+  {
+    "codigo": 8319,
+    "nombre": "CARTEL DIGITAL N 4 x 50 u. ( 11.00 x 6.40 cm. ) *"
+  },
+  {
+    "codigo": 8315,
+    "nombre": "CARTEL DIGITAL N 5 x 50 u. ( 15.00 x 9.00 cm. )"
+  },
+  {
+    "codigo": 8320,
+    "nombre": "CARTEL DIGITAL N 5 x 50 u. ( 15.00 x 9.00 cm. ) *"
+  },
+  {
+    "codigo": 8296,
+    "nombre": "CARTELES DIGITALES"
+  },
+  {
+    "codigo": 8304,
+    "nombre": "CARTEL ESTALLIDO N 0 x 25 UNID. (   4.50 x   4.00"
+  },
+  {
+    "codigo": 8297,
+    "nombre": "CARTEL ESTALLIDO N 0 x 25 UNID. (   4.50 x   4.00"
+  },
+  {
+    "codigo": 8305,
+    "nombre": "CARTEL ESTALLIDO N 1 x 25 UNID. (   6.00 x   4.50"
+  },
+  {
+    "codigo": 8298,
+    "nombre": "CARTEL ESTALLIDO N 1 x 25 UNID. (   6.00 x   4.50"
+  },
+  {
+    "codigo": 8306,
+    "nombre": "CARTEL ESTALLIDO N 2 x 25 UNID. (   8.50 x   6.00"
+  },
+  {
+    "codigo": 8299,
+    "nombre": "CARTEL ESTALLIDO N 2 x 25 UNID. (   8.50 x   6.00"
+  },
+  {
+    "codigo": 8307,
+    "nombre": "CARTEL ESTALLIDO N 3 x 25 UNID. ( 12.00 x   8.50 c"
+  },
+  {
+    "codigo": 8300,
+    "nombre": "CARTEL ESTALLIDO N 3 x 25 UNID. ( 12.00 x   8.50 c"
+  },
+  {
+    "codigo": 8308,
+    "nombre": "CARTEL ESTALLIDO N 4 x 25 UNID. ( 15.60 x 12.50 cm"
+  },
+  {
+    "codigo": 8301,
+    "nombre": "CARTEL ESTALLIDO N 4 x 25 UNID. ( 15.60 x 12.50 cm"
+  },
+  {
+    "codigo": 8309,
+    "nombre": "CARTEL ESTALLIDO N 5 x 25 UNID. ( 23.00 x 17.00 cm"
+  },
+  {
+    "codigo": 8302,
+    "nombre": "CARTEL ESTALLIDO N 5 x 25 UNID. ( 23.00 x 17.00 cm"
+  },
+  {
+    "codigo": 8310,
+    "nombre": "CARTEL ESTALLIDO N 6 x 15 UNID. ( 37.00 x 28.00 cm"
+  },
+  {
+    "codigo": 8303,
+    "nombre": "CARTEL ESTALLIDO N 6 x 15 UNID. ( 37.00 x 28.00 cm"
+  },
+  {
+    "codigo": 9139,
+    "nombre": "CARTELES PLASCIOS CHICO"
+  },
+  {
+    "codigo": 9175,
+    "nombre": "CALCO ATOADHESIVO"
+  },
+  {
+    "codigo": 9587,
+    "nombre": "CALCO FELICES FIESTA TROQUELADO"
+  },
+  {
+    "codigo": 9143,
+    "nombre": "CARTEL GRANDE SENALIZACION"
+  },
+  {
+    "codigo": 9187,
+    "nombre": "CARTEL OFERTA GRANDE"
+  },
+  {
+    "codigo": 8325,
+    "nombre": "CARTEL PLASTICO BLANCO"
+  },
+  {
+    "codigo": 9169,
+    "nombre": "CARTEL PLASTICO GRANDE"
+  },
+  {
+    "codigo": 8326,
+    "nombre": "CARTEL PLASTICO VERDE"
+  },
+  {
+    "codigo": 8323,
+    "nombre": "CARTEL SILUETA BAÑO"
+  },
+  {
+    "codigo": 8324,
+    "nombre": "ENSEGUIDA VUELVO (5CM*15CM)"
+  },
+  {
+    "codigo": 9158,
+    "nombre": "FAJA PUBLICIDAD"
+  },
+  {
+    "codigo": 8329,
+    "nombre": "CINTA 12**30 MTS"
+  },
+  {
+    "codigo": 8330,
+    "nombre": "CINTA 12*30 MTS * 72 ROLLOS"
+  },
+  {
+    "codigo": 8331,
+    "nombre": "CINTA 12*60 MTS"
+  },
+  {
+    "codigo": 8332,
+    "nombre": "CINTA 12*60 MTS * 72 ROLLOS"
+  },
+  {
+    "codigo": 9254,
+    "nombre": "CINTA 24 * 50 MTS * 10 UNIDADES"
+  },
+  {
+    "codigo": 8333,
+    "nombre": "CINTA 24*50MTS"
+  },
+  {
+    "codigo": 8334,
+    "nombre": "CINTA 24*50MTS * 144 ROLLOS"
+  },
+  {
+    "codigo": 8335,
+    "nombre": "CINTA 48*100MTS"
+  },
+  {
+    "codigo": 8336,
+    "nombre": "CINTA 48*100MTS* 54 CINTAS"
+  },
+  {
+    "codigo": 9375,
+    "nombre": "CINTA ADHESIVA FRAGIL"
+  },
+  {
+    "codigo": 9255,
+    "nombre": "CINTA DE 48 *100 MTS * 10 UNIDADES"
+  },
+  {
+    "codigo": 9313,
+    "nombre": "TUBO CINTA 12*30*12"
+  },
+  {
+    "codigo": 8327,
+    "nombre": "TUBO DE CINTA 12*8MTS"
+  },
+  {
+    "codigo": 8328,
+    "nombre": "TUBO DE CINTA 12*8MTS X 30 TUBOD"
+  },
+  {
+    "codigo": 8337,
+    "nombre": "CINTA DE PAPEL 12 * 30 MTS"
+  },
+  {
+    "codigo": 8339,
+    "nombre": "CINTA DE PAPEL 12 * 30 MTS * 72"
+  },
+  {
+    "codigo": 8342,
+    "nombre": "CINTA DE PAPEL 18 X 30MTS"
+  },
+  {
+    "codigo": 8343,
+    "nombre": "CINTA DE PAPEL 18 X 30MTS * 48 ROLLOS"
+  },
+  {
+    "codigo": 8344,
+    "nombre": "CINTA DE PAPEL 24 * 30 MTS"
+  },
+  {
+    "codigo": 8345,
+    "nombre": "CINTA DE PAPEL 24 * 30 MTS * 36"
+  },
+  {
+    "codigo": 8346,
+    "nombre": "CINTA DE PAPEL 36 * 30 MTS"
+  },
+  {
+    "codigo": 8347,
+    "nombre": "CINTA DE PAPEL 36 * 30 MTS * 36"
+  },
+  {
+    "codigo": 8348,
+    "nombre": "CINTA DE PAPEL 48 * 30 MTS"
+  },
+  {
+    "codigo": 8349,
+    "nombre": "CINTA DE PAPEL 48 * 30 MTS * 20"
+  },
+  {
+    "codigo": 9160,
+    "nombre": "CINTA PARA MOÑO X 50 MTS"
+  },
+  {
+    "codigo": 8350,
+    "nombre": "CINTA PARA REGALO DE 10MM X 10 MTS"
+  },
+  {
+    "codigo": 8351,
+    "nombre": "CINTA PARA REGALO DE 10MM X 10 MTS * 30"
+  },
+  {
+    "codigo": 8352,
+    "nombre": "CINTA PARA REGALO DE 10MM X 50 MTS"
+  },
+  {
+    "codigo": 8358,
+    "nombre": "CINTA PARA REGALO DE 10MM X 500 MTS"
+  },
+  {
+    "codigo": 8357,
+    "nombre": "CINTA PARA REGALO DE 10MM X 500 MTS * 10 ROLL"
+  },
+  {
+    "codigo": 8353,
+    "nombre": "CINTA PARA REGALO DE 20MM X 50 MTS"
+  },
+  {
+    "codigo": 8354,
+    "nombre": "CINTA PARA REGALO DE 20MM X 50 MTS * 20 ROLLO"
+  },
+  {
+    "codigo": 8355,
+    "nombre": "CINTA PARA REGALO DE 5MM X 1000 MTS"
+  },
+  {
+    "codigo": 8356,
+    "nombre": "CINTA PARA REGALO DE 5MM X 1000 MTS * 10 ROLL"
+  },
+  {
+    "codigo": 9127,
+    "nombre": "MOÑO MAGICO CHICO * 100 UNI"
+  },
+  {
+    "codigo": 9131,
+    "nombre": "MOÑO MAGICO GRANDE SURTIDO X 50 UNI"
+  },
+  {
+    "codigo": 9374,
+    "nombre": "MOÑO MAGICO MEDIANO * 50 UNIDADES"
+  },
+  {
+    "codigo": 9426,
+    "nombre": "MOÑO MAGICO MICRO* 100 UNI"
+  },
+  {
+    "codigo": 8359,
+    "nombre": "MOÑO PARA COCHE"
+  },
+  {
+    "codigo": 8360,
+    "nombre": "MOÑO PARA COCHE * 3"
+  },
+  {
+    "codigo": 9309,
+    "nombre": "PAPEL CELOFAN 55X90 X 50 UNIDADES"
+  },
+  {
+    "codigo": 9162,
+    "nombre": "PAPEL CELOFAN ROLLO  70*100"
+  },
+  {
+    "codigo": 9164,
+    "nombre": "ROLLO FELICDAD X 250 UNI"
+  },
+  {
+    "codigo": 8583,
+    "nombre": "GLOBOS FELIZ CUMPLEAÑOS x 50 UNID."
+  },
+  {
+    "codigo": 8584,
+    "nombre": "GLOBOS FELIZ CUMPLEAÑOS x 500 UNID."
+  },
+  {
+    "codigo": 8589,
+    "nombre": "GLOBOS GLOBOLOGIA MULTICOLOR x 100 UNID."
+  },
+  {
+    "codigo": 8590,
+    "nombre": "GLOBOS GLOBOLOGIA MULTICOLOR x 1000 UNID."
+  },
+  {
+    "codigo": 8581,
+    "nombre": "GLOBOS LISOS MULTICOLOR x 50 UNID."
+  },
+  {
+    "codigo": 8582,
+    "nombre": "GLOBOS LISOS MULTICOLOR x 500 UNID."
+  },
+  {
+    "codigo": 8585,
+    "nombre": "GLOBOS PERLADOS MULTICOLOR x 50 UNID."
+  },
+  {
+    "codigo": 8586,
+    "nombre": "GLOBOS PERLADOS MULTICOLOR x 500 UNID."
+  },
+  {
+    "codigo": 8587,
+    "nombre": "INFLADOR PARA GLOBOS"
+  },
+  {
+    "codigo": 8588,
+    "nombre": "INFLADOR PARA GLOBOS * 5 UNI"
+  },
+  {
+    "codigo": 8591,
+    "nombre": "PIÑATA MARMOLADA"
+  },
+  {
+    "codigo": 8592,
+    "nombre": "PIÑATA MARMOLADA * 10"
+  },
+  {
+    "codigo": 9508,
+    "nombre": "VELA NUMERO SET 0-9"
+  },
+  {
+    "codigo": 9507,
+    "nombre": "VELA NUMERO X UNI"
+  },
+  {
+    "codigo": 8380,
+    "nombre": "AGITADOR PARA CAFE X 1000 UNI"
+  },
+  {
+    "codigo": 8381,
+    "nombre": "AGITADOR PARA CAFE X 5000 UNI"
+  },
+  {
+    "codigo": 8384,
+    "nombre": "AGITADOR SUPERTRAGO LARGO * 100 UNI"
+  },
+  {
+    "codigo": 8385,
+    "nombre": "AGITADOR SUPERTRAGO LARGO * 1000 UNI"
+  },
+  {
+    "codigo": 9371,
+    "nombre": "CUCHARA COLOR SUNDAE *1000"
+  },
+  {
+    "codigo": 8377,
+    "nombre": "CUCHARA PARA HELADO * 10  KG"
+  },
+  {
+    "codigo": 8376,
+    "nombre": "CUCHARA PARA HELADO * KG"
+  },
+  {
+    "codigo": 8370,
+    "nombre": "CUCHARA POSTRE X 1000 UNI"
+  },
+  {
+    "codigo": 8375,
+    "nombre": "CUCHARA POSTRE X 50 UNI"
+  },
+  {
+    "codigo": 8373,
+    "nombre": "CUCHARA SOPERA X 1000 UNI"
+  },
+  {
+    "codigo": 8374,
+    "nombre": "CUCHARA SOPERA X 50 UNI"
+  },
+  {
+    "codigo": 9245,
+    "nombre": "CUCHARA SUNDAE COLOR X 1000 UNI"
+  },
+  {
+    "codigo": 9244,
+    "nombre": "CUCHARA SUNDAE COLOR X 50 UNI"
+  },
+  {
+    "codigo": 8369,
+    "nombre": "CUCHARITA SUNSAE X 1000 UNI"
+  },
+  {
+    "codigo": 9470,
+    "nombre": "CUCHARITA SUNSAE X 1000 UNI COLONO"
+  },
+  {
+    "codigo": 8367,
+    "nombre": "CUCHARITA SUNSAE X 50 UNI"
+  },
+  {
+    "codigo": 9207,
+    "nombre": "CUCHILLO CRISTAL X 1000 UNI"
+  },
+  {
+    "codigo": 9469,
+    "nombre": "CUCHILLO X 1000 UNI COLONO"
+  },
+  {
+    "codigo": 8361,
+    "nombre": "CUCHILLO X 50 UNI"
+  },
+  {
+    "codigo": 8363,
+    "nombre": "CUCHILLO X 800 UNI APROX"
+  },
+  {
+    "codigo": 8382,
+    "nombre": "PALITOS CHINOS * 100 UNI"
+  },
+  {
+    "codigo": 8383,
+    "nombre": "PALITOS CHINOS * 500 UNI"
+  },
+  {
+    "codigo": 8378,
+    "nombre": "PINCHES * 1000 UNI"
+  },
+  {
+    "codigo": 8379,
+    "nombre": "PINCHES * 5000 UNI"
+  },
+  {
+    "codigo": 9206,
+    "nombre": "TENEDOR CRISTAL X 1000 UNI"
+  },
+  {
+    "codigo": 9468,
+    "nombre": "TENEDOR X 1000 UNI COLONO"
+  },
+  {
+    "codigo": 8366,
+    "nombre": "TENEDOR X 50 UNI"
+  },
+  {
+    "codigo": 8364,
+    "nombre": "TENEDOR X 800 UNI APROX"
+  },
+  {
+    "codigo": 8391,
+    "nombre": "ENSALADERA REDONDA CHICA CRISTAL \"\" GENOA"
+  },
+  {
+    "codigo": 8386,
+    "nombre": "ENSALADERA REDONDA CHICA CRISTAL \"\" GENOA"
+  },
+  {
+    "codigo": 8393,
+    "nombre": "ENSALADERA REDONDA GRANDE CRISTAL \"\" GENO"
+  },
+  {
+    "codigo": 8388,
+    "nombre": "ENSALADERA REDONDA GRANDE CRISTAL \"\" GENO"
+  },
+  {
+    "codigo": 8392,
+    "nombre": "ENSALADERA REDONDA MEDIANA CRISTAL \"\" GEN"
+  },
+  {
+    "codigo": 8387,
+    "nombre": "ENSALADERA REDONDA MEDIANA CRISTAL \"\" GEN"
+  },
+  {
+    "codigo": 8390,
+    "nombre": "TAPA P/ ENSALADERA \"\" GENOA \"\" CRISTAL "
+  },
+  {
+    "codigo": 8395,
+    "nombre": "TAPA P/ ENSALADERA \"\" GENOA \"\" CRISTAL x100 u."
+  },
+  {
+    "codigo": 8389,
+    "nombre": "TAPA P/ ENSALADERA \"\" GENOA \"\" NEGRA "
+  },
+  {
+    "codigo": 8394,
+    "nombre": "TAPA P/ ENSALADERA \"\" GENOA \"\" NEGRA x100 u."
+  },
+  {
+    "codigo": 9386,
+    "nombre": "CONO DE FRITA IMPRESO X 200 UNIDADES"
+  },
+  {
+    "codigo": 9385,
+    "nombre": "CONO DE FRITA IMPRESO X 200 UNIDADES"
+  },
+  {
+    "codigo": 9388,
+    "nombre": "CONO DE FRITA X 10 UNIDADES IMPRESO"
+  },
+  {
+    "codigo": 9115,
+    "nombre": "CONO PARA FRITAS * 500 UNIDADES"
+  },
+  {
+    "codigo": 9117,
+    "nombre": "DISCO DE CARTON * 5 KG"
+  },
+  {
+    "codigo": 9116,
+    "nombre": "DISCO DE CARTON * KG"
+  },
+  {
+    "codigo": 9118,
+    "nombre": "FAJA SATINADA*  KG"
+  },
+  {
+    "codigo": 9390,
+    "nombre": "POCHOCLERA X 10 UNIDADES IMPRESO"
+  },
+  {
+    "codigo": 9387,
+    "nombre": "POCHOCLERA X 200 IMPRESO"
+  },
+  {
+    "codigo": 9384,
+    "nombre": "PORTA PANCHO IMPRESO X 200 UNIDADES"
+  },
+  {
+    "codigo": 9389,
+    "nombre": "PORTA PANCHO X 10 UNIDADES IMPRESO"
+  },
+  {
+    "codigo": 9114,
+    "nombre": "PORTA PANCHOS X 500 UNI"
+  },
+  {
+    "codigo": 8416,
+    "nombre": "ESTUCH CRISTAL C/ TAPA BISAGRA N° 144 * 200"
+  },
+  {
+    "codigo": 8412,
+    "nombre": "ESTUCHE CRISTAL C/ TAPA BISAGRA N° 141 * 1000"
+  },
+  {
+    "codigo": 8414,
+    "nombre": "ESTUCHE CRISTAL C/ TAPA BISAGRA N° 142 * 400"
+  },
+  {
+    "codigo": 8415,
+    "nombre": "ESTUCHE CRISTAL C/ TAPA BISAGRA N° 143 * 200"
+  },
+  {
+    "codigo": 8417,
+    "nombre": "ESTUCHE CRISTAL C/ TAPA BISAGRA N° 145 * 200"
+  },
+  {
+    "codigo": 8418,
+    "nombre": "ESTUCHE CRISTAL C/ TAPA BISAGRA N° 146 * 200"
+  },
+  {
+    "codigo": 8419,
+    "nombre": "ESTUCHE CRISTAL C/ TAPA BISAGRA N° 147 200"
+  },
+  {
+    "codigo": 8413,
+    "nombre": "ESTUCHE CRISTAL C/ TAPA BISAGRA N° 161 * 1000"
+  },
+  {
+    "codigo": 9616,
+    "nombre": "ESTUCHE P.E.T. CRISTAL C/ TAPA BISAGRA N° 141 B"
+  },
+  {
+    "codigo": 8404,
+    "nombre": "ESTUCHE P.E.T. CRISTAL C/ TAPA BISAGRA N° 141 B"
+  },
+  {
+    "codigo": 8396,
+    "nombre": "ESTUCHE P.E.T. CRISTAL C/ TAPA BISAGRA N° 141 B"
+  },
+  {
+    "codigo": 8406,
+    "nombre": "ESTUCHE P.E.T. CRISTAL C/ TAPA BISAGRA N° 142 B"
+  },
+  {
+    "codigo": 8398,
+    "nombre": "ESTUCHE P.E.T. CRISTAL C/ TAPA BISAGRA N° 142 B"
+  },
+  {
+    "codigo": 8407,
+    "nombre": "ESTUCHE P.E.T. CRISTAL C/ TAPA BISAGRA N° 143 B"
+  },
+  {
+    "codigo": 8399,
+    "nombre": "ESTUCHE P.E.T. CRISTAL C/ TAPA BISAGRA N° 143 B"
+  },
+  {
+    "codigo": 8408,
+    "nombre": "ESTUCHE P.E.T. CRISTAL C/ TAPA BISAGRA N° 144 B"
+  },
+  {
+    "codigo": 8400,
+    "nombre": "ESTUCHE P.E.T. CRISTAL C/ TAPA BISAGRA N° 144 B"
+  },
+  {
+    "codigo": 8409,
+    "nombre": "ESTUCHE P.E.T. CRISTAL C/ TAPA BISAGRA N° 145 B"
+  },
+  {
+    "codigo": 8401,
+    "nombre": "ESTUCHE P.E.T. CRISTAL C/ TAPA BISAGRA N° 145 B"
+  },
+  {
+    "codigo": 8410,
+    "nombre": "ESTUCHE P.E.T. CRISTAL C/ TAPA BISAGRA N° 146 B"
+  },
+  {
+    "codigo": 8402,
+    "nombre": "ESTUCHE P.E.T. CRISTAL C/ TAPA BISAGRA N° 146 B"
+  },
+  {
+    "codigo": 8411,
+    "nombre": "ESTUCHE P.E.T. CRISTAL C/ TAPA BISAGRA N° 147 B"
+  },
+  {
+    "codigo": 8403,
+    "nombre": "ESTUCHE P.E.T. CRISTAL C/ TAPA BISAGRA N° 147 B"
+  },
+  {
+    "codigo": 8405,
+    "nombre": "ESTUCHE P.E.T. CRISTAL C/ TAPA BISAGRA N° 161 B"
+  },
+  {
+    "codigo": 8397,
+    "nombre": "ESTUCHE P.E.T. CRISTAL C/ TAPA BISAGRA N° 161 B"
+  },
+  {
+    "codigo": 8458,
+    "nombre": "ESTUCHE P/ MICRO C/ TAPA BISAGRA N° 142 BANDE"
+  },
+  {
+    "codigo": 8451,
+    "nombre": "ESTUCHE P/ MICRO C/ TAPA BISAGRA N° 142 BANDE"
+  },
+  {
+    "codigo": 8444,
+    "nombre": "ESTUCHE P/ MICRO C/ TAPA BISAGRA N° 142 BANDE"
+  },
+  {
+    "codigo": 8459,
+    "nombre": "ESTUCHE P/ MICRO C/ TAPA BISAGRA N° 143 BANDE"
+  },
+  {
+    "codigo": 8452,
+    "nombre": "ESTUCHE P/ MICRO C/ TAPA BISAGRA N° 143 BANDE"
+  },
+  {
+    "codigo": 8445,
+    "nombre": "ESTUCHE P/ MICRO C/ TAPA BISAGRA N° 143 BANDE"
+  },
+  {
+    "codigo": 8460,
+    "nombre": "ESTUCHE P/ MICRO C/ TAPA BISAGRA N° 144 BANDE"
+  },
+  {
+    "codigo": 8453,
+    "nombre": "ESTUCHE P/ MICRO C/ TAPA BISAGRA N° 144 BANDE"
+  },
+  {
+    "codigo": 8446,
+    "nombre": "ESTUCHE P/ MICRO C/ TAPA BISAGRA N° 144 BANDE"
+  },
+  {
+    "codigo": 8461,
+    "nombre": "ESTUCHE P/ MICRO C/ TAPA BISAGRA N° 145 BANDE"
+  },
+  {
+    "codigo": 8454,
+    "nombre": "ESTUCHE P/ MICRO C/ TAPA BISAGRA N° 145 BANDE"
+  },
+  {
+    "codigo": 8447,
+    "nombre": "ESTUCHE P/ MICRO C/ TAPA BISAGRA N° 145 BANDE"
+  },
+  {
+    "codigo": 8462,
+    "nombre": "ESTUCHE P/ MICRO C/ TAPA BISAGRA N° 146 BANDE"
+  },
+  {
+    "codigo": 8455,
+    "nombre": "ESTUCHE P/ MICRO C/ TAPA BISAGRA N° 146 BANDE"
+  },
+  {
+    "codigo": 8448,
+    "nombre": "ESTUCHE P/ MICRO C/ TAPA BISAGRA N° 146 BANDE"
+  },
+  {
+    "codigo": 8463,
+    "nombre": "ESTUCHE P/ MICRO C/ TAPA BISAGRA N° 146 C/ 3 DI"
+  },
+  {
+    "codigo": 8456,
+    "nombre": "ESTUCHE P/ MICRO C/ TAPA BISAGRA N° 146 C/ 3 DI"
+  },
+  {
+    "codigo": 8449,
+    "nombre": "ESTUCHE P/ MICRO C/ TAPA BISAGRA N° 146 C/ 3 DI"
+  },
+  {
+    "codigo": 8464,
+    "nombre": "ESTUCHE P/ MICRO C/ TAPA BISAGRA N° 147 BANDE"
+  },
+  {
+    "codigo": 8457,
+    "nombre": "ESTUCHE P/ MICRO C/ TAPA BISAGRA N° 147 BANDE"
+  },
+  {
+    "codigo": 8450,
+    "nombre": "ESTUCHE P/ MICRO C/ TAPA BISAGRA N° 147 BANDE"
+  },
+  {
+    "codigo": 8470,
+    "nombre": "ALUMINIO * 5MTS"
+  },
+  {
+    "codigo": 8471,
+    "nombre": "ALUMINIO * KG"
+  },
+  {
+    "codigo": 8478,
+    "nombre": "ALUMINIO * KG * 10 ROLLOS"
+  },
+  {
+    "codigo": 9479,
+    "nombre": "ALUMINIO 38*25 METROS"
+  },
+  {
+    "codigo": 9483,
+    "nombre": "ALUMINIO 38*50 METROS"
+  },
+  {
+    "codigo": 8477,
+    "nombre": "ALUMINIO X 5 MTS 10 UNI"
+  },
+  {
+    "codigo": 8479,
+    "nombre": "ALUMINIO X 5 MTS 40 UNIDADES"
+  },
+  {
+    "codigo": 8465,
+    "nombre": "FILM  30 X 20 MTS"
+  },
+  {
+    "codigo": 8476,
+    "nombre": "FILM 30 X 20 MTS X 50 ROLLOS"
+  },
+  {
+    "codigo": 8474,
+    "nombre": "FILM 30 X 20MTS X 10 UNI"
+  },
+  {
+    "codigo": 8466,
+    "nombre": "FILM 38  X 120 MTS"
+  },
+  {
+    "codigo": 8475,
+    "nombre": "FILM 38  X 300 MTS X 10 ROLLOS"
+  },
+  {
+    "codigo": 9414,
+    "nombre": "FILM 38*300 VERDE"
+  },
+  {
+    "codigo": 9332,
+    "nombre": "FILM 38*300 VERDE * 8 UNIDADES"
+  },
+  {
+    "codigo": 9335,
+    "nombre": "FILM 45X300"
+  },
+  {
+    "codigo": 8472,
+    "nombre": "MANTECA X 5 MTS"
+  },
+  {
+    "codigo": 8473,
+    "nombre": "MANTECA X 50 MTS"
+  },
+  {
+    "codigo": 8593,
+    "nombre": "PVC 30 X 1000 MTS BANDEX"
+  },
+  {
+    "codigo": 8491,
+    "nombre": "PVC 30 X 1000 MTS RESINITE"
+  },
+  {
+    "codigo": 9515,
+    "nombre": "PVC 30 X 800MTS ECO"
+  },
+  {
+    "codigo": 8594,
+    "nombre": "PVC 38 X 1000 MTS BANDEX"
+  },
+  {
+    "codigo": 8467,
+    "nombre": "PVC 38 X 1000 MTS RESINITE"
+  },
+  {
+    "codigo": 9536,
+    "nombre": "PVC 38 X 800MTS ECO"
+  },
+  {
+    "codigo": 8469,
+    "nombre": "PVC 45  X 1000 mts RESINITE"
+  },
+  {
+    "codigo": 9613,
+    "nombre": "PVC 45 X 1000 MTS BANDEX"
+  },
+  {
+    "codigo": 8595,
+    "nombre": "PVC 45 X 700 MTS ECONOMICO"
+  },
+  {
+    "codigo": 9030,
+    "nombre": "CARTULINAS PINGUINO"
+  },
+  {
+    "codigo": 9419,
+    "nombre": "GUANTES DE LATEX x100 u. LARGE"
+  },
+  {
+    "codigo": 9418,
+    "nombre": "GUANTES DE LATEX x100 u. MEDIUM"
+  },
+  {
+    "codigo": 9024,
+    "nombre": "GUANTES DE LATEX x100 u. SMALL"
+  },
+  {
+    "codigo": 9421,
+    "nombre": "GUANTES DE LATEX x1000 u. LARGE"
+  },
+  {
+    "codigo": 9420,
+    "nombre": "GUANTES DE LATEX x1000 u. MEDIUM"
+  },
+  {
+    "codigo": 9025,
+    "nombre": "GUANTES DE LATEX x1000 u. SMALL"
+  },
+  {
+    "codigo": 9423,
+    "nombre": "GUANTES DE NITRILO x 100 LARGE"
+  },
+  {
+    "codigo": 9422,
+    "nombre": "GUANTES DE NITRILO x 100 MEDIUM"
+  },
+  {
+    "codigo": 9028,
+    "nombre": "GUANTES DE NITRILO x 100 SMALL"
+  },
+  {
+    "codigo": 9425,
+    "nombre": "GUANTES DE NITRILO x 1000 LARGE"
+  },
+  {
+    "codigo": 9424,
+    "nombre": "GUANTES DE NITRILO x 1000 MEDIUM"
+  },
+  {
+    "codigo": 9029,
+    "nombre": "GUANTES DE NITRILO x 1000 SMALL"
+  },
+  {
+    "codigo": 9022,
+    "nombre": "GUANTES DE POLIETILENO IMPORTADO x100"
+  },
+  {
+    "codigo": 9023,
+    "nombre": "GUANTES DE POLIETILENO IMPORTADO x10000"
+  },
+  {
+    "codigo": 9027,
+    "nombre": "GUANTES DE VINILO  x 100"
+  },
+  {
+    "codigo": 9026,
+    "nombre": "GUANTES DE VINILO  x1000 u."
+  },
+  {
+    "codigo": 8501,
+    "nombre": "CINTA PARA ATAR DE POLIPROPILENO RECUPERAD"
+  },
+  {
+    "codigo": 8513,
+    "nombre": "CINTA RECUPERADA POR 12 KG"
+  },
+  {
+    "codigo": 8499,
+    "nombre": "HILO BICOLOR x KG. ( CADA BOBINA 300 Grs. )"
+  },
+  {
+    "codigo": 8510,
+    "nombre": "HILO BICOLOR x KG. ( CADA BOBINA 300 Grs. ) * 10"
+  },
+  {
+    "codigo": 8509,
+    "nombre": "HILO CHORIZERO COLOR MARRON O AMARILLO ( C"
+  },
+  {
+    "codigo": 8498,
+    "nombre": "HILO CHORIZERO COLOR MARRON O AMARILLO ( C"
+  },
+  {
+    "codigo": 9260,
+    "nombre": "HILO CINTA PP"
+  },
+  {
+    "codigo": 8496,
+    "nombre": "HILO DE ALGODÓN  ( CADA BOBINA 300 Grs. )"
+  },
+  {
+    "codigo": 8507,
+    "nombre": "HILO DE ALGODÓN  ( CADA BOBINA 300 Grs. ) * 10"
+  },
+  {
+    "codigo": 8500,
+    "nombre": "HILO POLIPROPILENO RECUPERADO ( CADA BOBIN"
+  },
+  {
+    "codigo": 8511,
+    "nombre": "HILO POLIPROPILENO RECUPERADO * 18 BOBINAS"
+  },
+  {
+    "codigo": 8504,
+    "nombre": "HILO SISAL BOBINAS POR 300 Mts."
+  },
+  {
+    "codigo": 8516,
+    "nombre": "HILO SISAL BOBINAS POR 300 Mts.  * 10"
+  },
+  {
+    "codigo": 9518,
+    "nombre": "HILO SISAL OVILLO  GRANDE"
+  },
+  {
+    "codigo": 8503,
+    "nombre": "HILO SISAL OVILLO  GRANDE PAQ. POR 10 UNID."
+  },
+  {
+    "codigo": 8514,
+    "nombre": "HILO SISAL OVILLO CHICO PAQ. POR 10 UNID. * 5"
+  },
+  {
+    "codigo": 8497,
+    "nombre": "OVILLOS DE HILO CHORIZERO x40gms. (10 UNID.)"
+  },
+  {
+    "codigo": 8508,
+    "nombre": "OVILLOS DE HILO CHORIZERO x40gms. (10 UNID.) * 1"
+  },
+  {
+    "codigo": 8506,
+    "nombre": "OVILLOS DE HILO DE  ALGODON x40gms.  (10 UNID.)"
+  },
+  {
+    "codigo": 8495,
+    "nombre": "OVILLOS DE HILO DE  ALGODON x40gms.  (10 UNID.)"
+  },
+  {
+    "codigo": 9321,
+    "nombre": "ABROCHADORA MINI"
+  },
+  {
+    "codigo": 8636,
+    "nombre": "ABROCHADORA N 21/6"
+  },
+  {
+    "codigo": 8635,
+    "nombre": "ABROCHADORA N 65"
+  },
+  {
+    "codigo": 8634,
+    "nombre": "ABROCHADORA Nº50"
+  },
+  {
+    "codigo": 8668,
+    "nombre": "ALFILER X 50 UNIDADES"
+  },
+  {
+    "codigo": 9592,
+    "nombre": "BARRA SILICONA FINA"
+  },
+  {
+    "codigo": 9593,
+    "nombre": "BARRA SILICONA GRUESA"
+  },
+  {
+    "codigo": 9472,
+    "nombre": "BOLI GOMA 50 ML"
+  },
+  {
+    "codigo": 9473,
+    "nombre": "BOLI GOMA 50 ML X 12 UNIDADES"
+  },
+  {
+    "codigo": 9467,
+    "nombre": "BOLIGRAFO FABER-CASTELL"
+  },
+  {
+    "codigo": 9466,
+    "nombre": "BOLIGRAFO FABER-CASTELL *50"
+  },
+  {
+    "codigo": 9486,
+    "nombre": "BOLIGRAFOS COLORES *10 UNIDADES"
+  },
+  {
+    "codigo": 9487,
+    "nombre": "BOLIGRAFOS COLORES GEL *8 UNIDADES"
+  },
+  {
+    "codigo": 8596,
+    "nombre": "BOLIGRAFOS CRISTAL EZCO"
+  },
+  {
+    "codigo": 8597,
+    "nombre": "BOLIGRAFOS CRISTAL EZCO * 50 UNI"
+  },
+  {
+    "codigo": 8598,
+    "nombre": "BOLIGRAFOS CRISTAL RETRACTIL PAX TRATTO 50 U"
+  },
+  {
+    "codigo": 8628,
+    "nombre": "BROCHES P/ ABROCHADORAS Nº 10 \"GRAP\" x 1.000"
+  },
+  {
+    "codigo": 8629,
+    "nombre": "BROCHES P/ ABROCHADORAS Nº 10 \"GRAP\" x 100 u"
+  },
+  {
+    "codigo": 8632,
+    "nombre": "BROCHES P/ ABROCHADORAS Nº 21/6\"GRAP"
+  },
+  {
+    "codigo": 8633,
+    "nombre": "BROCHES P/ ABROCHADORAS Nº 21/6\"GRAP\"* 100 U"
+  },
+  {
+    "codigo": 8630,
+    "nombre": "BROCHES P/ ABROCHADORAS Nº 65 \"GRAP"
+  },
+  {
+    "codigo": 8631,
+    "nombre": "BROCHES P/ ABROCHADORAS Nº 65 \"GRAP\" * 100 U"
+  },
+  {
+    "codigo": 8660,
+    "nombre": "CAJA DE SOBRES OFICIO INGLES X 500 UNI"
+  },
+  {
+    "codigo": 9316,
+    "nombre": "CALCULADORA  9935"
+  },
+  {
+    "codigo": 9320,
+    "nombre": "CALCULADORA 1200"
+  },
+  {
+    "codigo": 9314,
+    "nombre": "CALCULADORA 402"
+  },
+  {
+    "codigo": 9318,
+    "nombre": "CALCULADORA 6588"
+  },
+  {
+    "codigo": 9319,
+    "nombre": "CALCULADORA 837"
+  },
+  {
+    "codigo": 9317,
+    "nombre": "CALCULADORA 880"
+  },
+  {
+    "codigo": 9315,
+    "nombre": "CALCULADORA 8985"
+  },
+  {
+    "codigo": 9130,
+    "nombre": "CARTULINA FANTASIA"
+  },
+  {
+    "codigo": 8667,
+    "nombre": "CHINCHE X 50 UNIDADES"
+  },
+  {
+    "codigo": 9354,
+    "nombre": "CLIPS N°6"
+  },
+  {
+    "codigo": 8653,
+    "nombre": "CUADERNO A 4 RAYADO CON ESPIRAL"
+  },
+  {
+    "codigo": 8654,
+    "nombre": "CUADERNO A 4 RAYADO CON ESPIRAL * 50 UNI"
+  },
+  {
+    "codigo": 8655,
+    "nombre": "CUADERNO x 48 HOJAS TAPA BLANDA"
+  },
+  {
+    "codigo": 8656,
+    "nombre": "CUADERNO x 48 HOJAS TAPA BLANDA * 60 UNI"
+  },
+  {
+    "codigo": 9322,
+    "nombre": "CUTTER CHICO"
+  },
+  {
+    "codigo": 8665,
+    "nombre": "ETIQUETADORA MOTEX ECO"
+  },
+  {
+    "codigo": 8666,
+    "nombre": "ETIQUETADORA MOTEX ORIGINAL"
+  },
+  {
+    "codigo": 8613,
+    "nombre": "FOLIO CARTA / A 4 EN MATERIAL P.P."
+  },
+  {
+    "codigo": 8614,
+    "nombre": "FOLIO CARTA / A 4 EN MATERIAL P.P. * 10 UNI"
+  },
+  {
+    "codigo": 8615,
+    "nombre": "FOLIO CARTA / A 4 EN MATERIAL P.P. * 100 UNI"
+  },
+  {
+    "codigo": 8616,
+    "nombre": "FOLIO CARTA / A 4 EN MATERIAL P.P. * 1000 UNI"
+  },
+  {
+    "codigo": 8617,
+    "nombre": "FOLIO OFICIOEN MATERIAL P.P."
+  },
+  {
+    "codigo": 8618,
+    "nombre": "FOLIO OFICIOEN MATERIAL P.P. * 10 UNI"
+  },
+  {
+    "codigo": 8619,
+    "nombre": "FOLIO OFICIOEN MATERIAL P.P. * 100 UNI"
+  },
+  {
+    "codigo": 8620,
+    "nombre": "FOLIO OFICIOEN MATERIAL P.P. * 1000 UNI"
+  },
+  {
+    "codigo": 8607,
+    "nombre": "MARCADORES AL SOLVENTE PUNTA CHATA"
+  },
+  {
+    "codigo": 8608,
+    "nombre": "MARCADORES AL SOLVENTE PUNTA CHATA * 12 UNI"
+  },
+  {
+    "codigo": 8609,
+    "nombre": "MARCADORES AL SOLVENTE PUNTA CHATA * 60 UNI"
+  },
+  {
+    "codigo": 8604,
+    "nombre": "MARCADORES AL SOLVENTE PUNTA REDONDA"
+  },
+  {
+    "codigo": 8605,
+    "nombre": "MARCADORES AL SOLVENTE PUNTA REDONDA * 12"
+  },
+  {
+    "codigo": 8606,
+    "nombre": "MARCADORES AL SOLVENTE PUNTA REDONDA * 60"
+  },
+  {
+    "codigo": 8663,
+    "nombre": "MOTEX BLANCO"
+  },
+  {
+    "codigo": 8664,
+    "nombre": "MOTEX BLANCO * 100 UNI"
+  },
+  {
+    "codigo": 8661,
+    "nombre": "MOTEX FLUOR"
+  },
+  {
+    "codigo": 8662,
+    "nombre": "MOTEX FLUOR * 100"
+  },
+  {
+    "codigo": 8637,
+    "nombre": "PAPEL CARBONICO NEGRO *10"
+  },
+  {
+    "codigo": 8638,
+    "nombre": "PAPEL CARBONICO OFICIO AZUL * 100"
+  },
+  {
+    "codigo": 9121,
+    "nombre": "PORTA ROLLO CARACOL"
+  },
+  {
+    "codigo": 8611,
+    "nombre": "RESALTADORES * 12 UNI"
+  },
+  {
+    "codigo": 8612,
+    "nombre": "RESALTADORES * 60 UNI"
+  },
+  {
+    "codigo": 8610,
+    "nombre": "RESALTADORES CHATOS"
+  },
+  {
+    "codigo": 8623,
+    "nombre": "RESMA A 4 \" PUMAX \" x 500 HOJAS 75 GRS."
+  },
+  {
+    "codigo": 8624,
+    "nombre": "RESMA A 4 \" PUMAX \" x 500 HOJAS 75 GRS.* 10 RES"
+  },
+  {
+    "codigo": 9405,
+    "nombre": "RESMA A 4 \" REPORT/AUTOR \" x 500 HOJAS 75 GRS."
+  },
+  {
+    "codigo": 9404,
+    "nombre": "RESMA A 4 \" REPORT/AUTOR \" x 500 HOJAS 75 GRS."
+  },
+  {
+    "codigo": 8622,
+    "nombre": "RESMA CARTA \" TEMPO \" x 500 HOJAS 75 GRS 5 RES"
+  },
+  {
+    "codigo": 8621,
+    "nombre": "RESMA CARTA \" TEMPO \" x 500 HOJAS 75 GRS."
+  },
+  {
+    "codigo": 9413,
+    "nombre": "RESMA OFICIO \" REPORT \" x 500 HOJAS 75 GRS 5 R"
+  },
+  {
+    "codigo": 9412,
+    "nombre": "RESMA OFICIO \" REPORT \" x 500 HOJAS 75 GRS."
+  },
+  {
+    "codigo": 8626,
+    "nombre": "RESMA OFICIO \" TEMPO \" x 500 HOJAS 75 GRS 5 RE"
+  },
+  {
+    "codigo": 8625,
+    "nombre": "RESMA OFICIO \" TEMPO \" x 500 HOJAS 75 GRS."
+  },
+  {
+    "codigo": 9200,
+    "nombre": "ROLLO CARACOL"
+  },
+  {
+    "codigo": 8657,
+    "nombre": "SOBRES CARTA * 10 UNI"
+  },
+  {
+    "codigo": 8658,
+    "nombre": "SOBRES CARTA * 500 UNI"
+  },
+  {
+    "codigo": 8659,
+    "nombre": "SOBRES OFICIO INGLES X 10"
+  },
+  {
+    "codigo": 8601,
+    "nombre": "TACO BLANCO X 400 HOJAS"
+  },
+  {
+    "codigo": 8603,
+    "nombre": "TACO CON  SOLAPA AUTOADHESIVA N° 3 (76x76mm."
+  },
+  {
+    "codigo": 8602,
+    "nombre": "TACO CON  SOLAPA AUTOADHESIVA N° 3 (76x76mm."
+  },
+  {
+    "codigo": 8599,
+    "nombre": "TACO MULTICOLOR *400 HOJAS"
+  },
+  {
+    "codigo": 8600,
+    "nombre": "TACO MULTICOLOR X 400 HOJAS * 84 UNIDADES"
+  },
+  {
+    "codigo": 8643,
+    "nombre": "TALONARIO 1-100"
+  },
+  {
+    "codigo": 8644,
+    "nombre": "TALONARIO 1-100 * 50 UNI"
+  },
+  {
+    "codigo": 8648,
+    "nombre": "TALONARIO 1-1000"
+  },
+  {
+    "codigo": 8647,
+    "nombre": "TALONARIO 1-1000"
+  },
+  {
+    "codigo": 8645,
+    "nombre": "TALONARIO 1-200"
+  },
+  {
+    "codigo": 8646,
+    "nombre": "TALONARIO 1-200 * 50 UNI"
+  },
+  {
+    "codigo": 8639,
+    "nombre": "TALONARIO CHICO HOJA GRIS"
+  },
+  {
+    "codigo": 8640,
+    "nombre": "TALONARIO CHICO HOJA GRIS * 120 UNI"
+  },
+  {
+    "codigo": 9239,
+    "nombre": "TALONARIO DE BINGO"
+  },
+  {
+    "codigo": 8641,
+    "nombre": "TALONARIO GRANDE HOJA GRIS"
+  },
+  {
+    "codigo": 8642,
+    "nombre": "TALONARIO GRANDE HOJA GRIS * 60 UNI"
+  },
+  {
+    "codigo": 9248,
+    "nombre": "TALONARIO RECIVI GRANDE"
+  },
+  {
+    "codigo": 8649,
+    "nombre": "TALONARIO VALE"
+  },
+  {
+    "codigo": 8650,
+    "nombre": "TALONARIO VALE * 25UNI"
+  },
+  {
+    "codigo": 8651,
+    "nombre": "TALONARIOS PRE-IMPRESOS \" ENTRADA "
+  },
+  {
+    "codigo": 8652,
+    "nombre": "TALONARIOS PRE-IMPRESOS \" ENTRADA \" * 25 UNI"
+  },
+  {
+    "codigo": 9220,
+    "nombre": "TRINCHETA CHINA"
+  },
+  {
+    "codigo": 9363,
+    "nombre": "TUBO MOTEX FLUOR"
+  },
+  {
+    "codigo": 8530,
+    "nombre": "MOLDE PARA BIZCOCHUELO DIAMETRO 18 cm. x 10"
+  },
+  {
+    "codigo": 8527,
+    "nombre": "MOLDE PARA BIZCOCHUELO DIAMETRO 18 cm. x 10"
+  },
+  {
+    "codigo": 8521,
+    "nombre": "MOLDE PARA BIZCOCHUELO DIAMETRO 18 cm. x 10"
+  },
+  {
+    "codigo": 8518,
+    "nombre": "MOLDE PARA BIZCOCHUELO DIAMETRO 18 cm. x UN"
+  },
+  {
+    "codigo": 8531,
+    "nombre": "MOLDE PARA BIZCOCHUELO DIAMETRO 20 cm. x 10"
+  },
+  {
+    "codigo": 8528,
+    "nombre": "MOLDE PARA BIZCOCHUELO DIAMETRO 20 cm. x 10"
+  },
+  {
+    "codigo": 8522,
+    "nombre": "MOLDE PARA BIZCOCHUELO DIAMETRO 20 cm. x 10"
+  },
+  {
+    "codigo": 8519,
+    "nombre": "MOLDE PARA BIZCOCHUELO DIAMETRO 20 cm. x UN"
+  },
+  {
+    "codigo": 8532,
+    "nombre": "MOLDE PARA BIZCOCHUELO DIAMETRO 22 cm. x 10"
+  },
+  {
+    "codigo": 8529,
+    "nombre": "MOLDE PARA BIZCOCHUELO DIAMETRO 22 cm. x 10"
+  },
+  {
+    "codigo": 8523,
+    "nombre": "MOLDE PARA BIZCOCHUELO DIAMETRO 22 cm. x 10"
+  },
+  {
+    "codigo": 8520,
+    "nombre": "MOLDE PARA BIZCOCHUELO DIAMETRO 22 cm. x UN"
+  },
+  {
+    "codigo": 8669,
+    "nombre": "MOLDE PARA BUDIN REFORZADO  135x50x40 m.m."
+  },
+  {
+    "codigo": 8554,
+    "nombre": "MOLDE PARA BUDIN REFORZADO  135x50x40 m.m. X"
+  },
+  {
+    "codigo": 8551,
+    "nombre": "MOLDE PARA BUDIN REFORZADO  135x50x40 m.m. X"
+  },
+  {
+    "codigo": 8546,
+    "nombre": "MOLDE PARA BUDIN REFORZADO  185x50x40 m.m."
+  },
+  {
+    "codigo": 8555,
+    "nombre": "MOLDE PARA BUDIN REFORZADO  185x50x40 m.m. X"
+  },
+  {
+    "codigo": 8552,
+    "nombre": "MOLDE PARA BUDIN REFORZADO  185x50x40 m.m. X"
+  },
+  {
+    "codigo": 8547,
+    "nombre": "MOLDE PARA BUDIN REFORZADO  185x50x50 m.m."
+  },
+  {
+    "codigo": 8556,
+    "nombre": "MOLDE PARA BUDIN REFORZADO  185x50x50 m.m. X"
+  },
+  {
+    "codigo": 8553,
+    "nombre": "MOLDE PARA BUDIN REFORZADO  185x50x50 m.m. X"
+  },
+  {
+    "codigo": 8670,
+    "nombre": "MOLDES P/ P.DULCE FSIA.PARA  100 grs."
+  },
+  {
+    "codigo": 8672,
+    "nombre": "MOLDES P/ P.DULCE FSIA.PARA  100 grs.* 1000"
+  },
+  {
+    "codigo": 8671,
+    "nombre": "MOLDES P/ P.DULCE FSIA.PARA  100 grs.* 100UNI"
+  },
+  {
+    "codigo": 8673,
+    "nombre": "MOLDES P/ P.DULCE FSIA.PARA 250 grs."
+  },
+  {
+    "codigo": 8674,
+    "nombre": "MOLDES P/ P.DULCE FSIA.PARA 250 grs.* 100 UNI"
+  },
+  {
+    "codigo": 8675,
+    "nombre": "MOLDES P/ P.DULCE FSIA.PARA 250 grs.* 1000 UNI"
+  },
+  {
+    "codigo": 8676,
+    "nombre": "MOLDES P/ P.DULCE FSIA.PARA 500 grs."
+  },
+  {
+    "codigo": 9537,
+    "nombre": "MOLDES P/ P.DULCE FSIA.PARA 500 grs. *10 UNI"
+  },
+  {
+    "codigo": 8677,
+    "nombre": "MOLDES P/ P.DULCE FSIA.PARA 500 grs.* 100 UNI"
+  },
+  {
+    "codigo": 8678,
+    "nombre": "MOLDES P/ P.DULCE FSIA.PARA 500 grs.* 1000 UNI"
+  },
+  {
+    "codigo": 8679,
+    "nombre": "MOLDES P/ P.DULCE FSIA.PARA 750 grs."
+  },
+  {
+    "codigo": 8680,
+    "nombre": "MOLDES P/ P.DULCE FSIA.PARA 750 grs. * 100 UNI"
+  },
+  {
+    "codigo": 8681,
+    "nombre": "MOLDES P/ P.DULCE FSIA.PARA 750 grs. * 1000 UNI"
+  },
+  {
+    "codigo": 8682,
+    "nombre": "MOLDES P/ P.DULCE FSIA.PARA KG"
+  },
+  {
+    "codigo": 8683,
+    "nombre": "MOLDES P/ P.DULCE FSIA.PARA KG * 100 UNI"
+  },
+  {
+    "codigo": 8684,
+    "nombre": "MOLDES P/ P.DULCE FSIA.PARA KG * 1000 UNI"
+  },
+  {
+    "codigo": 8539,
+    "nombre": "MOLDE PARA ROSCA DIAMETRO 18 cm. x 100 UNI"
+  },
+  {
+    "codigo": 8542,
+    "nombre": "MOLDE PARA ROSCA DIAMETRO 18 cm. x 1000 UNI"
+  },
+  {
+    "codigo": 8533,
+    "nombre": "MOLDE PARA ROSCA DIAMETRO 18 cm. x UNI"
+  },
+  {
+    "codigo": 8540,
+    "nombre": "MOLDE PARA ROSCA DIAMETRO 20 cm. x 100 UNI"
+  },
+  {
+    "codigo": 8543,
+    "nombre": "MOLDE PARA ROSCA DIAMETRO 20 cm. x 1000 UNI"
+  },
+  {
+    "codigo": 8534,
+    "nombre": "MOLDE PARA ROSCA DIAMETRO 20 cm. x UNI"
+  },
+  {
+    "codigo": 8541,
+    "nombre": "MOLDE PARA ROSCA DIAMETRO 22 cm. X 100 UNI"
+  },
+  {
+    "codigo": 8544,
+    "nombre": "MOLDE PARA ROSCA DIAMETRO 22 cm. x 1000 UNI"
+  },
+  {
+    "codigo": 8535,
+    "nombre": "MOLDE PARA ROSCA DIAMETRO 22 cm. x UNI"
+  },
+  {
+    "codigo": 8697,
+    "nombre": "BOBINA DE PAPEL FANTASIA 40 CM"
+  },
+  {
+    "codigo": 9505,
+    "nombre": "BOBINA DE PAPEL FANTASIA 40 CM DORADA"
+  },
+  {
+    "codigo": 8700,
+    "nombre": "BOBINA DE PAPEL FANTASIA 40 CM PREMIUN * 5KG"
+  },
+  {
+    "codigo": 8698,
+    "nombre": "BOBINA DE PAPEL FANTASIA 40 CM SATINADA"
+  },
+  {
+    "codigo": 8699,
+    "nombre": "BOBINA DE PAPEL FANTASIA 60 CM DORADA"
+  },
+  {
+    "codigo": 8701,
+    "nombre": "BOBINA DE PAPEL FANTASIA 60 CM PREMIUN * 7 KG"
+  },
+  {
+    "codigo": 9391,
+    "nombre": "BOBINA PAPEL FANTASIA 20 * KG"
+  },
+  {
+    "codigo": 9240,
+    "nombre": "BOBINA PAPEL FANTASIA 60"
+  },
+  {
+    "codigo": 9295,
+    "nombre": "PAPEL AFICHE"
+  },
+  {
+    "codigo": 9296,
+    "nombre": "PAPEL AFICHE * 100 UNIDADES"
+  },
+  {
+    "codigo": 8702,
+    "nombre": "PAPEL DE REGALO 70 * 100 PREMIUN"
+  },
+  {
+    "codigo": 8703,
+    "nombre": "PAPEL DE REGALO 70 * 100 PREMIUN * HOJAS"
+  },
+  {
+    "codigo": 8686,
+    "nombre": "PAPEL DIARIO 35*45 * 10 KG"
+  },
+  {
+    "codigo": 8685,
+    "nombre": "PAPEL DIARIO 35*45 * KG"
+  },
+  {
+    "codigo": 8687,
+    "nombre": "PAPEL DIARIO 40*50 * 10 KG"
+  },
+  {
+    "codigo": 8692,
+    "nombre": "PAPEL DIARIO 40*50 * KG"
+  },
+  {
+    "codigo": 8691,
+    "nombre": "PAPEL DIARIO 50*70 * 10 KG"
+  },
+  {
+    "codigo": 8693,
+    "nombre": "PAPEL DIARIO 50*70* KG"
+  },
+  {
+    "codigo": 8694,
+    "nombre": "PAPEL DIARIO 60*90  KG"
+  },
+  {
+    "codigo": 8689,
+    "nombre": "PAPEL DIARIO 60*90 * 10 KG"
+  },
+  {
+    "codigo": 8695,
+    "nombre": "PAPEL PRENSA BOBINA DE 40 CM"
+  },
+  {
+    "codigo": 8696,
+    "nombre": "PAPEL PRENSA BOBINA DE 60 CM"
+  },
+  {
+    "codigo": 8704,
+    "nombre": "PAPEL SEDA DE REGALO"
+  },
+  {
+    "codigo": 8705,
+    "nombre": "PAPEL SEDA DE REGALO * 100"
+  },
+  {
+    "codigo": 8708,
+    "nombre": "BULTO PAPEL HIGIENICO ELEGANTE 12PAQ X 4 UNI"
+  },
+  {
+    "codigo": 9360,
+    "nombre": "COCINA CHANITA X3 UNIDADES"
+  },
+  {
+    "codigo": 9238,
+    "nombre": "DESNUDO X 12 UNIDADES"
+  },
+  {
+    "codigo": 9286,
+    "nombre": "GAMUZA 24 ROLLOS X 50 MTS"
+  },
+  {
+    "codigo": 9440,
+    "nombre": "HIGIENICO 30 ROLLOS DE 30 METROS"
+  },
+  {
+    "codigo": 9285,
+    "nombre": "HIGIENICO CHANITA 12PAQUETES X 4 UNIDADES"
+  },
+  {
+    "codigo": 9379,
+    "nombre": "HIGIENICO DESNUDO KEEP 100 MTS"
+  },
+  {
+    "codigo": 9125,
+    "nombre": "HIGIENICO DESNUDO X 80 MTS"
+  },
+  {
+    "codigo": 9209,
+    "nombre": "HIGIENICO DOBLE HOJA ELEGANTE X 50 MTS X12 P"
+  },
+  {
+    "codigo": 9246,
+    "nombre": "HIGIENICO ELEGANTE 12 PAQ DE 4 UNI X 80MTS CO"
+  },
+  {
+    "codigo": 9382,
+    "nombre": "HIGIENICO ELEGANTE 24*30 MTS ALOE"
+  },
+  {
+    "codigo": 9202,
+    "nombre": "HIGIENICO ELEGANTE 30 METROS DOBLE HOJA * 10"
+  },
+  {
+    "codigo": 9353,
+    "nombre": "HIGIENICO ELITE 12 PAQUETES *30 MTS"
+  },
+  {
+    "codigo": 9441,
+    "nombre": "HIGIENICO INDUSTRIAL 8*300"
+  },
+  {
+    "codigo": 9585,
+    "nombre": "HIGIENICO NITIDEZ 48 ROLLOS X 50 METROS"
+  },
+  {
+    "codigo": 9359,
+    "nombre": "HIGIENICO TOBAU 4X80 MTS"
+  },
+  {
+    "codigo": 9330,
+    "nombre": "HIGIENICO TOBAU X4"
+  },
+  {
+    "codigo": 9429,
+    "nombre": "HIGIENICO X 6 UNIDADES ELEGANTE 12*6"
+  },
+  {
+    "codigo": 9126,
+    "nombre": "HIGIENICO X 80 MTS ELEGANTE 10 PAQ"
+  },
+  {
+    "codigo": 9352,
+    "nombre": "PAÑUELO ELITE *6 UNIDADES"
+  },
+  {
+    "codigo": 9351,
+    "nombre": "PAÑUELOS ELITE 35 PAQUETES POR 6 * 10 UNI"
+  },
+  {
+    "codigo": 9259,
+    "nombre": "PAPEL HIGIENICO DESNUDO 30 ROLLOS DE 60 MTS"
+  },
+  {
+    "codigo": 8706,
+    "nombre": "PAPEL HIGIENICO DESNUDO 30 ROLLOS X 100 MTS"
+  },
+  {
+    "codigo": 9305,
+    "nombre": "PAPEL HIGIENICO ELEGANTE 24 ROLLOS X 50 MTS"
+  },
+  {
+    "codigo": 8707,
+    "nombre": "PAPEL HIGIENICO ELEGANTE 4 ROLLOS X 30MTS"
+  },
+  {
+    "codigo": 9609,
+    "nombre": "PAPEL HIGIENICO INDUSTRIAL 8 ROLLOS X 300MTS"
+  },
+  {
+    "codigo": 9608,
+    "nombre": "PAPEL HIGIENICO INDUSTRIAL 8 ROLLOS X 300MTS"
+  },
+  {
+    "codigo": 9433,
+    "nombre": "PAPEL HIGIENICO INDUSTRIAL 8 ROLLOS X 300MTS"
+  },
+  {
+    "codigo": 8709,
+    "nombre": "PAPEL HIGIENICO INDUSTRIAL 8 ROLLOS X 300MTS"
+  },
+  {
+    "codigo": 9545,
+    "nombre": "PAPEL HIGIENICO MAXIMO 12 PAQUETES 4*30METR"
+  },
+  {
+    "codigo": 9546,
+    "nombre": "PAPEL HIGIENICO NITIDEZ 12 PAQUETES 4*50METR"
+  },
+  {
+    "codigo": 9226,
+    "nombre": "PAPEL HIGIENICO TOBAUT 12 PAQ X 4 UNIDADES"
+  },
+  {
+    "codigo": 9184,
+    "nombre": "PAPEL HIGIENICO TOBAUT X UNIDAD X 30 UNIDADE"
+  },
+  {
+    "codigo": 9549,
+    "nombre": "PAPELHIGINICO NITIDEZ 30 ROLLO * 100 METROS"
+  },
+  {
+    "codigo": 9262,
+    "nombre": "TOBAUT 12 PAQUETES DE 4 X 80 MTS"
+  },
+  {
+    "codigo": 9263,
+    "nombre": "TOBAUT DOBLE HOJA 12*4 20MTS"
+  },
+  {
+    "codigo": 9462,
+    "nombre": "PIROTINES CUP CAKE CHICO * 1000 UNI"
+  },
+  {
+    "codigo": 8734,
+    "nombre": "PIROTINES CUP CAKE CHICO * 25 UNI"
+  },
+  {
+    "codigo": 8735,
+    "nombre": "PIROTINES CUP CAKE GRANDE * 1000 UNI"
+  },
+  {
+    "codigo": 9463,
+    "nombre": "PIROTINES CUP CAKE GRANDE * 25 UNI"
+  },
+  {
+    "codigo": 8733,
+    "nombre": "PIROTINES Nº  3 x 1000 uni"
+  },
+  {
+    "codigo": 8732,
+    "nombre": "PIROTINES Nº  4 x 1000 uni"
+  },
+  {
+    "codigo": 8731,
+    "nombre": "PIROTINES Nº  5 x 1000 uni"
+  },
+  {
+    "codigo": 8730,
+    "nombre": "PIROTINES Nº  6 x 1000 uni"
+  },
+  {
+    "codigo": 8729,
+    "nombre": "PIROTINES Nº  7 x 1000 uni"
+  },
+  {
+    "codigo": 8725,
+    "nombre": "PIROTINES Nº 10 * 25 unidades"
+  },
+  {
+    "codigo": 8726,
+    "nombre": "PIROTINES Nº 10 x 1000 uni"
+  },
+  {
+    "codigo": 8718,
+    "nombre": "PIROTINES Nº 3 * 25 unidades"
+  },
+  {
+    "codigo": 8719,
+    "nombre": "PIROTINES Nº 4 * 25 unidades"
+  },
+  {
+    "codigo": 8720,
+    "nombre": "PIROTINES Nº 5 * 25 unidades"
+  },
+  {
+    "codigo": 8721,
+    "nombre": "PIROTINES Nº 6 * 25 unidades"
+  },
+  {
+    "codigo": 8722,
+    "nombre": "PIROTINES Nº 7 * 25 unidades"
+  },
+  {
+    "codigo": 8723,
+    "nombre": "PIROTINES Nº 8 * 25 unidades"
+  },
+  {
+    "codigo": 8728,
+    "nombre": "PIROTINES Nº 8 x 1000 uni"
+  },
+  {
+    "codigo": 8724,
+    "nombre": "PIROTINES Nº 9 * 25 unidades"
+  },
+  {
+    "codigo": 8727,
+    "nombre": "PIROTINES Nº 9 x 1000 uni"
+  },
+  {
+    "codigo": 8739,
+    "nombre": "B.DORADA  1 KG."
+  },
+  {
+    "codigo": 8736,
+    "nombre": "B.DORADA  1/2 KG."
+  },
+  {
+    "codigo": 8737,
+    "nombre": "B.DORADA  1/4 KG."
+  },
+  {
+    "codigo": 8740,
+    "nombre": "B.DORADA  2 KG."
+  },
+  {
+    "codigo": 8741,
+    "nombre": "B.DORADA  3 KG."
+  },
+  {
+    "codigo": 8759,
+    "nombre": "B.DORADA 1 KG * 50 UNI"
+  },
+  {
+    "codigo": 8761,
+    "nombre": "B.DORADA 1/2 KG * 50 UNI"
+  },
+  {
+    "codigo": 8762,
+    "nombre": "B.DORADA 1/4 KG * 50 UNI"
+  },
+  {
+    "codigo": 8758,
+    "nombre": "B.DORADA 2 KG * 50 UNI"
+  },
+  {
+    "codigo": 8742,
+    "nombre": "B.DORADA 22"
+  },
+  {
+    "codigo": 8755,
+    "nombre": "B.DORADA 22 * 50 UNI"
+  },
+  {
+    "codigo": 8743,
+    "nombre": "B.DORADA 24"
+  },
+  {
+    "codigo": 8754,
+    "nombre": "B.DORADA 24 * 50 UNI"
+  },
+  {
+    "codigo": 8744,
+    "nombre": "B.DORADA 26"
+  },
+  {
+    "codigo": 8753,
+    "nombre": "B.DORADA 26 * 50 UNI"
+  },
+  {
+    "codigo": 8745,
+    "nombre": "B.DORADA 28"
+  },
+  {
+    "codigo": 8752,
+    "nombre": "B.DORADA 28 * 50 UNI"
+  },
+  {
+    "codigo": 8756,
+    "nombre": "B.DORADA 3 KG * 50 UNI"
+  },
+  {
+    "codigo": 8760,
+    "nombre": "B.DORADA 3/4 KG * 50 UNI"
+  },
+  {
+    "codigo": 8746,
+    "nombre": "B.DORADA 31"
+  },
+  {
+    "codigo": 8751,
+    "nombre": "B.DORADA 31 * 50 UNI"
+  },
+  {
+    "codigo": 8747,
+    "nombre": "B.DORADA 34"
+  },
+  {
+    "codigo": 8750,
+    "nombre": "B.DORADA 34 * 50 UNI"
+  },
+  {
+    "codigo": 8748,
+    "nombre": "B.DORADA 36"
+  },
+  {
+    "codigo": 8749,
+    "nombre": "B.DORADA 36 * 50 UNI"
+  },
+  {
+    "codigo": 8766,
+    "nombre": "PLATO BLONDA  KG"
+  },
+  {
+    "codigo": 8765,
+    "nombre": "PLATO BLONDA  KG * 10 UNI"
+  },
+  {
+    "codigo": 8763,
+    "nombre": "PLATO BLONDA 1/2 KG"
+  },
+  {
+    "codigo": 8764,
+    "nombre": "PLATO BLONDA 1/2 KG * 10 UNI"
+  },
+  {
+    "codigo": 8767,
+    "nombre": "PLATO BLONDA 2  KG"
+  },
+  {
+    "codigo": 8768,
+    "nombre": "PLATO BLONDA 2  KG * 10 UNI"
+  },
+  {
+    "codigo": 8773,
+    "nombre": "PLATO BLONDA 24"
+  },
+  {
+    "codigo": 8774,
+    "nombre": "PLATO BLONDA 24 * 10"
+  },
+  {
+    "codigo": 8776,
+    "nombre": "PLATO BLONDA 27"
+  },
+  {
+    "codigo": 8775,
+    "nombre": "PLATO BLONDA 27 * 10"
+  },
+  {
+    "codigo": 8770,
+    "nombre": "PLATO BLONDA 3  KG"
+  },
+  {
+    "codigo": 8769,
+    "nombre": "PLATO BLONDA 3  KG * 10 UNI"
+  },
+  {
+    "codigo": 8778,
+    "nombre": "PLATO BLONDA 30"
+  },
+  {
+    "codigo": 8779,
+    "nombre": "PLATO BLONDA 30 * 10 UNI"
+  },
+  {
+    "codigo": 8781,
+    "nombre": "PLATO BLONDA 33"
+  },
+  {
+    "codigo": 8780,
+    "nombre": "PLATO BLONDA 33 * 10 UNI"
+  },
+  {
+    "codigo": 8782,
+    "nombre": "PLATO BLONDA 36"
+  },
+  {
+    "codigo": 8783,
+    "nombre": "PLATO BLONDA 36 * 10 UNI"
+  },
+  {
+    "codigo": 8771,
+    "nombre": "PLATO BLONDA 5  KG"
+  },
+  {
+    "codigo": 8772,
+    "nombre": "PLATO BLONDA 5  KG * 10"
+  },
+  {
+    "codigo": 8797,
+    "nombre": "BOLS EXPANDIDO K 63"
+  },
+  {
+    "codigo": 8798,
+    "nombre": "BOLS EXPANDIDO K 63 * 400 UNI"
+  },
+  {
+    "codigo": 8793,
+    "nombre": "PLATO 17 EXPANDIDO PLAYO"
+  },
+  {
+    "codigo": 8794,
+    "nombre": "PLATO 17 EXPANDIDO PLAYO * 400 UNI"
+  },
+  {
+    "codigo": 9450,
+    "nombre": "PLATO 17 X 500 UNIDADES"
+  },
+  {
+    "codigo": 8796,
+    "nombre": "PLATO 22 EXPANDIDO"
+  },
+  {
+    "codigo": 8795,
+    "nombre": "PLATO 22 EXPANDIDO PLAYO * 400 UNI"
+  },
+  {
+    "codigo": 8788,
+    "nombre": "PLATO PLASTICO OCTOGONAL CHICO * 10 UNI"
+  },
+  {
+    "codigo": 8791,
+    "nombre": "PLATO PLASTICO OCTOGONAL CHICO * 100 UNI"
+  },
+  {
+    "codigo": 8789,
+    "nombre": "PLATO PLASTICO OCTOGONAL GRANDE * 10 UNI"
+  },
+  {
+    "codigo": 8790,
+    "nombre": "PLATO PLASTICO OCTOGONAL GRANDE * 100 UNI"
+  },
+  {
+    "codigo": 8787,
+    "nombre": "PLATO PLASTICO WORK 17 CM X 1000 UNI"
+  },
+  {
+    "codigo": 8784,
+    "nombre": "PLATO PLASTICO WORK 17 CM X 50 UNI"
+  },
+  {
+    "codigo": 9520,
+    "nombre": "PLATO PLASTICO WORK 17 CM X 50 UNI COLOR"
+  },
+  {
+    "codigo": 8786,
+    "nombre": "PLATO PLASTICO WORK 22 CM X 1000 UNI"
+  },
+  {
+    "codigo": 8792,
+    "nombre": "PLATO PLASTICO WORK 22 CM X 50 UNI"
+  },
+  {
+    "codigo": 8785,
+    "nombre": "PLATO PLASTICO WORK 22 CM X 50 UNI"
+  },
+  {
+    "codigo": 8806,
+    "nombre": "DISPENSER P/  ROLLO HIGIENICO DE 300 Mts."
+  },
+  {
+    "codigo": 8801,
+    "nombre": "DISPENSER PARA JABON LIQUIDO CON TECLA"
+  },
+  {
+    "codigo": 8802,
+    "nombre": "DISPENSER PARA TOALLA DE 4 PANELES TAPA HUM"
+  },
+  {
+    "codigo": 8804,
+    "nombre": "DISPENSER PARA TOALLA EN ROLLO DE 200 Mts."
+  },
+  {
+    "codigo": 8809,
+    "nombre": "PORTA BOBINA DE 40 CM"
+  },
+  {
+    "codigo": 8811,
+    "nombre": "PORTA BOBINA DE 40/60 CM"
+  },
+  {
+    "codigo": 8810,
+    "nombre": "PORTA BOBINA DE 60 CM"
+  },
+  {
+    "codigo": 8812,
+    "nombre": "PORTA FILM PVC CAÑO"
+  },
+  {
+    "codigo": 8807,
+    "nombre": "PORTA ROLLO DE PARED INDUSTRIAL"
+  },
+  {
+    "codigo": 8808,
+    "nombre": "PORTA ROLLO DE PIE INDUSTRIAL"
+  },
+  {
+    "codigo": 8820,
+    "nombre": "POTES DE 1 KG WORK"
+  },
+  {
+    "codigo": 8822,
+    "nombre": "POTES DE 1 KG WORK * 400 UNI"
+  },
+  {
+    "codigo": 8821,
+    "nombre": "POTES DE 1 KG WORK * 50 UNI"
+  },
+  {
+    "codigo": 8825,
+    "nombre": "POTES DE 1/2 KG WORK"
+  },
+  {
+    "codigo": 8823,
+    "nombre": "POTES DE 1/2 KG WORK * 1000 UNI"
+  },
+  {
+    "codigo": 8824,
+    "nombre": "POTES DE 1/2 KG WORK * 50 UNI"
+  },
+  {
+    "codigo": 8826,
+    "nombre": "POTES DE 1/4 KG WORK"
+  },
+  {
+    "codigo": 8831,
+    "nombre": "POTES DE 1/4 KG WORK * 1000 UNO"
+  },
+  {
+    "codigo": 8830,
+    "nombre": "POTES DE 1/4 KG WORK * 50 UNI"
+  },
+  {
+    "codigo": 8827,
+    "nombre": "POTES DE 1/8 KG WORK"
+  },
+  {
+    "codigo": 8829,
+    "nombre": "POTES DE 1/8 KG WORK *  1000 UNI"
+  },
+  {
+    "codigo": 8828,
+    "nombre": "POTES DE 1/8 KG WORK * 50 UNI"
+  },
+  {
+    "codigo": 8816,
+    "nombre": "POTES PLASTICOS 90 C.C. CRISTAL  * 1000 UNI"
+  },
+  {
+    "codigo": 8814,
+    "nombre": "POTES PLASTICOS 90 C.C. CRISTAL AMERICAN PLA"
+  },
+  {
+    "codigo": 8813,
+    "nombre": "POTES PLASTICOS 90 C.C. CRISTAL AMERICAN PLA"
+  },
+  {
+    "codigo": 8832,
+    "nombre": "TAPA POTE CHICO* 1000 UNO"
+  },
+  {
+    "codigo": 8833,
+    "nombre": "TAPA POTE CHICO* 50 UNO"
+  },
+  {
+    "codigo": 8834,
+    "nombre": "TAPA POTE CHICO* UNO"
+  },
+  {
+    "codigo": 8837,
+    "nombre": "TAPA POTE GRANDE* 400 UNO"
+  },
+  {
+    "codigo": 8836,
+    "nombre": "TAPA POTE GRANDE* 50 UNO"
+  },
+  {
+    "codigo": 8835,
+    "nombre": "TAPA POTE GRANDE* UNO"
+  },
+  {
+    "codigo": 8819,
+    "nombre": "TAPA POTES PLASTICOS 90 C.C. CRISTAL"
+  },
+  {
+    "codigo": 8817,
+    "nombre": "TAPA POTES PLASTICOS 90 C.C. CRISTAL  * 1000 UN"
+  },
+  {
+    "codigo": 8818,
+    "nombre": "TAPA POTES PLASTICOS 90 C.C. CRISTAL  * 50 UNI"
+  },
+  {
+    "codigo": 8840,
+    "nombre": "POTE CON TAPA BISAGRA CRISTAL ALTO"
+  },
+  {
+    "codigo": 8841,
+    "nombre": "POTE CON TAPA BISAGRA CRISTAL ALTO * 50 UNI"
+  },
+  {
+    "codigo": 8846,
+    "nombre": "POTE CON TAPA BISAGRA CRISTAL ALTO * 600"
+  },
+  {
+    "codigo": 8843,
+    "nombre": "POTE CON TAPA BISAGRA CRISTAL BAJO * 50 UNI"
+  },
+  {
+    "codigo": 8844,
+    "nombre": "POTE CON TAPA BISAGRA CRISTAL BAJO * 600"
+  },
+  {
+    "codigo": 8838,
+    "nombre": "POTE CON TAPA BISAGRA CRISTAL CHICO"
+  },
+  {
+    "codigo": 8839,
+    "nombre": "POTE CON TAPA BISAGRA CRISTAL MEDIANO"
+  },
+  {
+    "codigo": 8842,
+    "nombre": "POTE CON TAPA BISAGRA CRISTAL MEDIANO * 50 U"
+  },
+  {
+    "codigo": 8845,
+    "nombre": "POTE CON TAPA BISAGRA CRISTAL MEDIANO * 600"
+  },
+  {
+    "codigo": 9203,
+    "nombre": "POTE PARA MICRO ONDAS 500"
+  },
+  {
+    "codigo": 9434,
+    "nombre": "TAPA POTE MICRO * 50 UNIDADES"
+  },
+  {
+    "codigo": 8847,
+    "nombre": "ARRANQUE 20*30 * 1.470 INPLA"
+  },
+  {
+    "codigo": 8862,
+    "nombre": "ARRANQUE 20*30 9 KG INPLA"
+  },
+  {
+    "codigo": 8848,
+    "nombre": "ARRANQUE 25*35 1.470 INPLA"
+  },
+  {
+    "codigo": 8861,
+    "nombre": "ARRANQUE 25*35 9 KG INPLA"
+  },
+  {
+    "codigo": 8860,
+    "nombre": "ARRANQUE 30*40  9 KG INPLA"
+  },
+  {
+    "codigo": 8849,
+    "nombre": "ARRANQUE 30*40 1.470 INPLA"
+  },
+  {
+    "codigo": 8859,
+    "nombre": "ARRANQUE 35*45  9 KG INPLA"
+  },
+  {
+    "codigo": 8850,
+    "nombre": "ARRANQUE 35*45 1.470 INPLA"
+  },
+  {
+    "codigo": 8858,
+    "nombre": "ARRANQUE 40*50  9 KG INPLA"
+  },
+  {
+    "codigo": 8851,
+    "nombre": "ARRANQUE 40*50 1.470 INPLA"
+  },
+  {
+    "codigo": 8857,
+    "nombre": "ARRANQUE 40*60  9 KG INPLA"
+  },
+  {
+    "codigo": 8852,
+    "nombre": "ARRANQUE 40*60 1.470 INPLA"
+  },
+  {
+    "codigo": 8856,
+    "nombre": "ARRANQUE 50*70  9 KG INPLA"
+  },
+  {
+    "codigo": 8853,
+    "nombre": "ARRANQUE 50*701.470 INPLA"
+  },
+  {
+    "codigo": 8854,
+    "nombre": "ARRANQUE 60*90 1.47 KG INPLÑA"
+  },
+  {
+    "codigo": 8855,
+    "nombre": "ARRANQUE 60*90 8 KG"
+  },
+  {
+    "codigo": 9281,
+    "nombre": "ARRANQUE ROLAN"
+  },
+  {
+    "codigo": 9236,
+    "nombre": "ROLLO 50*70 BAJA X 6 UNIDADES"
+  },
+  {
+    "codigo": 9368,
+    "nombre": "ROLLO 60*90 POLIFILM"
+  },
+  {
+    "codigo": 9615,
+    "nombre": "ROLLO 60*90 POLIFILM *4 UNIDADES"
+  },
+  {
+    "codigo": 9500,
+    "nombre": "ROLLO BAJA DENSIDAD 50*70"
+  },
+  {
+    "codigo": 9308,
+    "nombre": "ROLLO CRISTAL 40*50"
+  },
+  {
+    "codigo": 9303,
+    "nombre": "ROLLO CRISTAL 50*70 BULTO"
+  },
+  {
+    "codigo": 9170,
+    "nombre": "ROLLO CRISTAL 60X90"
+  },
+  {
+    "codigo": 9282,
+    "nombre": "ROLLO LIVIANA 750 GRS25*35"
+  },
+  {
+    "codigo": 9166,
+    "nombre": "ROLLO PARA DIARIO 20*70"
+  },
+  {
+    "codigo": 9597,
+    "nombre": "ROLLO PARA DIARIO 20*70 *6 UNIDADES"
+  },
+  {
+    "codigo": 9326,
+    "nombre": "ROLLOS DE ARRANQUE 45*60"
+  },
+  {
+    "codigo": 9179,
+    "nombre": "ROLLOS DE ARRANQUE 45*60 X 6 UNIDADES"
+  },
+  {
+    "codigo": 8863,
+    "nombre": "RENDIDOR 15*20 * 500 UNI"
+  },
+  {
+    "codigo": 8864,
+    "nombre": "RENDIDOR 15*25 * 500 UNI"
+  },
+  {
+    "codigo": 8872,
+    "nombre": "RENDIDOR 15*25 BULTO"
+  },
+  {
+    "codigo": 8873,
+    "nombre": "RENDIDOR 15*250BULTO"
+  },
+  {
+    "codigo": 8865,
+    "nombre": "RENDIDOR 20*30 * 500 UNI"
+  },
+  {
+    "codigo": 8871,
+    "nombre": "RENDIDOR 20*30 BULTO"
+  },
+  {
+    "codigo": 8866,
+    "nombre": "RENDIDOR 25*35 * 500 UNI"
+  },
+  {
+    "codigo": 8870,
+    "nombre": "RENDIDOR 25*35 BULTO"
+  },
+  {
+    "codigo": 8869,
+    "nombre": "RENDIDOR 30*40 BULTO"
+  },
+  {
+    "codigo": 8867,
+    "nombre": "RENDIDOR 30*40* 500 UNI"
+  },
+  {
+    "codigo": 8868,
+    "nombre": "RENDIDOR 35*45 250 UNI"
+  },
+  {
+    "codigo": 9161,
+    "nombre": "RENDIDOR 35*45 BULTO"
+  },
+  {
+    "codigo": 9339,
+    "nombre": "ROLLO CRISTAL 15*25 *500"
+  },
+  {
+    "codigo": 9299,
+    "nombre": "ROLLO CRISTAL 2535"
+  },
+  {
+    "codigo": 9341,
+    "nombre": "ROLLO CRISTAL 30*40"
+  },
+  {
+    "codigo": 9258,
+    "nombre": "ROLLO CRISTAL 35*45 RINDE MAS"
+  },
+  {
+    "codigo": 9540,
+    "nombre": "ROLLO CRISTAL 35*45 RINDE MAS *9 UNI"
+  },
+  {
+    "codigo": 9548,
+    "nombre": "COCINA 8 X 200 PAÑOS"
+  },
+  {
+    "codigo": 9302,
+    "nombre": "PANUELOS ELEGANTE 150X36 PAQUETES"
+  },
+  {
+    "codigo": 9501,
+    "nombre": "ROLLO 600 PAÑOS ELEGANTE * 2 UNIDADES"
+  },
+  {
+    "codigo": 9586,
+    "nombre": "ROLLO COCINA 300 PAÑOS *8 UNIDADES"
+  },
+  {
+    "codigo": 9588,
+    "nombre": "ROLLO COCINA 300 PAÑOS *UNIDAD"
+  },
+  {
+    "codigo": 7428,
+    "nombre": "ROLLO COCINA 8 PAQUETES X 3UNI"
+  },
+  {
+    "codigo": 9383,
+    "nombre": "ROLLO COCINA 8 X 250 PAÑOS"
+  },
+  {
+    "codigo": 9348,
+    "nombre": "ROLLO COCINA CHANITA DE 50 PAÑOS 8 PAQ X 3 UN"
+  },
+  {
+    "codigo": 9284,
+    "nombre": "ROLLO COCINA DESNUDO ECO"
+  },
+  {
+    "codigo": 8874,
+    "nombre": "ROLLO COCINA DICHA X 3 UNIDADES DE 40 PAÑOS"
+  },
+  {
+    "codigo": 8876,
+    "nombre": "ROLLO COCINA ELEGANTE  X 3 UNIDADES"
+  },
+  {
+    "codigo": 8875,
+    "nombre": "ROLLO COCINA ELEGANTE  X 3 UNIDADES DE 50 PA"
+  },
+  {
+    "codigo": 8878,
+    "nombre": "ROLLO COCINA ELEGANTE X 100 PAÑOS * 3 UNIDAD"
+  },
+  {
+    "codigo": 8879,
+    "nombre": "ROLLO COCINA ELEGANTE X 100 PAÑOS 8 PAQ X 3"
+  },
+  {
+    "codigo": 9550,
+    "nombre": "ROLLO COCINA NITIDEZ 8 PAQ 100 PAÑOS X 3 UNI"
+  },
+  {
+    "codigo": 9547,
+    "nombre": "ROLLO COCINA NITIDEZ 8 PAQ 100 PAÑOS X 3 UNI"
+  },
+  {
+    "codigo": 9144,
+    "nombre": "ROLLO DE CAMILLA"
+  },
+  {
+    "codigo": 8877,
+    "nombre": "ROLLO DE COCINA DESNUDO 20 ROLLOS DE 150 PA"
+  },
+  {
+    "codigo": 9407,
+    "nombre": "ROLLO DE COCINA SUSSEX 10PAQ * 3 UNIDADES"
+  },
+  {
+    "codigo": 9366,
+    "nombre": "ROLLO INDUSTRIAL BEIGE X 300MTS X2 UNIDADES"
+  },
+  {
+    "codigo": 9289,
+    "nombre": "ROLLO INDUSTRIAL CELESTE 25 * 400 UNIDAD"
+  },
+  {
+    "codigo": 9290,
+    "nombre": "ROLLO INDUSTRIAL CELESTE 25 * 400 X 2"
+  },
+  {
+    "codigo": 9458,
+    "nombre": "ROLLO INDUSTRIAL DORADO 25 * 350 MTS"
+  },
+  {
+    "codigo": 9291,
+    "nombre": "ROLLO INDUSTRIAL DORADO 25 * 350 MTS 2 UNIDA"
+  },
+  {
+    "codigo": 9257,
+    "nombre": "ROLLO INDUSTRIAL ECO BEIGE X 400 MTS * 2 UNIDA"
+  },
+  {
+    "codigo": 9256,
+    "nombre": "ROLLO INDUSTRIAL ECO BEIGE X 400 MTS * UNIDAD"
+  },
+  {
+    "codigo": 9459,
+    "nombre": "ROLLO INDUSTRIAL ELEGANTE 1200 PAÑOS"
+  },
+  {
+    "codigo": 9288,
+    "nombre": "ROLLO INDUSTRIAL ELEGANTE 25 * 400MTS X 2 UNI"
+  },
+  {
+    "codigo": 9201,
+    "nombre": "ROLLO INDUSTRIAL ELEGANTE 25 *400MTS"
+  },
+  {
+    "codigo": 9408,
+    "nombre": "ROLLO INDUSTRIAL ELITE 25*400"
+  },
+  {
+    "codigo": 9409,
+    "nombre": "ROLLO INDUSTRIAL ELITE 25X400 X 2 UNIDA"
+  },
+  {
+    "codigo": 9287,
+    "nombre": "ROLLO INDUSTRIAL VERDE X 350 MTS X  2UNIDAD"
+  },
+  {
+    "codigo": 9120,
+    "nombre": "ROLLO INDUSTRIAL VERDE X 350 MTS X UNIDAD"
+  },
+  {
+    "codigo": 9416,
+    "nombre": "ROLLO MANTEL INDIVIDUAL X 2"
+  },
+  {
+    "codigo": 9417,
+    "nombre": "ROLLO MANTEL INDIVIDUAL X 2 X 10"
+  },
+  {
+    "codigo": 9430,
+    "nombre": "ROLLO MULTIUSO ELEGANTE X 200 PAÑOS *6 ROLL"
+  },
+  {
+    "codigo": 9553,
+    "nombre": "ROLLO MULTIUSO SULLEG X 200 PAÑOS INDIVI"
+  },
+  {
+    "codigo": 9599,
+    "nombre": "ROLLO MAQUINA 37 X 30 MTS"
+  },
+  {
+    "codigo": 8882,
+    "nombre": "ROLLO MAQUINA 37 X 30 MTS X 10 PAQUETES"
+  },
+  {
+    "codigo": 8881,
+    "nombre": "ROLLO MAQUINA 37 X 50 MTS"
+  },
+  {
+    "codigo": 8892,
+    "nombre": "ROLLO MAQUINA 44  X 30 MTS"
+  },
+  {
+    "codigo": 8883,
+    "nombre": "ROLLO MAQUINA 44  X 30 MTS X 10 PAQUETES"
+  },
+  {
+    "codigo": 8884,
+    "nombre": "ROLLO MAQUINA 57  X 30 MTS X 10 PAQUETES"
+  },
+  {
+    "codigo": 889,
+    "nombre": "ROLLO MAQUINA 57 X 30 MTS"
+  },
+  {
+    "codigo": 8885,
+    "nombre": "ROLLO MAQUINA 70  X 30 MTS X 5 PAQUETES"
+  },
+  {
+    "codigo": 8886,
+    "nombre": "ROLLO MAQUINA 75  X 30 MTS X 10 PAQUETES"
+  },
+  {
+    "codigo": 8889,
+    "nombre": "ROLLO MAQUINA 75 X 30 MTS"
+  },
+  {
+    "codigo": 8888,
+    "nombre": "ROLLO MAQUINA 88  X 30 MTS"
+  },
+  {
+    "codigo": 8887,
+    "nombre": "ROLLO MAQUINA 88  X 30 MTS X 5 PAQUETES"
+  },
+  {
+    "codigo": 8891,
+    "nombre": "ROLLO MAQUINA70 X 30 MTS"
+  },
+  {
+    "codigo": 8904,
+    "nombre": "ROLLO QUIMICO 76 * 20 * 10 ROLLOS"
+  },
+  {
+    "codigo": 8905,
+    "nombre": "ROLLO QUIMICO 76 * 20 * 10 ROLLOS * 5 PAQ"
+  },
+  {
+    "codigo": 8900,
+    "nombre": "ROLLO DE PAPEL TERMICO 37 x 20 x 5 PAQ"
+  },
+  {
+    "codigo": 8893,
+    "nombre": "ROLLO DE PAPEL TERMICO 37x30 x 10 UNID."
+  },
+  {
+    "codigo": 8899,
+    "nombre": "ROLLO DE PAPEL TERMICO 44 x 50 x 10 PAQ"
+  },
+  {
+    "codigo": 8894,
+    "nombre": "ROLLO DE PAPEL TERMICO 44x50 x 10 UNID."
+  },
+  {
+    "codigo": 8898,
+    "nombre": "ROLLO DE PAPEL TERMICO 57 x 20 x 10 PAQ"
+  },
+  {
+    "codigo": 8895,
+    "nombre": "ROLLO DE PAPEL TERMICO 57 x 20 x 10 UNID."
+  },
+  {
+    "codigo": 9380,
+    "nombre": "ROLLO DE PAPEL TERMICO 57 x 30 x 10 PAQ"
+  },
+  {
+    "codigo": 9381,
+    "nombre": "ROLLO DE PAPEL TERMICO 57 x 30 x 10 UNID."
+  },
+  {
+    "codigo": 8897,
+    "nombre": "ROLLO DE PAPEL TERMICO 80 x 20 x 10 PAQ"
+  },
+  {
+    "codigo": 9602,
+    "nombre": "ROLLO DE PAPEL TERMICO 80 x 20 x 10 UNID."
+  },
+  {
+    "codigo": 8896,
+    "nombre": "ROLLO DE PAPEL TERMICO 80 x 20 x 10 UNID."
+  },
+  {
+    "codigo": 9601,
+    "nombre": "ROLLO DE PAPEL TERMICO 80 x 30 x 10 UNID."
+  },
+  {
+    "codigo": 9600,
+    "nombre": "ROLLO DE PAPEL TERMICO 80 x 50 x 10 UNID."
+  },
+  {
+    "codigo": 8903,
+    "nombre": "ROLLO DE PAPEL TERMICO PARA FAX"
+  },
+  {
+    "codigo": 8902,
+    "nombre": "ROLLO DE PAPEL TERMICO PARA FAX * 12 ROLLOS"
+  },
+  {
+    "codigo": 9333,
+    "nombre": "ROLLO TERMICO 37*10 METROS"
+  },
+  {
+    "codigo": 8909,
+    "nombre": "CARTON CORRUGADO 1.00 MTS. X 25 MTS."
+  },
+  {
+    "codigo": 8914,
+    "nombre": "CARTON CORRUGADO 1.00 MTS. X 25 MTS. * 10 ROL"
+  },
+  {
+    "codigo": 8910,
+    "nombre": "CARTON CORRUGADO 1.20 MTS. X 20MTS."
+  },
+  {
+    "codigo": 8913,
+    "nombre": "CARTON CORRUGADO 1.20 MTS. X 20MTS. * 10 ROL"
+  },
+  {
+    "codigo": 8911,
+    "nombre": "CARTON CORRUGADO 1.40 MTS. X 20MTS."
+  },
+  {
+    "codigo": 8912,
+    "nombre": "CARTON CORRUGADO 1.40 MTS. X 20MTS. * 10 ROL"
+  },
+  {
+    "codigo": 8917,
+    "nombre": "CARTON CORRUGADO 50 CM. X 20MTS. * 10 ROLLO"
+  },
+  {
+    "codigo": 8906,
+    "nombre": "CARTON CORRUGADO 50cm. X 20MTS."
+  },
+  {
+    "codigo": 8916,
+    "nombre": "CARTON CORRUGADO 70 CM. X 20MTS. * 10 ROLLO"
+  },
+  {
+    "codigo": 8907,
+    "nombre": "CARTON CORRUGADO 70cm. X 20MTS."
+  },
+  {
+    "codigo": 8908,
+    "nombre": "CARTON CORRUGADO 80 cm. X 20MTS."
+  },
+  {
+    "codigo": 8915,
+    "nombre": "CARTON CORRUGADO 80 CM. X 20MTS. * 10 ROLLO"
+  },
+  {
+    "codigo": 8926,
+    "nombre": "PAÑUELOS ELEGANTE 6 PAQ 12 PAÑU"
+  },
+  {
+    "codigo": 8925,
+    "nombre": "PAÑUELOS ELEGANTE 6 PAQ 12 PAÑU * 30 PAQ"
+  },
+  {
+    "codigo": 9517,
+    "nombre": "SERVILLETA 18X18  ECO UNI"
+  },
+  {
+    "codigo": 8918,
+    "nombre": "SERVILLETA 18X18 X 1600 UNI"
+  },
+  {
+    "codigo": 8922,
+    "nombre": "SERVILLETA 24*24 BARMAN X 1600 UNI"
+  },
+  {
+    "codigo": 9411,
+    "nombre": "SERVILLETA 30*30 * 144 UNI * 7 PAQUETES"
+  },
+  {
+    "codigo": 8923,
+    "nombre": "SERVILLETA 33*33 * 80 UNI ¨ELEGANTE¨"
+  },
+  {
+    "codigo": 8924,
+    "nombre": "SERVILLETA 33*33 * 80 UNI ¨ELEGANTE¨ * 30 UNI"
+  },
+  {
+    "codigo": 8921,
+    "nombre": "SERVILLETA 33*33 ELEGANTE X 1000 UNI"
+  },
+  {
+    "codigo": 9516,
+    "nombre": "SERVILLETA 33X33 ECONOMICO"
+  },
+  {
+    "codigo": 8919,
+    "nombre": "SERVILLETA 33X33 X 600 UNI"
+  },
+  {
+    "codigo": 8920,
+    "nombre": "SERVILLETA BAR ECO X 2000 UNI APROX"
+  },
+  {
+    "codigo": 9343,
+    "nombre": "SERVILLETA CAMPANITA *1000 UNIDADES"
+  },
+  {
+    "codigo": 941,
+    "nombre": "SERVILLETA ELITE 30*30  * 144 UNI"
+  },
+  {
+    "codigo": 9349,
+    "nombre": "SERVILLETA INTERCALADA SULLEG *250"
+  },
+  {
+    "codigo": 935,
+    "nombre": "SERVILLETA INTERCALADA SULLEG *250 * 24 PAQUE"
+  },
+  {
+    "codigo": 9237,
+    "nombre": "SERVILLETERO PLASTICO"
+  },
+  {
+    "codigo": 8931,
+    "nombre": "SOBRES DE PAPEL FSIA. x100 11 x 15"
+  },
+  {
+    "codigo": 8946,
+    "nombre": "SOBRES DE PAPEL FSIA. x100 11 X 15 * 1000 UNI"
+  },
+  {
+    "codigo": 8932,
+    "nombre": "SOBRES DE PAPEL FSIA. x100 14 x 21"
+  },
+  {
+    "codigo": 8945,
+    "nombre": "SOBRES DE PAPEL FSIA. x100 14 x 21* 1000 UNI"
+  },
+  {
+    "codigo": 8933,
+    "nombre": "SOBRES DE PAPEL FSIA. x100 16 x 23"
+  },
+  {
+    "codigo": 8944,
+    "nombre": "SOBRES DE PAPEL FSIA. x100 16 x 23 * 1000 UNI"
+  },
+  {
+    "codigo": 8934,
+    "nombre": "SOBRES DE PAPEL FSIA. x100 20 x 28"
+  },
+  {
+    "codigo": 8943,
+    "nombre": "SOBRES DE PAPEL FSIA. x100 20 x 28* 1000 UNI"
+  },
+  {
+    "codigo": 8935,
+    "nombre": "SOBRES DE PAPEL FSIA. x100 24 x 30"
+  },
+  {
+    "codigo": 8942,
+    "nombre": "SOBRES DE PAPEL FSIA. x100 24x 30* 1000 UNI"
+  },
+  {
+    "codigo": 8936,
+    "nombre": "SOBRES DE PAPEL FSIA. x100 27 x 37"
+  },
+  {
+    "codigo": 8941,
+    "nombre": "SOBRES DE PAPEL FSIA. x100 27x 37 * 1000 UNI"
+  },
+  {
+    "codigo": 8937,
+    "nombre": "SOBRES DE PAPEL FSIA. x100 30 x 40"
+  },
+  {
+    "codigo": 8940,
+    "nombre": "SOBRES DE PAPEL FSIA. x100 30x 40 * 1000 UNI"
+  },
+  {
+    "codigo": 8938,
+    "nombre": "SOBRES DE PAPEL FSIA. x100 37 x 45"
+  },
+  {
+    "codigo": 8939,
+    "nombre": "SOBRES DE PAPEL FSIA. x100 37 x 45 * 1000 UNI"
+  },
+  {
+    "codigo": 8927,
+    "nombre": "SOBRES DE PAPEL FSIA. x100 5 x 9"
+  },
+  {
+    "codigo": 8951,
+    "nombre": "SOBRES DE PAPEL FSIA. x100 5 X 9 * 1000 UNI"
+  },
+  {
+    "codigo": 8929,
+    "nombre": "SOBRES DE PAPEL FSIA. x100 7 x 11"
+  },
+  {
+    "codigo": 8949,
+    "nombre": "SOBRES DE PAPEL FSIA. x100 7 X 11 * 1000 UNI"
+  },
+  {
+    "codigo": 8930,
+    "nombre": "SOBRES DE PAPEL FSIA. x100 7 x 20"
+  },
+  {
+    "codigo": 8948,
+    "nombre": "SOBRES DE PAPEL FSIA. x100 7 X 20 * 1000 UNI"
+  },
+  {
+    "codigo": 8928,
+    "nombre": "SOBRES DE PAPEL FSIA. x100 7 x 9"
+  },
+  {
+    "codigo": 8950,
+    "nombre": "SOBRES DE PAPEL FSIA. x100 7 X 9 * 1000 UNI"
+  },
+  {
+    "codigo": 9122,
+    "nombre": "SOBRES DE PAPEL FSIA. x100 9 X 15 *"
+  },
+  {
+    "codigo": 8947,
+    "nombre": "SOBRES DE PAPEL FSIA. x100 9 X 15 * 1000 UNI"
+  },
+  {
+    "codigo": 8960,
+    "nombre": "SOBRES MANILA  N° 9 = 30 x 40"
+  },
+  {
+    "codigo": 8963,
+    "nombre": "SOBRES MANILA  N° 9 = 30 x 40 x100 UNID."
+  },
+  {
+    "codigo": 8981,
+    "nombre": "SOBRES MANILA  N° 9 = 30 x 40 x1000 UNID."
+  },
+  {
+    "codigo": 8968,
+    "nombre": "SOBRES MANILA A 4 = 22,9 x 32,4 x100 UNID."
+  },
+  {
+    "codigo": 8976,
+    "nombre": "SOBRES MANILA A 4 = 22,9 x 32,4 x1000 UNID."
+  },
+  {
+    "codigo": 8952,
+    "nombre": "SOBRES MANILA N° 1 = 13 x 19"
+  },
+  {
+    "codigo": 8972,
+    "nombre": "SOBRES MANILA N° 1 = 13 x 19 x100 UNID."
+  },
+  {
+    "codigo": 8983,
+    "nombre": "SOBRES MANILA N° 1 = 13 x 19 x1000 UNID."
+  },
+  {
+    "codigo": 8953,
+    "nombre": "SOBRES MANILA N° 2 = 14 x 21 x100 UNID."
+  },
+  {
+    "codigo": 8973,
+    "nombre": "SOBRES MANILA N° 2 = 14 x 21 x1000 UNID."
+  },
+  {
+    "codigo": 8971,
+    "nombre": "SOBRES MANILA N° 2 = 16 x 23 x100 UNID."
+  },
+  {
+    "codigo": 8970,
+    "nombre": "SOBRES MANILA N° 3 = 16 x 23 x100 UNID."
+  },
+  {
+    "codigo": 8954,
+    "nombre": "SOBRES MANILA N° 3 = 16 x 23 x100 UNID."
+  },
+  {
+    "codigo": 8974,
+    "nombre": "SOBRES MANILA N° 3 = 16 x 23 x1000 UNID."
+  },
+  {
+    "codigo": 8969,
+    "nombre": "SOBRES MANILA N° 4 = 19 x 24 x100 UNID."
+  },
+  {
+    "codigo": 8955,
+    "nombre": "SOBRES MANILA N° 4 = 19 x 24 x100 UNID."
+  },
+  {
+    "codigo": 8975,
+    "nombre": "SOBRES MANILA N° 4 = 19 x 24 x1000 UNID."
+  },
+  {
+    "codigo": 8956,
+    "nombre": "SOBRES MANILA N° 5 = 20 x 28"
+  },
+  {
+    "codigo": 8967,
+    "nombre": "SOBRES MANILA N° 5 = 20 x 28 x100 UNID."
+  },
+  {
+    "codigo": 8977,
+    "nombre": "SOBRES MANILA N° 5 = 20 x 28 x1000 UNID.."
+  },
+  {
+    "codigo": 8957,
+    "nombre": "SOBRES MANILA N° 6 = 24 x 30"
+  },
+  {
+    "codigo": 8966,
+    "nombre": "SOBRES MANILA N° 6 = 24 x 30 x100 UNID."
+  },
+  {
+    "codigo": 8978,
+    "nombre": "SOBRES MANILA N° 6 = 24 x 30 x1000 UNID."
+  },
+  {
+    "codigo": 8958,
+    "nombre": "SOBRES MANILA N° 7 = 25 x 35"
+  },
+  {
+    "codigo": 8965,
+    "nombre": "SOBRES MANILA N° 7 = 25 x 35 x100 UNID."
+  },
+  {
+    "codigo": 8979,
+    "nombre": "SOBRES MANILA N° 7 = 25 x 35 x1000 UNID."
+  },
+  {
+    "codigo": 8959,
+    "nombre": "SOBRES MANILA N° 8 = 27 x 37"
+  },
+  {
+    "codigo": 8980,
+    "nombre": "SOBRES MANILA N° 8 = 27 x 37 x100 UNID."
+  },
+  {
+    "codigo": 8964,
+    "nombre": "SOBRES MANILA N° 8 = 27 x 37 x100 UNID."
+  },
+  {
+    "codigo": 8961,
+    "nombre": "SOBRES MANILA N°10 = 37 x 45"
+  },
+  {
+    "codigo": 8962,
+    "nombre": "SOBRES MANILA N°10 = 37 x 45 * 100 UNI"
+  },
+  {
+    "codigo": 8982,
+    "nombre": "SOBRES MANILA N°10 = 37 x 45 x1000 UNID."
+  },
+  {
+    "codigo": 9534,
+    "nombre": "SORBETE BIODEGRADABLE *500 UNIDADES"
+  },
+  {
+    "codigo": 9196,
+    "nombre": "SORBETE FLEX X 15"
+  },
+  {
+    "codigo": 9183,
+    "nombre": "SORBETE FLEXIBLE x 100"
+  },
+  {
+    "codigo": 9340,
+    "nombre": "SORBETE GRUESO X 100"
+  },
+  {
+    "codigo": 9197,
+    "nombre": "SORBETE PARAGUITA X 10 UN"
+  },
+  {
+    "codigo": 9338,
+    "nombre": "SORBETE POLIPAPEL *25 UNIDADES"
+  },
+  {
+    "codigo": 8988,
+    "nombre": "SORBETES CON FRUTAS x 10"
+  },
+  {
+    "codigo": 8985,
+    "nombre": "SORBETES CON FUNDA x1.000 UNIDADES"
+  },
+  {
+    "codigo": 9519,
+    "nombre": "SORBETES CON FUNDA x1.000 UNIDADES BULTO"
+  },
+  {
+    "codigo": 8986,
+    "nombre": "SORBETES CON FUNDA x5.000 UNIDADES"
+  },
+  {
+    "codigo": 8984,
+    "nombre": "SORBETES CON FUNDA x700 UNIDADES"
+  },
+  {
+    "codigo": 8987,
+    "nombre": "SORBETES FLEXIBLES CON FUELLE COMUNES x40"
+  },
+  {
+    "codigo": 8990,
+    "nombre": "SORBETES GRUESOS x 500 UNID."
+  },
+  {
+    "codigo": 8712,
+    "nombre": "TOALLA BEIGE ECO X 2200 UNI APROX"
+  },
+  {
+    "codigo": 9325,
+    "nombre": "TOALLA BLANCA INTERCALADA X 2200 UNI APROX"
+  },
+  {
+    "codigo": 9502,
+    "nombre": "TOALLA ELEGANTE PREMIUN X 2500 UNIDADES"
+  },
+  {
+    "codigo": 9364,
+    "nombre": "TOALLA EN ROLLO CELESTE X 200 MTS X 4"
+  },
+  {
+    "codigo": 8717,
+    "nombre": "TOALLA EN ROLLOS X 100 MTS"
+  },
+  {
+    "codigo": 8716,
+    "nombre": "TOALLA EN ROLLOS X 200 MTS X 1 ROLLOS"
+  },
+  {
+    "codigo": 8715,
+    "nombre": "TOALLA EN ROLLOS X 200 MTS X 1 ROLLOS"
+  },
+  {
+    "codigo": 8714,
+    "nombre": "TOALLA EN ROLLOS X 200 MTS X 4 ROLLOS LINEA D"
+  },
+  {
+    "codigo": 8713,
+    "nombre": "TOALLA INTERCALADA BLANCA DORADA X 2200 UNI"
+  },
+  {
+    "codigo": 8992,
+    "nombre": "TORTERA 22 CM. ALTA"
+  },
+  {
+    "codigo": 9004,
+    "nombre": "TORTERA 22 CM. ALTA * 120  UNI"
+  },
+  {
+    "codigo": 8991,
+    "nombre": "TORTERA 22 CM. BAJA"
+  },
+  {
+    "codigo": 9003,
+    "nombre": "TORTERA 22 CM. BAJA * 120  UNI"
+  },
+  {
+    "codigo": 8993,
+    "nombre": "TORTERA 26 CM. ALTA"
+  },
+  {
+    "codigo": 9001,
+    "nombre": "TORTERA 26 CM. ALTA * 50 UNI"
+  },
+  {
+    "codigo": 8994,
+    "nombre": "TORTERA 26 CM. BAJA"
+  },
+  {
+    "codigo": 9002,
+    "nombre": "TORTERA 26 CM. BAJA * 50 UNI"
+  },
+  {
+    "codigo": 8995,
+    "nombre": "TORTERA 28 CM."
+  },
+  {
+    "codigo": 9471,
+    "nombre": "TORTERA 28 CM.  * 80 UNI ALTA"
+  },
+  {
+    "codigo": 9000,
+    "nombre": "TORTERA 28 CM.  * 80 UNI BAJA"
+  },
+  {
+    "codigo": 8997,
+    "nombre": "TORTERA 32 CM. ALTA"
+  },
+  {
+    "codigo": 8998,
+    "nombre": "TORTERA 32 CM. ALTA * 50 UNI"
+  },
+  {
+    "codigo": 8996,
+    "nombre": "TORTERA 32 CM. BAJA"
+  },
+  {
+    "codigo": 8999,
+    "nombre": "TORTERA 32 CM. BAJA * 50 UNI"
+  },
+  {
+    "codigo": 9249,
+    "nombre": "ARTICULO NUEVO"
+  },
+  {
+    "codigo": 9272,
+    "nombre": "BANDEJA COSTILLA X 100 UNIDADES"
+  },
+  {
+    "codigo": 9271,
+    "nombre": "BANDEJA COSTILLAR"
+  },
+  {
+    "codigo": 9270,
+    "nombre": "BANDEJA SUSHI CHICA"
+  },
+  {
+    "codigo": 9273,
+    "nombre": "BANDEJA SUSHI GRANDE"
+  },
+  {
+    "codigo": 9274,
+    "nombre": "BANDEJA SUSHI GRANDE X 200 UNIDADES"
+  },
+  {
+    "codigo": 9612,
+    "nombre": "BARBIJO * 10 UNIDADES"
+  },
+  {
+    "codigo": 9355,
+    "nombre": "BOLSA PARA HIELO"
+  },
+  {
+    "codigo": 9146,
+    "nombre": "BOLSA PARA HORNO"
+  },
+  {
+    "codigo": 9149,
+    "nombre": "CALCULADORA"
+  },
+  {
+    "codigo": 9148,
+    "nombre": "CARTEL DOBLE HOJA MADERA"
+  },
+  {
+    "codigo": 9344,
+    "nombre": "CINTA PELIGRO"
+  },
+  {
+    "codigo": 9145,
+    "nombre": "COFIA * 100 UNIDADES"
+  },
+  {
+    "codigo": 9607,
+    "nombre": "COMPOTERA GRANDE * UNIDAD"
+  },
+  {
+    "codigo": 9177,
+    "nombre": "COMPOTERA GRANDE *450 UNIDADES"
+  },
+  {
+    "codigo": 9021,
+    "nombre": "CONSORCIO 60*90 INPLA BLANCO"
+  },
+  {
+    "codigo": 9275,
+    "nombre": "DETECTOR DE BILLETE"
+  },
+  {
+    "codigo": 9264,
+    "nombre": "EMBLOCADA 15*20 * 1000 UNIDADES"
+  },
+  {
+    "codigo": 9265,
+    "nombre": "EMBLOCADA 3040 * 1000 UNI"
+  },
+  {
+    "codigo": 9141,
+    "nombre": "EMBLOCADAS 15*20 X1000UNI"
+  },
+  {
+    "codigo": 9140,
+    "nombre": "EMBLOCADAS 15*20 X1000UNI"
+  },
+  {
+    "codigo": 9017,
+    "nombre": "ESCARBADIENTE BARRILITO 16 BARRILITOS"
+  },
+  {
+    "codigo": 9015,
+    "nombre": "ESCARBADIENTE X 3000 UNIDADES"
+  },
+  {
+    "codigo": 9016,
+    "nombre": "ESCARBADIENTE X 500 UNIDADES ENSOBRADO"
+  },
+  {
+    "codigo": 9020,
+    "nombre": "ESCARBADIENTES PARA COCKTAIL x 1.000 u."
+  },
+  {
+    "codigo": 9124,
+    "nombre": "ETIQUETA BALANZA"
+  },
+  {
+    "codigo": 9005,
+    "nombre": "FOLEX 20*25 ECO GUARDIAN-FLEX"
+  },
+  {
+    "codigo": 9006,
+    "nombre": "FOLEX 20*25 FLEX-GUARDIAN * 10 KG"
+  },
+  {
+    "codigo": 9008,
+    "nombre": "FOLEX 25*3525 SON BUENAS"
+  },
+  {
+    "codigo": 9007,
+    "nombre": "FOLEX 25*3525 SON BUEWNAS * 10 KG"
+  },
+  {
+    "codigo": 9013,
+    "nombre": "FOLEX INPLA 25*35 10KG"
+  },
+  {
+    "codigo": 9012,
+    "nombre": "FOLEX INPLA 25*35 KG"
+  },
+  {
+    "codigo": 9010,
+    "nombre": "FOLEX PATY * 10 KG"
+  },
+  {
+    "codigo": 9442,
+    "nombre": "FOLEX PATY * 500 UNIDADES"
+  },
+  {
+    "codigo": 9009,
+    "nombre": "FOLEX PATY * KG"
+  },
+  {
+    "codigo": 9014,
+    "nombre": "FOLEX SON BUENAS 20*25 10KG"
+  },
+  {
+    "codigo": 9011,
+    "nombre": "FOLEX SON BUENAS 20*25 KG"
+  },
+  {
+    "codigo": 9214,
+    "nombre": "FONDO PARA PIZZA"
+  },
+  {
+    "codigo": 9443,
+    "nombre": "FONDO PARA PIZZA * 10 KILOS"
+  },
+  {
+    "codigo": 9606,
+    "nombre": "FONDO PARA RAVIOLES"
+  },
+  {
+    "codigo": 9605,
+    "nombre": "FONDO PARA RAVIOLES * 10 KILOS"
+  },
+  {
+    "codigo": 9250,
+    "nombre": "GOMA EVA"
+  },
+  {
+    "codigo": 9251,
+    "nombre": "GOMA EVA CON GLITTER"
+  },
+  {
+    "codigo": 9218,
+    "nombre": "MANGA"
+  },
+  {
+    "codigo": 9147,
+    "nombre": "MANTELES INDIVIDUALES X 1000 UNI"
+  },
+  {
+    "codigo": 9215,
+    "nombre": "MANTELES PLASTICOS"
+  },
+  {
+    "codigo": 9539,
+    "nombre": "MAQUINA SOLDAR PLASTICO 20 cm"
+  },
+  {
+    "codigo": 9324,
+    "nombre": "MAQUINA SOLDAR PLASTICO 30 cm"
+  },
+  {
+    "codigo": 9312,
+    "nombre": "PALET ELEGANTE"
+  },
+  {
+    "codigo": 9133,
+    "nombre": "PALITO HELADO 50 UNI CBX"
+  },
+  {
+    "codigo": 9528,
+    "nombre": "PALITOS PARA BROCHETTE 15CM *80 UN"
+  },
+  {
+    "codigo": 9529,
+    "nombre": "PALITOS PARA BROCHETTE 20CM *90 UN"
+  },
+  {
+    "codigo": 9018,
+    "nombre": "PALITOS PARA BROCHETTE 25CM *90 UN"
+  },
+  {
+    "codigo": 9019,
+    "nombre": "PALITOSCHINOS X 100 UNI"
+  },
+  {
+    "codigo": 9167,
+    "nombre": "PAPEL HAMBURGUESA"
+  },
+  {
+    "codigo": 9598,
+    "nombre": "PAPEL HAMBURGUESA KG"
+  },
+  {
+    "codigo": 9199,
+    "nombre": "papel metalizado x unidae"
+  },
+  {
+    "codigo": 9168,
+    "nombre": "PEGASOLA"
+  },
+  {
+    "codigo": 9327,
+    "nombre": "PISTOLA CHICA"
+  },
+  {
+    "codigo": 9488,
+    "nombre": "PISTOLA TAG"
+  },
+  {
+    "codigo": 9377,
+    "nombre": "PIZARRA CHICA"
+  },
+  {
+    "codigo": 9610,
+    "nombre": "PLURIBOL X 25 MTS"
+  },
+  {
+    "codigo": 9150,
+    "nombre": "PLURIBOL X 50 MTS"
+  },
+  {
+    "codigo": 9142,
+    "nombre": "PORTA CINTA 30/60"
+  },
+  {
+    "codigo": 9460,
+    "nombre": "PORTA PANCHO *200 UNIDADES"
+  },
+  {
+    "codigo": 9119,
+    "nombre": "precinto 9 cm"
+  },
+  {
+    "codigo": 9551,
+    "nombre": "REJILLA *"
+  },
+  {
+    "codigo": 9489,
+    "nombre": "REPUESTO TAG *5000 UNIDADES"
+  },
+  {
+    "codigo": 9211,
+    "nombre": "RESISTENCIA DE 30 CM"
+  },
+  {
+    "codigo": 9128,
+    "nombre": "ROLLO DE NUMERO"
+  },
+  {
+    "codigo": 9530,
+    "nombre": "SILICONA CBX *100 ML"
+  },
+  {
+    "codigo": 9531,
+    "nombre": "SILICONA CBX *30 ML"
+  },
+  {
+    "codigo": 9129,
+    "nombre": "STRECH 48"
+  },
+  {
+    "codigo": 9436,
+    "nombre": "STRECH 48 X CAJA"
+  },
+  {
+    "codigo": 9603,
+    "nombre": "STRECH CHICO 10 CM *UNIDAD"
+  },
+  {
+    "codigo": 9437,
+    "nombre": "Strech Chico de 10 cm x Caja"
+  },
+  {
+    "codigo": 9173,
+    "nombre": "STRECH CHICO NEGRO 10 CM *UNIDAD"
+  },
+  {
+    "codigo": 9604,
+    "nombre": "STRECHT 48 NEGRO X KG"
+  },
+  {
+    "codigo": 9268,
+    "nombre": "SUSHI CHICO COTNYL X 250 UNI"
+  },
+  {
+    "codigo": 9269,
+    "nombre": "SUSHI GRANDE X 200 UNIDADES"
+  },
+  {
+    "codigo": 9210,
+    "nombre": "TEFLON DE 20 CM *3 UNIDADES"
+  },
+  {
+    "codigo": 9204,
+    "nombre": "TERMO"
+  },
+  {
+    "codigo": 9135,
+    "nombre": "TINTA MOTEX"
+  },
+  {
+    "codigo": 9134,
+    "nombre": "TRIPODE"
+  },
+  {
+    "codigo": 9138,
+    "nombre": "TRIPODE X 10 KG"
+  },
+  {
+    "codigo": 9447,
+    "nombre": "TAPA VASO MILK SHAKE * 1000 UNIDADES"
+  },
+  {
+    "codigo": 9446,
+    "nombre": "TAPA VASO MILK SHAKE * 50 UNIDADES"
+  },
+  {
+    "codigo": 9496,
+    "nombre": "VASO 180 BIODEGRADABLE * 2500 UNIDADES"
+  },
+  {
+    "codigo": 9445,
+    "nombre": "VASO MILK SHAKE * 1000 UNIDADES IMPRESO"
+  },
+  {
+    "codigo": 9444,
+    "nombre": "VASO MILK SHAKE * 50 UNIDADES IMPRESO"
+  },
+  {
+    "codigo": 9448,
+    "nombre": "VASO NEON * 25 UNIDADES"
+  },
+  {
+    "codigo": 9449,
+    "nombre": "VASO NEON * 500 UNIDADES"
+  },
+  {
+    "codigo": 9497,
+    "nombre": "VASO PLASTICO 180 BIODEGRADABLE * 100 UNIDAD"
+  },
+  {
+    "codigo": 9498,
+    "nombre": "VASO PLASTICO 220 BIODEGRADABLE * 100 UNIDAD"
+  },
+  {
+    "codigo": 9499,
+    "nombre": "VASO PLASTICO 220 BIODEGRADABLE * 2500 UNIDA"
+  },
+  {
+    "codigo": 9490,
+    "nombre": "VASOS BIODEGRADABLE *180 CC *100 UNIDADES"
+  },
+  {
+    "codigo": 9491,
+    "nombre": "VASOS BIODEGRADABLE *180 CC *2500 UNIDADES"
+  },
+  {
+    "codigo": 9492,
+    "nombre": "VASOS BIODEGRADABLE *200 CC *100 UNIDADES"
+  },
+  {
+    "codigo": 9493,
+    "nombre": "VASOS BIODEGRADABLE *200 CC *2500 UNIDADES"
+  },
+  {
+    "codigo": 9495,
+    "nombre": "VASOS BIODEGRADABLE *300 CC *100 UNIDADES"
+  },
+  {
+    "codigo": 9494,
+    "nombre": "VASOS BIODEGRADABLE *300 CC *2000 UNIDADES"
+  },
+  {
+    "codigo": 9037,
+    "nombre": "VASOS PLASTICO 1000"
+  },
+  {
+    "codigo": 9038,
+    "nombre": "VASOS PLASTICO 1000 * 750"
+  },
+  {
+    "codigo": 9031,
+    "nombre": "VASOS PLASTICO 110 * 100 UNI"
+  },
+  {
+    "codigo": 9044,
+    "nombre": "VASOS PLASTICO 110 * 4000 UNI"
+  },
+  {
+    "codigo": 9032,
+    "nombre": "VASOS PLASTICO 165 * 100 UNI"
+  },
+  {
+    "codigo": 9043,
+    "nombre": "VASOS PLASTICO 165 * 3000 UNI"
+  },
+  {
+    "codigo": 9033,
+    "nombre": "VASOS PLASTICO 180 * 100 UNI"
+  },
+  {
+    "codigo": 9042,
+    "nombre": "VASOS PLASTICO 180 * 3000 UNI"
+  },
+  {
+    "codigo": 9034,
+    "nombre": "VASOS PLASTICO 220 * 100 UNI"
+  },
+  {
+    "codigo": 9041,
+    "nombre": "VASOS PLASTICO 220 * 3000 UNI"
+  },
+  {
+    "codigo": 9035,
+    "nombre": "VASOS PLASTICO 300 * 100 UNI"
+  },
+  {
+    "codigo": 9040,
+    "nombre": "VASOS PLASTICO 300 * 2400 UNI"
+  },
+  {
+    "codigo": 9039,
+    "nombre": "VASOS PLASTICO 500 * 1000 UNI"
+  },
+  {
+    "codigo": 9036,
+    "nombre": "VASOS PLASTICO 500 * 50 UNI"
+  },
+  {
+    "codigo": 9242,
+    "nombre": "PORTA VASO DOBLE"
+  },
+  {
+    "codigo": 9055,
+    "nombre": "TAPA 120 X 100 UNI"
+  },
+  {
+    "codigo": 9062,
+    "nombre": "TAPA 120 X 1000 UNI"
+  },
+  {
+    "codigo": 9056,
+    "nombre": "TAPA 180 X 100 UNI"
+  },
+  {
+    "codigo": 9061,
+    "nombre": "TAPA 180 X 1000 UNI"
+  },
+  {
+    "codigo": 9060,
+    "nombre": "TAPA 240  X 1000 UNI"
+  },
+  {
+    "codigo": 9456,
+    "nombre": "TAPA 240 CON PICO * 100 UNI"
+  },
+  {
+    "codigo": 9457,
+    "nombre": "TAPA 240 CON PICO * 1000 UNI"
+  },
+  {
+    "codigo": 9300,
+    "nombre": "TAPA 240 CON PICO X 100 UNI"
+  },
+  {
+    "codigo": 9057,
+    "nombre": "TAPA 240 X 100 UNI"
+  },
+  {
+    "codigo": 9058,
+    "nombre": "TAPA 300  X 100 UNI"
+  },
+  {
+    "codigo": 9059,
+    "nombre": "TAPA 300  X 1000 UNI"
+  },
+  {
+    "codigo": 9503,
+    "nombre": "TAPA 300 CON PICO * 100 UNI"
+  },
+  {
+    "codigo": 9523,
+    "nombre": "TAPA VASO POLIPAPEL NEGRO/BLANCO * 100"
+  },
+  {
+    "codigo": 9521,
+    "nombre": "VASO POLIPAPEL * 50 UNIDADES BLANCO"
+  },
+  {
+    "codigo": 9522,
+    "nombre": "VASO POLIPAPEL * 50 UNIDADES COLORES"
+  },
+  {
+    "codigo": 9477,
+    "nombre": "VASO POLIPAPEL 360 * 100 UNIDADES"
+  },
+  {
+    "codigo": 9478,
+    "nombre": "VASO POLIPAPEL 360 * 1000 UNIDADES"
+  },
+  {
+    "codigo": 9476,
+    "nombre": "VASO POLIPAPEL CAFE 240 * 100 UNIDADES"
+  },
+  {
+    "codigo": 9475,
+    "nombre": "VASO POLIPAPEL CAFE 240 * 1000 UNIDADES"
+  },
+  {
+    "codigo": 9527,
+    "nombre": "VASO POLIPAPEL EMOTICON 360CC *100 UNIDADES"
+  },
+  {
+    "codigo": 9063,
+    "nombre": "VASO TELGOPOR 120 c.c. \" DART \" x 1000 u."
+  },
+  {
+    "codigo": 9045,
+    "nombre": "VASO TELGOPOR 120 c.c. \" DART \" x 25."
+  },
+  {
+    "codigo": 9054,
+    "nombre": "VASO TELGOPOR 120c.c. \" DART \" x 100"
+  },
+  {
+    "codigo": 9053,
+    "nombre": "VASO TELGOPOR 165 c.c. \" DART \" x 100"
+  },
+  {
+    "codigo": 9064,
+    "nombre": "VASO TELGOPOR 165 c.c. \" DART \" x 1000 u."
+  },
+  {
+    "codigo": 9046,
+    "nombre": "VASO TELGOPOR 165 c.c. \" DART \" x 25."
+  },
+  {
+    "codigo": 9052,
+    "nombre": "VASO TELGOPOR 180 c.c. \" DART \" x 100"
+  },
+  {
+    "codigo": 9065,
+    "nombre": "VASO TELGOPOR 180 c.c. \" DART \" x 1000 u."
+  },
+  {
+    "codigo": 9047,
+    "nombre": "VASO TELGOPOR 180c.c. \" DART \" x 25."
+  },
+  {
+    "codigo": 9051,
+    "nombre": "VASO TELGOPOR 240 c.c. \" DART \" x 100"
+  },
+  {
+    "codigo": 9066,
+    "nombre": "VASO TELGOPOR 240 c.c. \" DART \" x 1000 u."
+  },
+  {
+    "codigo": 9048,
+    "nombre": "VASO TELGOPOR 240c.c. \" DART \" x 25."
+  },
+  {
+    "codigo": 9050,
+    "nombre": "VASO TELGOPOR 300 c.c. \" DART \" x 100"
+  },
+  {
+    "codigo": 9067,
+    "nombre": "VASO TELGOPOR 300 c.c. \" DART \" x 1000 u."
+  },
+  {
+    "codigo": 9049,
+    "nombre": "VASO TELGOPOR 300 c.c. \" DART \" x 25."
+  },
+  {
+    "codigo": 9392,
+    "nombre": "VASO TERMICO 240 STREET"
+  },
+  {
+    "codigo": 9393,
+    "nombre": "VASO TERMICO 240 STREET * 1000 UNIDADES"
+  },
+  {
+    "codigo": 9395,
+    "nombre": "VASO TERMICO 360 STREET X 100"
+  },
+  {
+    "codigo": 9396,
+    "nombre": "VASO TERMICO 360 STREET X 1000"
+  },
+  {
+    "codigo": 9094,
+    "nombre": "COPA DANUBIO"
+  },
+  {
+    "codigo": 9095,
+    "nombre": "COPA DANUBIO * 156"
+  },
+  {
+    "codigo": 9406,
+    "nombre": "COPA MINI DANUBIO"
+  },
+  {
+    "codigo": 9311,
+    "nombre": "COPA NANCY"
+  },
+  {
+    "codigo": 9096,
+    "nombre": "COPA NANCY * 100 UNI"
+  },
+  {
+    "codigo": 9097,
+    "nombre": "COPA SIDRA"
+  },
+  {
+    "codigo": 9099,
+    "nombre": "COPA SIDRA * 180 UNI"
+  },
+  {
+    "codigo": 9100,
+    "nombre": "COPON ATLANTICA “PLASTIVAS”"
+  },
+  {
+    "codigo": 9101,
+    "nombre": "COPON ATLANTICA “PLASTIVAS” * 780"
+  },
+  {
+    "codigo": 9102,
+    "nombre": "COPON VENECIA"
+  },
+  {
+    "codigo": 9103,
+    "nombre": "COPON VENECIA * 552"
+  },
+  {
+    "codigo": 9082,
+    "nombre": "FRAPPE TRASLUCIDO \"MILANO\" 370 c.c."
+  },
+  {
+    "codigo": 9083,
+    "nombre": "FRAPPE TRASLUCIDO \"MILANO\" 370 c.c.  * 800"
+  },
+  {
+    "codigo": 9081,
+    "nombre": "FRAPPE TRASLUCIDO \"TOLEDO\" 325 c.c."
+  },
+  {
+    "codigo": 9080,
+    "nombre": "FRAPPE TRASLUCIDO \"TOLEDO\" 325 c.c."
+  },
+  {
+    "codigo": 9358,
+    "nombre": "MINI COPA DANUBIO"
+  },
+  {
+    "codigo": 9084,
+    "nombre": "TAPA FRAPPE\"TOLEDO/MILANO\" CON ABERTURA"
+  },
+  {
+    "codigo": 9085,
+    "nombre": "TAPA FRAPPE\"TOLEDO/MILANO\" CON ABERTURA * 8"
+  },
+  {
+    "codigo": 9334,
+    "nombre": "VASO 100 BOYANO"
+  },
+  {
+    "codigo": 9106,
+    "nombre": "VASO CARIBE"
+  },
+  {
+    "codigo": 9107,
+    "nombre": "VASO CARIBE * 12 UNI"
+  },
+  {
+    "codigo": 9078,
+    "nombre": "VASO COLA 300 c.c. \" BOYANO "
+  },
+  {
+    "codigo": 9079,
+    "nombre": "VASO COLA 300 c.c. \" BOYANO \" * 126 UNI"
+  },
+  {
+    "codigo": 9307,
+    "nombre": "VASO COLA CRISTAL 300 c.c. \" BOYANO \" * 126 UNI"
+  },
+  {
+    "codigo": 9075,
+    "nombre": "VASO CONICO P.P. 300 c.c. CRISTAL"
+  },
+  {
+    "codigo": 9074,
+    "nombre": "VASO CONICO P.P. 300 c.c. CRISTAL * 400 UNI"
+  },
+  {
+    "codigo": 9072,
+    "nombre": "VASO CONICO P.P. 300 c.c. NATURAL"
+  },
+  {
+    "codigo": 9073,
+    "nombre": "VASO CONICO P.P. 300 c.c. NATURAL * 400 UNI"
+  },
+  {
+    "codigo": 9076,
+    "nombre": "VASO IMPERIAL 350 c.c. \" BOYANO "
+  },
+  {
+    "codigo": 9077,
+    "nombre": "VASO IMPERIAL 350 c.c. \" BOYANO \" * 60 UNI"
+  },
+  {
+    "codigo": 9104,
+    "nombre": "VASO MARGARITA"
+  },
+  {
+    "codigo": 9105,
+    "nombre": "VASO MARGARITA * 20 UNI"
+  },
+  {
+    "codigo": 9068,
+    "nombre": "VASO PARA TEQUILA"
+  },
+  {
+    "codigo": 9069,
+    "nombre": "VASO PARA TEQUILA * 1500 UNI"
+  },
+  {
+    "codigo": 9092,
+    "nombre": "VASO PARA WHISKY  CRISTAL"
+  },
+  {
+    "codigo": 9093,
+    "nombre": "VASO PARA WHISKY  CRISTAL * 260"
+  },
+  {
+    "codigo": 9070,
+    "nombre": "VASO TOC-TOC"
+  },
+  {
+    "codigo": 9071,
+    "nombre": "VASO TOC-TOC * 100 UNI"
+  },
+  {
+    "codigo": 9090,
+    "nombre": "VASO TRAGO LARGO CRISTAL"
+  },
+  {
+    "codigo": 9091,
+    "nombre": "VASO TRAGO LARGO CRISTAL * 250 UNI"
+  },
+  {
+    "codigo": 9086,
+    "nombre": "VASO TRAGO LARGO PP COLOR"
+  },
+  {
+    "codigo": 9089,
+    "nombre": "VASO TRAGO LARGO PP COLOR * 250"
+  },
+  {
+    "codigo": 9087,
+    "nombre": "VASO TRAGO LARGO PP TRALUCIDO"
+  },
+  {
+    "codigo": 9088,
+    "nombre": "VASO TRAGO LARGO PP TRALUCIDO * 250"
+  },
+  {
+    "codigo": 9369,
+    "nombre": "VASO WISKI"
+  }
+]
