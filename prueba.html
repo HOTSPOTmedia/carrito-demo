@@ -26,80 +26,43 @@
 
 </head>
   <body>
-<thead class=""><tr><th aria-colindex="1" class=""><b>Is Active</b> <select class="form-control form-control-sm"><option value="">--</option> <option value="true">true</option><option value="false">false</option></select></th><th aria-colindex="2" class=""><b>Age</b> <select class="form-control form-control-sm"><option value="">--</option> <option value="40">40</option><option value="42">42</option><option value="21">21</option><option value="89">89</option><option value="38">38</option></select></th><th aria-colindex="3" class=""><b>First Name</b> <select class="form-control form-control-sm"><option value="">--</option> <option value="Dickerson">Dickerson</option><option value="Robert">Robert</option><option value="Larsen">Larsen</option><option value="Geneva">Geneva</option><option value="Jami">Jami</option></select></th><th aria-colindex="4" class=""><b>Last Name</b> <select class="form-control form-control-sm"><option value="">--</option> <option value="Macdonald">Macdonald</option><option value="Shaw">Shaw</option><option value="Wilson">Wilson</option><option value="Carney">Carney</option></select></th></tr></thead>
+//<link type="text/css" rel="stylesheet" href="//unpkg.com/bootstrap/dist/css/bootstrap.min.css"/><link type="text/css" rel="stylesheet" href="//unpkg.com/bootstrap-vue@latest/dist/bootstrap-vue.css"/><script src="https://cdn.jsdelivr.net/npm/vue@2.5.17/dist/vue.min.js"></script><script src="//unpkg.com/babel-polyfill@latest/dist/polyfill.min.js"></script><script src="//unpkg.com/bootstrap-vue@latest/dist/bootstrap-vue.js"></script>
 
-<div id='app'>
-  <b-table :items="filteredItems">
-    <template :slot="`HEAD_${ key }`" v-for="key in fieldKeys" slot-scope="data">
-      <b>{{ data.label }}</b>
-      <select class="form-control form-control-sm" @click.stop.prevent v-model="selectVal[key]">
-			<option :value="undefined">--</option>
-			<option :value="option" v-for="option in options[key]" :key="option">{{ option }}</option>
-		</select>
-    </template>
-  </b-table>
+<div id="app">
+<b-table striped show-empty :items="filtered">
+  <template slot="top-row" slot-scope="{ fields }">
+    <td v-for="field in fields" :key="field.key">
+      <input v-model="filters[field.key]" :placeholder="field.label">
+    </td>
+  </template>
+</b-table>
 </div>
 
 <script>
 new Vue({
-  el: "#app",
-  computed: {
-    filteredItems() {
-      return this.items.filter(item => {
-        let keep = true;
-
-        // This is a basic equality filter. What I did in the actual code was to have an object with filter functions for each key. If a key was missing, it defaulted to straight equality.
-        this.fieldKeys.forEach(key => {
-          keep =
-          keep && (
-          this.selectVal[key] === undefined ||
-          item[key] === this.selectVal[key]);
-        });
-
-        return keep;
-      });
-    },
-    fieldKeys() {
-      return Object.keys(this.items[0]);
-    },
-    options() {
-      // This could be simplified if the select was it's own component.
-      const options = {};
-      this.fieldKeys.forEach(key => {
-        const vals = this.items.map(item => item[key]);
-
-        // Cheap and efficient unique.
-        options[key] = Array.from(new Set(vals));
-      });
-
-      return options;
-    } },
-
+  el: '#app',
   data: {
-    items: [
-    {
-      isActive: true,
-      age: 40,
-      first_name: "Dickerson",
-      last_name: "Macdonald" },
-
-    {
-      isActive: true,
-      age: 42,
-      first_name: "Robert",
-      last_name: "Macdonald" },
-
-    { isActive: false, age: 21, first_name: "Larsen", last_name: "Shaw" },
-    { isActive: false, age: 89, first_name: "Geneva", last_name: "Wilson" },
-    { isActive: true, age: 38, first_name: "Jami", last_name: "Carney" }],
-
-
-    // This is much simpler if the select is it's own component.
-    selectVal: {
-      isActive: undefined,
-      age: undefined,
-      first_name: undefined,
-      last_name: undefined } } });
+    filters: {
+      id: '',
+      issuedBy: '',
+      issuedTo: ''
+    },
+    items: [{id:1234,issuedBy:'Operator',issuedTo:'abcd-efgh'},{id:5678,issuedBy:'User',issuedTo:'ijkl-mnop'}]
+  },
+  computed: {
+    filtered () {
+      const filtered = this.items.filter(item => {
+        return Object.keys(this.filters).every(key =>
+            String(item[key]).includes(this.filters[key]))
+      })
+      return filtered.length > 0 ? filtered : [{
+        id: '',
+        issuedBy: '',
+        issuedTo: ''
+      }]
+    }
+  }
+})
 </script>
 	</body>
 	
