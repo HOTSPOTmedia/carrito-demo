@@ -1,0 +1,76 @@
+<div id='app'>
+  <b-table :items="filteredItems">
+    <template :slot="`HEAD_${ key }`" v-for="key in fieldKeys" slot-scope="data">
+      <b>{{ data.label }}</b>
+      <select class="form-control form-control-sm" @click.stop.prevent v-model="selectVal[key]">
+			<option :value="undefined">--</option>
+			<option :value="option" v-for="option in options[key]" :key="option">{{ option }}</option>
+		</select>
+    </template>
+  </b-table>
+</div>
+
+<script>
+new Vue({
+  el: "#app",
+  computed: {
+    filteredItems() {
+      return this.items.filter(item => {
+        let keep = true;
+        
+        // This is a basic equality filter. What I did in the actual code was to have an object with filter functions for each key. If a key was missing, it defaulted to straight equality.
+        this.fieldKeys.forEach(key => {
+          keep =
+            keep &&
+            (this.selectVal[key] === undefined ||
+              item[key] === this.selectVal[key]);
+        });
+
+        return keep;
+      });
+    },
+    fieldKeys() {
+      return Object.keys(this.items[0]);
+    },
+    options() {
+      // This could be simplified if the select was it's own component.
+      const options = {};
+      this.fieldKeys.forEach(key => {
+        const vals = this.items.map(item => item[key]);
+
+        // Cheap and efficient unique.
+        options[key] = Array.from(new Set(vals));
+      });
+
+      return options;
+    }
+  },
+  data: {
+    items: [
+      {
+        isActive: true,
+        age: 40,
+        first_name: "Dickerson",
+        last_name: "Macdonald"
+      },
+      {
+        isActive: true,
+        age: 42,
+        first_name: "Robert",
+        last_name: "Macdonald"
+      },
+      { isActive: false, age: 21, first_name: "Larsen", last_name: "Shaw" },
+      { isActive: false, age: 89, first_name: "Geneva", last_name: "Wilson" },
+      { isActive: true, age: 38, first_name: "Jami", last_name: "Carney" }
+    ],
+    
+    // This is much simpler if the select is it's own component.
+    selectVal: {
+      isActive: undefined,
+      age: undefined,
+      first_name: undefined,
+      last_name: undefined
+    }
+  }
+});
+</script>
