@@ -47,13 +47,13 @@ new Vue({
     filteredItems() {
       return this.items.filter(item => {
         let keep = true;
-        
+
         // This is a basic equality filter. What I did in the actual code was to have an object with filter functions for each key. If a key was missing, it defaulted to straight equality.
         this.fieldKeys.forEach(key => {
           keep =
-            keep &&
-            (this.selectVal[key] === undefined ||
-              item[key] === this.selectVal[key]);
+          keep && (
+          this.selectVal[key] === undefined ||
+          item[key] === this.selectVal[key]);
         });
 
         return keep;
@@ -73,36 +73,33 @@ new Vue({
       });
 
       return options;
-    }
-  },
+    } },
+
   data: {
     items: [
-      {
-        isActive: true,
-        age: 40,
-        first_name: "Dickerson",
-        last_name: "Macdonald"
-      },
-      {
-        isActive: true,
-        age: 42,
-        first_name: "Robert",
-        last_name: "Macdonald"
-      },
-      { isActive: false, age: 21, first_name: "Larsen", last_name: "Shaw" },
-      { isActive: false, age: 89, first_name: "Geneva", last_name: "Wilson" },
-      { isActive: true, age: 38, first_name: "Jami", last_name: "Carney" }
-    ],
-    
+    {
+      isActive: true,
+      age: 40,
+      first_name: "Dickerson",
+      last_name: "Macdonald" },
+
+    {
+      isActive: true,
+      age: 42,
+      first_name: "Robert",
+      last_name: "Macdonald" },
+
+    { isActive: false, age: 21, first_name: "Larsen", last_name: "Shaw" },
+    { isActive: false, age: 89, first_name: "Geneva", last_name: "Wilson" },
+    { isActive: true, age: 38, first_name: "Jami", last_name: "Carney" }],
+
+
     // This is much simpler if the select is it's own component.
     selectVal: {
       isActive: undefined,
       age: undefined,
       first_name: undefined,
-      last_name: undefined
-    }
-  }
-});
+      last_name: undefined } } });
 </script>
 	</body>
 	
